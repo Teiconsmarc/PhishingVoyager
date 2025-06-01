@@ -10,6 +10,7 @@ import ollama
 import requests
 import random
 import base64
+import pandas as pd
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -21,6 +22,7 @@ from google import genai
 from google.genai import types
 from settings import settings
 from questions import QUESTIONS
+from sklearn.metrics import classification_report, confusion_matrix
 
 from utils import (
     get_web_element_rect,
@@ -79,6 +81,14 @@ class PhishingDomainVoyager():
         logger.addHandler(handler)
         logger.setLevel(logging.INFO)
 
+    def normalize_label(self, label):
+        label = label.strip().lower()
+        if label in ["benign", "legitimate", "safe", "not phishing"]:
+            return 0
+        elif label in ["phishing", "malicious", "suspicious", "fraud"]:
+            return 1
+        else:
+            return None
 
     def driver_config(self):
         options = webdriver.ChromeOptions()
@@ -446,15 +456,18 @@ class PhishingDomainVoyager():
     def agent_execution(self):
 
         #If we need to update the phishing database
-        if self.load_last_update():
-            domain_sites = self.get_phish_tank_database()
+        #if self.load_last_update():
+        #    domain_sites = self.get_phish_tank_database()
         
-        self.get_random_phishing_sites()
+        #self.get_random_phishing_sites()
 
         # Save Result file
         current_time = time.strftime("%Y%m%d_%H_%M_%S", time.localtime())
         result_dir = os.path.join(self.output_dir, current_time)
         os.makedirs(result_dir, exist_ok=True)
+
+        #Result lists for the metrics' calcualtion
+        results = []
 
         # Load tasks
         tasks = []
@@ -696,12 +709,22 @@ class PhishingDomainVoyager():
                         self.write_answer(chosen_action, it, question_answer_dir)
                         if it == 11:
                             logging.info('finished!!')
+                            predicted = self.normalize_label(chosen_action)
+                            true_label = self.normalize_label(task["label"])
+
+                            if predicted is not None and true_label is not None:
+                                results.append({
+                                    "id": task["id"],
+                                    "web": task["web"],
+                                    "predicted": predicted,
+                                    "label": true_label
+                                })
+                            else:
+                                logging.warning(f"Predicted label '{predicted}' not valid for {task['id']}")
                             break
                         it += 1
                         number_of_actions_per_question = 0
                         driver_task.get(task['web'])
-                        #logging.info('finish!!')
-                        #break
 
                     else:
                         raise NotImplementedError
@@ -729,8 +752,27 @@ class PhishingDomainVoyager():
                 + "\n    Model:      " + self.api_model \
                 + "\n    Method:     " + self.method
             )
-            driver_task.quit()
-            return messages
+        driver_task.quit()
+        if results:
+            y_true = [r["label"] for r in results]
+            y_pred = [r["predicted"] for r in results]
+
+            logging.info("=== Model performance ===")
+            report = classification_report(y_true, y_pred, target_names=["benign", "phishing"])
+            logging.info("\n" + report)
+
+            matrix = confusion_matrix(y_true, y_pred)
+            logging.info("Confusion matrix:")
+            logging.info(matrix)
+            with open("confusion_matrix.json", "w") as f:
+                json.dump(matrix.tolist(), f, indent=2)
+
+            df = pd.DataFrame(results)
+            df.to_csv(f"results_{self.api_model}_{self.provider}.csv", index=False)
+        else:
+            logging.warning("No metrics available")
+
+        return
         
 
 if __name__ == '__main__':
