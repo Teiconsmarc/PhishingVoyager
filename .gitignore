@@ -1,0 +1,10 @@
+# Ignorar carpetas de resultados
+results/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar otros posibles archivos temporales
+*.log
+*.tmp
