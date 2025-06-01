@@ -1,0 +1,6002 @@
+[
+  {
+    "web_name": "task-0",
+    "id": "task--0",
+    "web": "https://mail.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-2",
+    "id": "task--2",
+    "web": "https://facebook.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-3",
+    "id": "task--3",
+    "web": "https://apple.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-5",
+    "id": "task--5",
+    "web": "https://dzen.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-6",
+    "id": "task--6",
+    "web": "https://youtube.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-8",
+    "id": "task--8",
+    "web": "https://cloudflare.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-10",
+    "id": "task--10",
+    "web": "https://instagram.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-13",
+    "id": "task--13",
+    "web": "https://office.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-16",
+    "id": "task--16",
+    "web": "https://linkedin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-21",
+    "id": "task--21",
+    "web": "https://fbcdn.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-23",
+    "id": "task--23",
+    "web": "https://workers.dev",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-26",
+    "id": "task--26",
+    "web": "https://amazon.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-27",
+    "id": "task--27",
+    "web": "https://wikipedia.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-30",
+    "id": "task--30",
+    "web": "https://doubleclick.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-33",
+    "id": "task--33",
+    "web": "https://github.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-36",
+    "id": "task--36",
+    "web": "https://fastly.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-37",
+    "id": "task--37",
+    "web": "https://icloud.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-39",
+    "id": "task--39",
+    "web": "https://whatsapp.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-40",
+    "id": "task--40",
+    "web": "https://wordpress.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-42",
+    "id": "task--42",
+    "web": "https://youtu.be",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-43",
+    "id": "task--43",
+    "web": "https://bing.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-44",
+    "id": "task--44",
+    "web": "https://netflix.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-45",
+    "id": "task--45",
+    "web": "https://pinterest.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-47",
+    "id": "task--47",
+    "web": "https://digicert.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-48",
+    "id": "task--48",
+    "web": "https://yahoo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-52",
+    "id": "task--52",
+    "web": "https://googlesyndication.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-56",
+    "id": "task--56",
+    "web": "https://whatsapp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-57",
+    "id": "task--57",
+    "web": "https://goo.gl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-61",
+    "id": "task--61",
+    "web": "https://roblox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-62",
+    "id": "task--62",
+    "web": "https://spotify.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-65",
+    "id": "task--65",
+    "web": "https://msn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-67",
+    "id": "task--67",
+    "web": "https://bit.ly",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-68",
+    "id": "task--68",
+    "web": "https://google-analytics.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-69",
+    "id": "task--69",
+    "web": "https://tiktok.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-77",
+    "id": "task--77",
+    "web": "https://wordpress.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-78",
+    "id": "task--78",
+    "web": "https://zoom.us",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-80",
+    "id": "task--80",
+    "web": "https://ntp.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-81",
+    "id": "task--81",
+    "web": "https://mozilla.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-85",
+    "id": "task--85",
+    "web": "https://opera.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-86",
+    "id": "task--86",
+    "web": "https://snapchat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-87",
+    "id": "task--87",
+    "web": "https://qq.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-88",
+    "id": "task--88",
+    "web": "https://nic.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-89",
+    "id": "task--89",
+    "web": "https://yandex.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-90",
+    "id": "task--90",
+    "web": "https://gandi.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-92",
+    "id": "task--92",
+    "web": "https://blogspot.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-93",
+    "id": "task--93",
+    "web": "https://unity3d.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-96",
+    "id": "task--96",
+    "web": "https://samsung.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-99",
+    "id": "task--99",
+    "web": "https://baidu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-101",
+    "id": "task--101",
+    "web": "https://reddit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-105",
+    "id": "task--105",
+    "web": "https://intuit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-106",
+    "id": "task--106",
+    "web": "https://sentry.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-107",
+    "id": "task--107",
+    "web": "https://googledomains.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-108",
+    "id": "task--108",
+    "web": "https://nginx.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-109",
+    "id": "task--109",
+    "web": "https://cloudflare-dns.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-110",
+    "id": "task--110",
+    "web": "https://vk.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-113",
+    "id": "task--113",
+    "web": "https://nginx.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-114",
+    "id": "task--114",
+    "web": "https://t.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-116",
+    "id": "task--116",
+    "web": "https://criteo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-117",
+    "id": "task--117",
+    "web": "https://wa.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-118",
+    "id": "task--118",
+    "web": "https://europa.eu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-119",
+    "id": "task--119",
+    "web": "https://gravatar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-120",
+    "id": "task--120",
+    "web": "https://telekom.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-121",
+    "id": "task--121",
+    "web": "https://apache.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-123",
+    "id": "task--123",
+    "web": "https://applovin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-124",
+    "id": "task--124",
+    "web": "https://github.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-126",
+    "id": "task--126",
+    "web": "https://dropbox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-127",
+    "id": "task--127",
+    "web": "https://nist.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-129",
+    "id": "task--129",
+    "web": "https://nih.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-130",
+    "id": "task--130",
+    "web": "https://tumblr.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-131",
+    "id": "task--131",
+    "web": "https://userapi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-134",
+    "id": "task--134",
+    "web": "https://ui.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-136",
+    "id": "task--136",
+    "web": "https://lencr.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-138",
+    "id": "task--138",
+    "web": "https://xiaomi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-139",
+    "id": "task--139",
+    "web": "https://nytimes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-143",
+    "id": "task--143",
+    "web": "https://archive.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-145",
+    "id": "task--145",
+    "web": "https://paypal.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-146",
+    "id": "task--146",
+    "web": "https://one.one",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-149",
+    "id": "task--149",
+    "web": "https://dns.google",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-150",
+    "id": "task--150",
+    "web": "https://rubiconproject.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-152",
+    "id": "task--152",
+    "web": "https://myfritz.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-154",
+    "id": "task--154",
+    "web": "https://adriver.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-156",
+    "id": "task--156",
+    "web": "https://flickr.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-157",
+    "id": "task--157",
+    "web": "https://pki.goog",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-159",
+    "id": "task--159",
+    "web": "https://meraki.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-160",
+    "id": "task--160",
+    "web": "https://imgsmail.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-161",
+    "id": "task--161",
+    "web": "https://cnn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-162",
+    "id": "task--162",
+    "web": "https://casalemedia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-163",
+    "id": "task--163",
+    "web": "https://medium.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-164",
+    "id": "task--164",
+    "web": "https://example.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-166",
+    "id": "task--166",
+    "web": "https://mzstatic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-167",
+    "id": "task--167",
+    "web": "https://yandex.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-168",
+    "id": "task--168",
+    "web": "https://forbes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-170",
+    "id": "task--170",
+    "web": "https://soundcloud.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-171",
+    "id": "task--171",
+    "web": "https://kaspersky.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-172",
+    "id": "task--172",
+    "web": "https://discord.gg",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-174",
+    "id": "task--174",
+    "web": "https://doubleverify.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-177",
+    "id": "task--177",
+    "web": "https://theguardian.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-178",
+    "id": "task--178",
+    "web": "https://w3.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-179",
+    "id": "task--179",
+    "web": "https://t.co",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-180",
+    "id": "task--180",
+    "web": "https://adobe.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-181",
+    "id": "task--181",
+    "web": "https://att.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-183",
+    "id": "task--183",
+    "web": "https://taboola.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-185",
+    "id": "task--185",
+    "web": "https://ebay.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-186",
+    "id": "task--186",
+    "web": "https://amazonvideo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-197",
+    "id": "task--197",
+    "web": "https://pubmatic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-198",
+    "id": "task--198",
+    "web": "https://linkos.bg",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-199",
+    "id": "task--199",
+    "web": "https://twitch.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-202",
+    "id": "task--202",
+    "web": "https://ampproject.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-203",
+    "id": "task--203",
+    "web": "https://bbc.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-204",
+    "id": "task--204",
+    "web": "https://vungle.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-205",
+    "id": "task--205",
+    "web": "https://bbc.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-207",
+    "id": "task--207",
+    "web": "https://creativecommons.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-208",
+    "id": "task--208",
+    "web": "https://webex.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-209",
+    "id": "task--209",
+    "web": "https://roku.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-210",
+    "id": "task--210",
+    "web": "https://slack.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-211",
+    "id": "task--211",
+    "web": "https://sourceforge.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-212",
+    "id": "task--212",
+    "web": "https://b-cdn.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-213",
+    "id": "task--213",
+    "web": "https://netangels.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-214",
+    "id": "task--214",
+    "web": "https://crashlytics.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-215",
+    "id": "task--215",
+    "web": "https://scorecardresearch.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-216",
+    "id": "task--216",
+    "web": "https://miui.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-218",
+    "id": "task--218",
+    "web": "https://discord.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-221",
+    "id": "task--221",
+    "web": "https://mit.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-222",
+    "id": "task--222",
+    "web": "https://ivi.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-224",
+    "id": "task--224",
+    "web": "https://android.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-225",
+    "id": "task--225",
+    "web": "https://shopify.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-228",
+    "id": "task--228",
+    "web": "https://imdb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-232",
+    "id": "task--232",
+    "web": "https://adtrafficquality.google",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-235",
+    "id": "task--235",
+    "web": "https://salesforce.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-241",
+    "id": "task--241",
+    "web": "https://weather.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-243",
+    "id": "task--243",
+    "web": "https://wikimedia.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-246",
+    "id": "task--246",
+    "web": "https://cisco.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-247",
+    "id": "task--247",
+    "web": "https://doi.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-248",
+    "id": "task--248",
+    "web": "https://hubspot.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-249",
+    "id": "task--249",
+    "web": "https://who.int",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-250",
+    "id": "task--250",
+    "web": "https://linktr.ee",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-252",
+    "id": "task--252",
+    "web": "https://cpanel.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-255",
+    "id": "task--255",
+    "web": "https://temu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-260",
+    "id": "task--260",
+    "web": "https://ubuntu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-262",
+    "id": "task--262",
+    "web": "https://amazon.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-266",
+    "id": "task--266",
+    "web": "https://hp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-267",
+    "id": "task--267",
+    "web": "https://tinyurl.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-268",
+    "id": "task--268",
+    "web": "https://launchdarkly.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-271",
+    "id": "task--271",
+    "web": "https://openx.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-272",
+    "id": "task--272",
+    "web": "https://appsflyer.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-274",
+    "id": "task--274",
+    "web": "https://opendns.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-276",
+    "id": "task--276",
+    "web": "https://googleblog.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-277",
+    "id": "task--277",
+    "web": "https://tradingview.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-278",
+    "id": "task--278",
+    "web": "https://warnerbros.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-280",
+    "id": "task--280",
+    "web": "https://issuu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-281",
+    "id": "task--281",
+    "web": "https://grammarly.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-282",
+    "id": "task--282",
+    "web": "https://adsrvr.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-283",
+    "id": "task--283",
+    "web": "https://mozilla.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-284",
+    "id": "task--284",
+    "web": "https://cnbc.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-285",
+    "id": "task--285",
+    "web": "https://stripe.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-289",
+    "id": "task--289",
+    "web": "https://steampowered.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-290",
+    "id": "task--290",
+    "web": "https://launchpad.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-291",
+    "id": "task--291",
+    "web": "https://3lift.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-292",
+    "id": "task--292",
+    "web": "https://drom.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-293",
+    "id": "task--293",
+    "web": "https://harvard.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-297",
+    "id": "task--297",
+    "web": "https://www.gov.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-298",
+    "id": "task--298",
+    "web": "https://go.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-299",
+    "id": "task--299",
+    "web": "https://forter.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-300",
+    "id": "task--300",
+    "web": "https://appcenter.ms",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-301",
+    "id": "task--301",
+    "web": "https://php.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-302",
+    "id": "task--302",
+    "web": "https://sharethrough.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-311",
+    "id": "task--311",
+    "web": "https://booking.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-312",
+    "id": "task--312",
+    "web": "https://pages.dev",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-313",
+    "id": "task--313",
+    "web": "https://espn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-314",
+    "id": "task--314",
+    "web": "https://slideshare.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-316",
+    "id": "task--316",
+    "web": "https://wiley.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-317",
+    "id": "task--317",
+    "web": "https://cdc.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-318",
+    "id": "task--318",
+    "web": "https://ea.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-321",
+    "id": "task--321",
+    "web": "https://businessinsider.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-323",
+    "id": "task--323",
+    "web": "https://reg.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-324",
+    "id": "task--324",
+    "web": "https://alibaba.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-325",
+    "id": "task--325",
+    "web": "https://inmobi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-326",
+    "id": "task--326",
+    "web": "https://ibm.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-327",
+    "id": "task--327",
+    "web": "https://branch.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-328",
+    "id": "task--328",
+    "web": "https://smartadserver.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-329",
+    "id": "task--329",
+    "web": "https://dailymotion.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-330",
+    "id": "task--330",
+    "web": "https://mi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-331",
+    "id": "task--331",
+    "web": "https://weibo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-332",
+    "id": "task--332",
+    "web": "https://outbrain.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-334",
+    "id": "task--334",
+    "web": "https://nature.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-335",
+    "id": "task--335",
+    "web": "https://adsafeprotected.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-336",
+    "id": "task--336",
+    "web": "https://debian.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-337",
+    "id": "task--337",
+    "web": "https://1c.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-339",
+    "id": "task--339",
+    "web": "https://crpt.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-341",
+    "id": "task--341",
+    "web": "https://rutube.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-343",
+    "id": "task--343",
+    "web": "https://gosuslugi.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-345",
+    "id": "task--345",
+    "web": "https://cloud.microsoft",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-348",
+    "id": "task--348",
+    "web": "https://yahoo.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-349",
+    "id": "task--349",
+    "web": "https://moe.video",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-351",
+    "id": "task--351",
+    "web": "https://checkpoint.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-352",
+    "id": "task--352",
+    "web": "https://springer.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-353",
+    "id": "task--353",
+    "web": "https://id5-sync.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-354",
+    "id": "task--354",
+    "web": "https://un.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-358",
+    "id": "task--358",
+    "web": "https://zendesk.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-359",
+    "id": "task--359",
+    "web": "https://creativecdn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-360",
+    "id": "task--360",
+    "web": "https://tds.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-361",
+    "id": "task--361",
+    "web": "https://naver.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-362",
+    "id": "task--362",
+    "web": "https://gnu.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-364",
+    "id": "task--364",
+    "web": "https://wp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-365",
+    "id": "task--365",
+    "web": "https://google.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-367",
+    "id": "task--367",
+    "web": "https://taobao.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-368",
+    "id": "task--368",
+    "web": "https://aol.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-369",
+    "id": "task--369",
+    "web": "https://netflix.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-374",
+    "id": "task--374",
+    "web": "https://deepintent.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-377",
+    "id": "task--377",
+    "web": "https://media.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-380",
+    "id": "task--380",
+    "web": "https://stanford.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-381",
+    "id": "task--381",
+    "web": "https://ys7.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-382",
+    "id": "task--382",
+    "web": "https://mcafee.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-385",
+    "id": "task--385",
+    "web": "https://rambler.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-386",
+    "id": "task--386",
+    "web": "https://foxnews.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-389",
+    "id": "task--389",
+    "web": "https://google.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-390",
+    "id": "task--390",
+    "web": "https://salesforceliveagent.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-391",
+    "id": "task--391",
+    "web": "https://tp-link.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-392",
+    "id": "task--392",
+    "web": "https://independent.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-395",
+    "id": "task--395",
+    "web": "https://unsplash.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-396",
+    "id": "task--396",
+    "web": "https://icloud-content.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-398",
+    "id": "task--398",
+    "web": "https://nvidia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-399",
+    "id": "task--399",
+    "web": "https://nasa.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-400",
+    "id": "task--400",
+    "web": "https://ok.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-402",
+    "id": "task--402",
+    "web": "https://aliexpress.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-404",
+    "id": "task--404",
+    "web": "https://bilibili.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-407",
+    "id": "task--407",
+    "web": "https://mikrotik.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-408",
+    "id": "task--408",
+    "web": "https://avast.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-409",
+    "id": "task--409",
+    "web": "https://npr.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-410",
+    "id": "task--410",
+    "web": "https://walmart.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-411",
+    "id": "task--411",
+    "web": "https://consultant.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-412",
+    "id": "task--412",
+    "web": "https://duckduckgo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-413",
+    "id": "task--413",
+    "web": "https://google.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-416",
+    "id": "task--416",
+    "web": "https://t-mobile.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-417",
+    "id": "task--417",
+    "web": "https://dnsmadeeasy.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-418",
+    "id": "task--418",
+    "web": "https://globo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-423",
+    "id": "task--423",
+    "web": "https://eventbrite.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-425",
+    "id": "task--425",
+    "web": "https://notamedia.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-427",
+    "id": "task--427",
+    "web": "https://sohu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-428",
+    "id": "task--428",
+    "web": "https://ngenix.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-429",
+    "id": "task--429",
+    "web": "https://telegram.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-432",
+    "id": "task--432",
+    "web": "https://telekom.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-433",
+    "id": "task--433",
+    "web": "https://cornell.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-435",
+    "id": "task--435",
+    "web": "https://amazon.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-436",
+    "id": "task--436",
+    "web": "https://stackoverflow.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-438",
+    "id": "task--438",
+    "web": "https://teamviewer.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-439",
+    "id": "task--439",
+    "web": "https://goodreads.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-442",
+    "id": "task--442",
+    "web": "https://statista.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-443",
+    "id": "task--443",
+    "web": "https://360yield.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-444",
+    "id": "task--444",
+    "web": "https://telegram.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-445",
+    "id": "task--445",
+    "web": "https://yandex.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-446",
+    "id": "task--446",
+    "web": "https://duolingo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-447",
+    "id": "task--447",
+    "web": "https://mediatek.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-449",
+    "id": "task--449",
+    "web": "https://verisign.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-454",
+    "id": "task--454",
+    "web": "https://bugsnag.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-455",
+    "id": "task--455",
+    "web": "https://steamcommunity.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-457",
+    "id": "task--457",
+    "web": "https://force.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-458",
+    "id": "task--458",
+    "web": "https://aliyun.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-460",
+    "id": "task--460",
+    "web": "https://f5.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-461",
+    "id": "task--461",
+    "web": "https://calendly.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-462",
+    "id": "task--462",
+    "web": "https://giphy.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-465",
+    "id": "task--465",
+    "web": "https://usatoday.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-467",
+    "id": "task--467",
+    "web": "https://addtoany.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-468",
+    "id": "task--468",
+    "web": "https://g.page",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-471",
+    "id": "task--471",
+    "web": "https://erome.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-473",
+    "id": "task--473",
+    "web": "https://wired.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-474",
+    "id": "task--474",
+    "web": "https://gitlab.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-475",
+    "id": "task--475",
+    "web": "https://mega.co.nz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-477",
+    "id": "task--477",
+    "web": "https://time.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-482",
+    "id": "task--482",
+    "web": "https://eset.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-483",
+    "id": "task--483",
+    "web": "https://amzn.to",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-484",
+    "id": "task--484",
+    "web": "https://scribd.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-485",
+    "id": "task--485",
+    "web": "https://plesk.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-486",
+    "id": "task--486",
+    "web": "https://indiatimes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-488",
+    "id": "task--488",
+    "web": "https://cursor.sh",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-490",
+    "id": "task--490",
+    "web": "https://ft.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-492",
+    "id": "task--492",
+    "web": "https://wyzecam.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-495",
+    "id": "task--495",
+    "web": "https://shein.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-497",
+    "id": "task--497",
+    "web": "https://wix.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-499",
+    "id": "task--499",
+    "web": "https://ietf.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-500",
+    "id": "task--500",
+    "web": "https://uol.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-502",
+    "id": "task--502",
+    "web": "https://blogger.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-504",
+    "id": "task--504",
+    "web": "https://apnews.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-505",
+    "id": "task--505",
+    "web": "https://trendmicro.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-508",
+    "id": "task--508",
+    "web": "https://att.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-510",
+    "id": "task--510",
+    "web": "https://vkontakte.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-511",
+    "id": "task--511",
+    "web": "https://cnet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-514",
+    "id": "task--514",
+    "web": "https://t-online.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-515",
+    "id": "task--515",
+    "web": "https://nypost.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-517",
+    "id": "task--517",
+    "web": "https://mobile.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-519",
+    "id": "task--519",
+    "web": "https://visualstudio.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-521",
+    "id": "task--521",
+    "web": "https://target.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-523",
+    "id": "task--523",
+    "web": "https://google.ca",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-524",
+    "id": "task--524",
+    "web": "https://cookiedatabase.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-526",
+    "id": "task--526",
+    "web": "https://ca.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-527",
+    "id": "task--527",
+    "web": "https://amazon.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-528",
+    "id": "task--528",
+    "web": "https://google.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-529",
+    "id": "task--529",
+    "web": "https://fast.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-532",
+    "id": "task--532",
+    "web": "https://paloaltonetworks.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-533",
+    "id": "task--533",
+    "web": "https://surveymonkey.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-534",
+    "id": "task--534",
+    "web": "https://onetrust.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-535",
+    "id": "task--535",
+    "web": "https://line.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-537",
+    "id": "task--537",
+    "web": "https://jquery.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-538",
+    "id": "task--538",
+    "web": "https://hotjar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-542",
+    "id": "task--542",
+    "web": "https://rt.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-543",
+    "id": "task--543",
+    "web": "https://docker.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-545",
+    "id": "task--545",
+    "web": "https://buzzfeed.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-547",
+    "id": "task--547",
+    "web": "https://squarespace.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-548",
+    "id": "task--548",
+    "web": "https://google.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-553",
+    "id": "task--553",
+    "web": "https://ted.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-554",
+    "id": "task--554",
+    "web": "https://amplitude.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-557",
+    "id": "task--557",
+    "web": "https://yieldmo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-558",
+    "id": "task--558",
+    "web": "https://playstation.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-559",
+    "id": "task--559",
+    "web": "https://braze.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-560",
+    "id": "task--560",
+    "web": "https://okta.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-561",
+    "id": "task--561",
+    "web": "https://newsweek.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-562",
+    "id": "task--562",
+    "web": "https://britannica.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-563",
+    "id": "task--563",
+    "web": "https://sberbank.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-566",
+    "id": "task--566",
+    "web": "https://conviva.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-568",
+    "id": "task--568",
+    "web": "https://ikea.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-569",
+    "id": "task--569",
+    "web": "https://oup.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-570",
+    "id": "task--570",
+    "web": "https://loc.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-572",
+    "id": "task--572",
+    "web": "https://merriam-webster.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-573",
+    "id": "task--573",
+    "web": "https://accuweather.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-574",
+    "id": "task--574",
+    "web": "https://samsungapps.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-575",
+    "id": "task--575",
+    "web": "https://atlassian.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-576",
+    "id": "task--576",
+    "web": "https://deepl.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-577",
+    "id": "task--577",
+    "web": "https://cbsnews.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-582",
+    "id": "task--582",
+    "web": "https://trustpilot.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-585",
+    "id": "task--585",
+    "web": "https://mailchimp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-587",
+    "id": "task--587",
+    "web": "https://ring.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-590",
+    "id": "task--590",
+    "web": "https://google.com.hk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-591",
+    "id": "task--591",
+    "web": "https://threads.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-594",
+    "id": "task--594",
+    "web": "https://wattpad.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-595",
+    "id": "task--595",
+    "web": "https://aboutads.info",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-596",
+    "id": "task--596",
+    "web": "https://qualtrics.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-597",
+    "id": "task--597",
+    "web": "https://nike.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-598",
+    "id": "task--598",
+    "web": "https://lijit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-599",
+    "id": "task--599",
+    "web": "https://163.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-601",
+    "id": "task--601",
+    "web": "https://virtualearth.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-602",
+    "id": "task--602",
+    "web": "https://livejournal.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-608",
+    "id": "task--608",
+    "web": "https://rackspace.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-609",
+    "id": "task--609",
+    "web": "https://mayoclinic.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-610",
+    "id": "task--610",
+    "web": "https://optimizely.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-612",
+    "id": "task--612",
+    "web": "https://installatiegereedschap.nl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-613",
+    "id": "task--613",
+    "web": "https://sina.com.cn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-614",
+    "id": "task--614",
+    "web": "https://google.co.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-615",
+    "id": "task--615",
+    "web": "https://fontawesome.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-616",
+    "id": "task--616",
+    "web": "https://tapad.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-617",
+    "id": "task--617",
+    "web": "https://stackadapt.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-618",
+    "id": "task--618",
+    "web": "https://free.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-625",
+    "id": "task--625",
+    "web": "https://dotomi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-626",
+    "id": "task--626",
+    "web": "https://newrelic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-627",
+    "id": "task--627",
+    "web": "https://google.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-637",
+    "id": "task--637",
+    "web": "https://pinimg.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-638",
+    "id": "task--638",
+    "web": "https://fandom.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-639",
+    "id": "task--639",
+    "web": "https://bidmachine.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-642",
+    "id": "task--642",
+    "web": "https://easycruit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-643",
+    "id": "task--643",
+    "web": "https://google.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-644",
+    "id": "task--644",
+    "web": "https://techcrunch.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-645",
+    "id": "task--645",
+    "web": "https://gdemoideti.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-646",
+    "id": "task--646",
+    "web": "https://w3schools.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-648",
+    "id": "task--648",
+    "web": "https://dynatrace.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-649",
+    "id": "task--649",
+    "web": "https://ieee.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-650",
+    "id": "task--650",
+    "web": "https://brave.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-654",
+    "id": "task--654",
+    "web": "https://elpais.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-655",
+    "id": "task--655",
+    "web": "https://klaviyo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-659",
+    "id": "task--659",
+    "web": "https://amazon.ca",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-660",
+    "id": "task--660",
+    "web": "https://cdnvideo.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-661",
+    "id": "task--661",
+    "web": "https://intercom.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-664",
+    "id": "task--664",
+    "web": "https://pendo.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-665",
+    "id": "task--665",
+    "web": "https://box.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-666",
+    "id": "task--666",
+    "web": "https://xvideos.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-669",
+    "id": "task--669",
+    "web": "https://amazon.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-670",
+    "id": "task--670",
+    "web": "https://fb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-674",
+    "id": "task--674",
+    "web": "https://anydesk.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-676",
+    "id": "task--676",
+    "web": "https://service.gov.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-678",
+    "id": "task--678",
+    "web": "https://jotform.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-679",
+    "id": "task--679",
+    "web": "https://sapo.pt",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-680",
+    "id": "task--680",
+    "web": "https://withgoogle.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-681",
+    "id": "task--681",
+    "web": "https://myspace.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-682",
+    "id": "task--682",
+    "web": "https://datadoghq.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-683",
+    "id": "task--683",
+    "web": "https://cloudflareinsights.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-689",
+    "id": "task--689",
+    "web": "https://viber.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-690",
+    "id": "task--690",
+    "web": "https://redhat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-691",
+    "id": "task--691",
+    "web": "https://theverge.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-692",
+    "id": "task--692",
+    "web": "https://gumgum.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-694",
+    "id": "task--694",
+    "web": "https://airbnb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-696",
+    "id": "task--696",
+    "web": "https://bitrix24.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-697",
+    "id": "task--697",
+    "web": "https://latimes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-698",
+    "id": "task--698",
+    "web": "https://disneyplus.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-700",
+    "id": "task--700",
+    "web": "https://investopedia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-702",
+    "id": "task--702",
+    "web": "https://adjust.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-704",
+    "id": "task--704",
+    "web": "https://mediafire.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-708",
+    "id": "task--708",
+    "web": "https://webmd.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-710",
+    "id": "task--710",
+    "web": "https://lemonde.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-711",
+    "id": "task--711",
+    "web": "https://prnewswire.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-712",
+    "id": "task--712",
+    "web": "https://amazontrust.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-713",
+    "id": "task--713",
+    "web": "https://disqus.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-715",
+    "id": "task--715",
+    "web": "https://ya.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-717",
+    "id": "task--717",
+    "web": "https://unesco.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-720",
+    "id": "task--720",
+    "web": "https://nbcnews.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-721",
+    "id": "task--721",
+    "web": "https://people.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-724",
+    "id": "task--724",
+    "web": "https://amazon.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-725",
+    "id": "task--725",
+    "web": "https://digitalocean.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-726",
+    "id": "task--726",
+    "web": "https://perfectdomain.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-727",
+    "id": "task--727",
+    "web": "https://clever.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-728",
+    "id": "task--728",
+    "web": "https://2gis.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-729",
+    "id": "task--729",
+    "web": "https://atlassian.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-731",
+    "id": "task--731",
+    "web": "https://zemanta.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-733",
+    "id": "task--733",
+    "web": "https://fiverr.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-734",
+    "id": "task--734",
+    "web": "https://supercell.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-735",
+    "id": "task--735",
+    "web": "https://contextweb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-736",
+    "id": "task--736",
+    "web": "https://onlyfans.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-737",
+    "id": "task--737",
+    "web": "https://washington.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-742",
+    "id": "task--742",
+    "web": "https://mixpanel.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-743",
+    "id": "task--743",
+    "web": "https://sagepub.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-744",
+    "id": "task--744",
+    "web": "https://discordapp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-745",
+    "id": "task--745",
+    "web": "https://hbr.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-748",
+    "id": "task--748",
+    "web": "https://google.cn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-749",
+    "id": "task--749",
+    "web": "https://amazon.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-750",
+    "id": "task--750",
+    "web": "https://substack.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-751",
+    "id": "task--751",
+    "web": "https://pccc.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-752",
+    "id": "task--752",
+    "web": "https://vivo.com.cn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-753",
+    "id": "task--753",
+    "web": "https://nikkei.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-754",
+    "id": "task--754",
+    "web": "https://a-mo.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-755",
+    "id": "task--755",
+    "web": "https://hihonorcloud.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-756",
+    "id": "task--756",
+    "web": "https://sportradar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-757",
+    "id": "task--757",
+    "web": "https://usps.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-758",
+    "id": "task--758",
+    "web": "https://bsky.app",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-759",
+    "id": "task--759",
+    "web": "https://healthline.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-764",
+    "id": "task--764",
+    "web": "https://typeform.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-767",
+    "id": "task--767",
+    "web": "https://rbc.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-768",
+    "id": "task--768",
+    "web": "https://pandora.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-769",
+    "id": "task--769",
+    "web": "https://networkadvertising.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-773",
+    "id": "task--773",
+    "web": "https://amazon.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-776",
+    "id": "task--776",
+    "web": "https://liftoff.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-778",
+    "id": "task--778",
+    "web": "https://tencent.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-779",
+    "id": "task--779",
+    "web": "https://yimg.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-780",
+    "id": "task--780",
+    "web": "https://apple.news",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-781",
+    "id": "task--781",
+    "web": "https://kargo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-782",
+    "id": "task--782",
+    "web": "https://badoo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-784",
+    "id": "task--784",
+    "web": "https://quickconnect.to",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-785",
+    "id": "task--785",
+    "web": "https://capcut.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-786",
+    "id": "task--786",
+    "web": "https://xiaohongshu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-787",
+    "id": "task--787",
+    "web": "https://twilio.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-788",
+    "id": "task--788",
+    "web": "https://singular.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-790",
+    "id": "task--790",
+    "web": "https://vivoglobal.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-791",
+    "id": "task--791",
+    "web": "https://unrulymedia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-795",
+    "id": "task--795",
+    "web": "https://xbox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-797",
+    "id": "task--797",
+    "web": "https://themeforest.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-798",
+    "id": "task--798",
+    "web": "https://360.cn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-800",
+    "id": "task--800",
+    "web": "https://bandcamp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-802",
+    "id": "task--802",
+    "web": "https://google.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-804",
+    "id": "task--804",
+    "web": "https://hugedomains.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-805",
+    "id": "task--805",
+    "web": "https://iso.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-806",
+    "id": "task--806",
+    "web": "https://theatlantic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-807",
+    "id": "task--807",
+    "web": "https://onetag-sys.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-809",
+    "id": "task--809",
+    "web": "https://shopee.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-810",
+    "id": "task--810",
+    "web": "https://me.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-811",
+    "id": "task--811",
+    "web": "https://teads.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-812",
+    "id": "task--812",
+    "web": "https://pbs.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-813",
+    "id": "task--813",
+    "web": "https://pornhub.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-814",
+    "id": "task--814",
+    "web": "https://zoho.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-815",
+    "id": "task--815",
+    "web": "https://lenovo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-816",
+    "id": "task--816",
+    "web": "https://nest.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-819",
+    "id": "task--819",
+    "web": "https://netgear.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-820",
+    "id": "task--820",
+    "web": "https://bankofamerica.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-821",
+    "id": "task--821",
+    "web": "https://g.co",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-822",
+    "id": "task--822",
+    "web": "https://whitehouse.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-824",
+    "id": "task--824",
+    "web": "https://primevideo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-825",
+    "id": "task--825",
+    "web": "https://skyhigh.cloud",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-826",
+    "id": "task--826",
+    "web": "https://ameblo.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-827",
+    "id": "task--827",
+    "web": "https://nationalgeographic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-828",
+    "id": "task--828",
+    "web": "https://globalsign.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-829",
+    "id": "task--829",
+    "web": "https://arxiv.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-830",
+    "id": "task--830",
+    "web": "https://unpkg.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-831",
+    "id": "task--831",
+    "web": "https://tplinkcloud.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-832",
+    "id": "task--832",
+    "web": "https://academia.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-834",
+    "id": "task--834",
+    "web": "https://princeton.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-836",
+    "id": "task--836",
+    "web": "https://lefigaro.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-837",
+    "id": "task--837",
+    "web": "https://flashtalking.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-838",
+    "id": "task--838",
+    "web": "https://ebay.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-840",
+    "id": "task--840",
+    "web": "https://hindustantimes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-841",
+    "id": "task--841",
+    "web": "https://uk.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-842",
+    "id": "task--842",
+    "web": "https://maricopa.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-843",
+    "id": "task--843",
+    "web": "https://daum.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-844",
+    "id": "task--844",
+    "web": "https://bild.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-845",
+    "id": "task--845",
+    "web": "https://google.com.tr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-846",
+    "id": "task--846",
+    "web": "https://alidns.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-847",
+    "id": "task--847",
+    "web": "https://he.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-848",
+    "id": "task--848",
+    "web": "https://genius.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-852",
+    "id": "task--852",
+    "web": "https://google.com.mx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-855",
+    "id": "task--855",
+    "web": "https://wp.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-856",
+    "id": "task--856",
+    "web": "https://synology.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-857",
+    "id": "task--857",
+    "web": "https://smartthings.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-860",
+    "id": "task--860",
+    "web": "https://change.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-861",
+    "id": "task--861",
+    "web": "https://huffingtonpost.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-862",
+    "id": "task--862",
+    "web": "https://seznam.cz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-863",
+    "id": "task--863",
+    "web": "https://mailchi.mp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-865",
+    "id": "task--865",
+    "web": "https://cloudns.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-866",
+    "id": "task--866",
+    "web": "https://betweendigital.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-869",
+    "id": "task--869",
+    "web": "https://firefox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-871",
+    "id": "task--871",
+    "web": "https://intentiq.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-872",
+    "id": "task--872",
+    "web": "https://epa.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-873",
+    "id": "task--873",
+    "web": "https://biblegateway.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-874",
+    "id": "task--874",
+    "web": "https://sonobi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-875",
+    "id": "task--875",
+    "web": "https://lowes.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-876",
+    "id": "task--876",
+    "web": "https://delfi.lt",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-878",
+    "id": "task--878",
+    "web": "https://onet.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-879",
+    "id": "task--879",
+    "web": "https://name.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-882",
+    "id": "task--882",
+    "web": "https://ebay.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-883",
+    "id": "task--883",
+    "web": "https://otto.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-884",
+    "id": "task--884",
+    "web": "https://xerox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-886",
+    "id": "task--886",
+    "web": "https://worldbank.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-888",
+    "id": "task--888",
+    "web": "https://segment.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-889",
+    "id": "task--889",
+    "web": "https://adblockplus.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-891",
+    "id": "task--891",
+    "web": "https://mckinsey.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-892",
+    "id": "task--892",
+    "web": "https://shopeemobile.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-894",
+    "id": "task--894",
+    "web": "https://chaturbate.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-896",
+    "id": "task--896",
+    "web": "https://arcgis.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-897",
+    "id": "task--897",
+    "web": "https://mgid.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-898",
+    "id": "task--898",
+    "web": "https://classlink.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-899",
+    "id": "task--899",
+    "web": "https://eporner.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-900",
+    "id": "task--900",
+    "web": "https://heytapmobi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-902",
+    "id": "task--902",
+    "web": "https://redd.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-903",
+    "id": "task--903",
+    "web": "https://innovid.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-904",
+    "id": "task--904",
+    "web": "https://ip-api.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-906",
+    "id": "task--906",
+    "web": "https://aniview.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-907",
+    "id": "task--907",
+    "web": "https://onesignal.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-908",
+    "id": "task--908",
+    "web": "https://chess.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-909",
+    "id": "task--909",
+    "web": "https://amazon.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-913",
+    "id": "task--913",
+    "web": "https://huffpost.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-915",
+    "id": "task--915",
+    "web": "https://ubnt.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-916",
+    "id": "task--916",
+    "web": "https://kohls.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-918",
+    "id": "task--918",
+    "web": "https://deepmind.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-919",
+    "id": "task--919",
+    "web": "https://repubblica.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-920",
+    "id": "task--920",
+    "web": "https://rapid7.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-921",
+    "id": "task--921",
+    "web": "https://dribbble.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-922",
+    "id": "task--922",
+    "web": "https://character.ai",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-923",
+    "id": "task--923",
+    "web": "https://kick.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-925",
+    "id": "task--925",
+    "web": "https://openstreetmap.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-926",
+    "id": "task--926",
+    "web": "https://spamhaus.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-931",
+    "id": "task--931",
+    "web": "https://agoda.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-933",
+    "id": "task--933",
+    "web": "https://stbid.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-934",
+    "id": "task--934",
+    "web": "https://nexusmods.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-935",
+    "id": "task--935",
+    "web": "https://youku.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-936",
+    "id": "task--936",
+    "web": "https://mercadolivre.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-937",
+    "id": "task--937",
+    "web": "https://va.gov",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-938",
+    "id": "task--938",
+    "web": "https://ryanair.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-939",
+    "id": "task--939",
+    "web": "https://corriere.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-941",
+    "id": "task--941",
+    "web": "https://mirtesen.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-942",
+    "id": "task--942",
+    "web": "https://xnxx.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-944",
+    "id": "task--944",
+    "web": "https://redfin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-945",
+    "id": "task--945",
+    "web": "https://cloudinary.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-946",
+    "id": "task--946",
+    "web": "https://instructure.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-947",
+    "id": "task--947",
+    "web": "https://mercadolibre.com.ar",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-948",
+    "id": "task--948",
+    "web": "https://amazon.com.au",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-949",
+    "id": "task--949",
+    "web": "https://readthedocs.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-950",
+    "id": "task--950",
+    "web": "https://ezvizlife.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-951",
+    "id": "task--951",
+    "web": "https://ancestry.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-953",
+    "id": "task--953",
+    "web": "https://figma.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-955",
+    "id": "task--955",
+    "web": "https://pixiv.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-956",
+    "id": "task--956",
+    "web": "https://python.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-958",
+    "id": "task--958",
+    "web": "https://ubi.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-961",
+    "id": "task--961",
+    "web": "https://binance.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-963",
+    "id": "task--963",
+    "web": "https://deltaork.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-964",
+    "id": "task--964",
+    "web": "https://caixa.gov.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-966",
+    "id": "task--966",
+    "web": "https://pusher.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-969",
+    "id": "task--969",
+    "web": "https://dyndns.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-970",
+    "id": "task--970",
+    "web": "https://agora.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-972",
+    "id": "task--972",
+    "web": "https://deloitte.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-974",
+    "id": "task--974",
+    "web": "https://www.gov.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-976",
+    "id": "task--976",
+    "web": "https://costco.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-978",
+    "id": "task--978",
+    "web": "https://monster.ie",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-979",
+    "id": "task--979",
+    "web": "https://macys.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-981",
+    "id": "task--981",
+    "web": "https://francetvinfo.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-986",
+    "id": "task--986",
+    "web": "https://cbc.ca",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-988",
+    "id": "task--988",
+    "web": "https://ipify.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-990",
+    "id": "task--990",
+    "web": "https://coinmarketcap.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-992",
+    "id": "task--992",
+    "web": "https://split.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-993",
+    "id": "task--993",
+    "web": "https://tagesschau.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-995",
+    "id": "task--995",
+    "web": "https://statcounter.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-997",
+    "id": "task--997",
+    "web": "https://jetbrains.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-998",
+    "id": "task--998",
+    "web": "https://lavanguardia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1001",
+    "id": "task--1001",
+    "web": "https://bootstrapcdn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1002",
+    "id": "task--1002",
+    "web": "https://nic.do",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1005",
+    "id": "task--1005",
+    "web": "https://xing.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1006",
+    "id": "task--1006",
+    "web": "https://interia.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1009",
+    "id": "task--1009",
+    "web": "https://adrta.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1014",
+    "id": "task--1014",
+    "web": "https://leparisien.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1019",
+    "id": "task--1019",
+    "web": "https://surfshark.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1023",
+    "id": "task--1023",
+    "web": "https://note.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1025",
+    "id": "task--1025",
+    "web": "https://wikihow.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1026",
+    "id": "task--1026",
+    "web": "https://quizizz.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1028",
+    "id": "task--1028",
+    "web": "https://no-ip.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1029",
+    "id": "task--1029",
+    "web": "https://kaspi.kz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1032",
+    "id": "task--1032",
+    "web": "https://infobae.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1034",
+    "id": "task--1034",
+    "web": "https://theconversation.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1035",
+    "id": "task--1035",
+    "web": "https://goal.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1036",
+    "id": "task--1036",
+    "web": "https://sportybet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1040",
+    "id": "task--1040",
+    "web": "https://amazon.com.mx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1041",
+    "id": "task--1041",
+    "web": "https://as.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1042",
+    "id": "task--1042",
+    "web": "https://playrix.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1043",
+    "id": "task--1043",
+    "web": "https://gsmarena.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1044",
+    "id": "task--1044",
+    "web": "https://economist.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1045",
+    "id": "task--1045",
+    "web": "https://terra.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1047",
+    "id": "task--1047",
+    "web": "https://utorrent.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1049",
+    "id": "task--1049",
+    "web": "https://letterboxd.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1050",
+    "id": "task--1050",
+    "web": "https://goo.ne.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1051",
+    "id": "task--1051",
+    "web": "https://frontiersin.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1052",
+    "id": "task--1052",
+    "web": "https://ilovepdf.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1054",
+    "id": "task--1054",
+    "web": "https://trendyol.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1056",
+    "id": "task--1056",
+    "web": "https://nba.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1057",
+    "id": "task--1057",
+    "web": "https://bfmtv.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1058",
+    "id": "task--1058",
+    "web": "https://fortune.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1059",
+    "id": "task--1059",
+    "web": "https://digitaloceanspaces.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1061",
+    "id": "task--1061",
+    "web": "https://idnes.cz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1065",
+    "id": "task--1065",
+    "web": "https://dreamhost.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1066",
+    "id": "task--1066",
+    "web": "https://tsyndicate.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1067",
+    "id": "task--1067",
+    "web": "https://ipinfo.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1069",
+    "id": "task--1069",
+    "web": "https://jstor.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1070",
+    "id": "task--1070",
+    "web": "https://rspamd.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1073",
+    "id": "task--1073",
+    "web": "https://poki.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1076",
+    "id": "task--1076",
+    "web": "https://psychologytoday.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1077",
+    "id": "task--1077",
+    "web": "https://aparat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1078",
+    "id": "task--1078",
+    "web": "https://shopee.co.id",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1082",
+    "id": "task--1082",
+    "web": "https://riotgames.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1087",
+    "id": "task--1087",
+    "web": "https://n-tv.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1088",
+    "id": "task--1088",
+    "web": "https://bitdefender.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1089",
+    "id": "task--1089",
+    "web": "https://google.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1090",
+    "id": "task--1090",
+    "web": "https://nintendo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1092",
+    "id": "task--1092",
+    "web": "https://tinkoff.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1095",
+    "id": "task--1095",
+    "web": "https://finn.no",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1096",
+    "id": "task--1096",
+    "web": "https://vivo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1097",
+    "id": "task--1097",
+    "web": "https://ameba.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1098",
+    "id": "task--1098",
+    "web": "https://waze.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1099",
+    "id": "task--1099",
+    "web": "https://coursera.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1101",
+    "id": "task--1101",
+    "web": "https://beget.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1103",
+    "id": "task--1103",
+    "web": "https://kleinanzeigen.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1107",
+    "id": "task--1107",
+    "web": "https://jimdo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1108",
+    "id": "task--1108",
+    "web": "https://gofundme.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1109",
+    "id": "task--1109",
+    "web": "https://apkpure.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1111",
+    "id": "task--1111",
+    "web": "https://ioam.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1112",
+    "id": "task--1112",
+    "web": "https://clarin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1115",
+    "id": "task--1115",
+    "web": "https://20minutos.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1116",
+    "id": "task--1116",
+    "web": "https://youporn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1118",
+    "id": "task--1118",
+    "web": "https://apa.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1121",
+    "id": "task--1121",
+    "web": "https://wise.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1122",
+    "id": "task--1122",
+    "web": "https://archiveofourown.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1123",
+    "id": "task--1123",
+    "web": "https://ria.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1124",
+    "id": "task--1124",
+    "web": "https://gismeteo.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1125",
+    "id": "task--1125",
+    "web": "https://bitdefender.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1126",
+    "id": "task--1126",
+    "web": "https://uchi.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1127",
+    "id": "task--1127",
+    "web": "https://yandex.by",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1129",
+    "id": "task--1129",
+    "web": "https://india.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1130",
+    "id": "task--1130",
+    "web": "https://deezer.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1131",
+    "id": "task--1131",
+    "web": "https://hostgator.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1132",
+    "id": "task--1132",
+    "web": "https://hotstar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1133",
+    "id": "task--1133",
+    "web": "https://aftonbladet.se",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1134",
+    "id": "task--1134",
+    "web": "https://dafont.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1135",
+    "id": "task--1135",
+    "web": "https://wps.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1137",
+    "id": "task--1137",
+    "web": "https://kompas.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1138",
+    "id": "task--1138",
+    "web": "https://domainmarket.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1139",
+    "id": "task--1139",
+    "web": "https://yale.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1140",
+    "id": "task--1140",
+    "web": "https://flashscore.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1141",
+    "id": "task--1141",
+    "web": "https://psu.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1142",
+    "id": "task--1142",
+    "web": "https://olx.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1143",
+    "id": "task--1143",
+    "web": "https://mercadolibre.com.mx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1144",
+    "id": "task--1144",
+    "web": "https://udn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1145",
+    "id": "task--1145",
+    "web": "https://abc.net.au",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1146",
+    "id": "task--1146",
+    "web": "https://vg.no",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1147",
+    "id": "task--1147",
+    "web": "https://pluto.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1148",
+    "id": "task--1148",
+    "web": "https://statuspage.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1149",
+    "id": "task--1149",
+    "web": "https://furaffinity.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1152",
+    "id": "task--1152",
+    "web": "https://nhentai.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1153",
+    "id": "task--1153",
+    "web": "https://pornpics.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1155",
+    "id": "task--1155",
+    "web": "https://blooket.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1156",
+    "id": "task--1156",
+    "web": "https://dmm.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1157",
+    "id": "task--1157",
+    "web": "https://lequipe.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1158",
+    "id": "task--1158",
+    "web": "https://notion.so",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1160",
+    "id": "task--1160",
+    "web": "https://clevertap-prod.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1164",
+    "id": "task--1164",
+    "web": "https://adsco.re",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1165",
+    "id": "task--1165",
+    "web": "https://tradplusad.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1166",
+    "id": "task--1166",
+    "web": "https://faphouse.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1168",
+    "id": "task--1168",
+    "web": "https://tabelog.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1169",
+    "id": "task--1169",
+    "web": "https://ovh.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1172",
+    "id": "task--1172",
+    "web": "https://vnexpress.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1174",
+    "id": "task--1174",
+    "web": "https://ebay.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1175",
+    "id": "task--1175",
+    "web": "https://trello.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1176",
+    "id": "task--1176",
+    "web": "https://remove.bg",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1177",
+    "id": "task--1177",
+    "web": "https://seedtag.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1178",
+    "id": "task--1178",
+    "web": "https://umbrella.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1180",
+    "id": "task--1180",
+    "web": "https://lichess.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1181",
+    "id": "task--1181",
+    "web": "https://avira.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1182",
+    "id": "task--1182",
+    "web": "https://cookpad.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1183",
+    "id": "task--1183",
+    "web": "https://biomedcentral.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1186",
+    "id": "task--1186",
+    "web": "https://adsmoloco.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1187",
+    "id": "task--1187",
+    "web": "https://fb.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1190",
+    "id": "task--1190",
+    "web": "https://itmedia.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1191",
+    "id": "task--1191",
+    "web": "https://rightmove.co.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1193",
+    "id": "task--1193",
+    "web": "https://pravda.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1196",
+    "id": "task--1196",
+    "web": "https://ox.ac.uk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1197",
+    "id": "task--1197",
+    "web": "https://moengage.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1198",
+    "id": "task--1198",
+    "web": "https://upenn.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1199",
+    "id": "task--1199",
+    "web": "https://ynet.co.il",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1200",
+    "id": "task--1200",
+    "web": "https://akismet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1201",
+    "id": "task--1201",
+    "web": "https://newyorker.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1202",
+    "id": "task--1202",
+    "web": "https://gazzetta.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1203",
+    "id": "task--1203",
+    "web": "https://meethue.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1204",
+    "id": "task--1204",
+    "web": "https://ucla.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1206",
+    "id": "task--1206",
+    "web": "https://mundodeportivo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1208",
+    "id": "task--1208",
+    "web": "https://cricbuzz.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1210",
+    "id": "task--1210",
+    "web": "https://asus.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1212",
+    "id": "task--1212",
+    "web": "https://acesso.gov.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1213",
+    "id": "task--1213",
+    "web": "https://asu.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1214",
+    "id": "task--1214",
+    "web": "https://plos.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1217",
+    "id": "task--1217",
+    "web": "https://txnhh.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1220",
+    "id": "task--1220",
+    "web": "https://divar.ir",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1221",
+    "id": "task--1221",
+    "web": "https://lwsdns.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1226",
+    "id": "task--1226",
+    "web": "https://ixl.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1227",
+    "id": "task--1227",
+    "web": "https://redtube.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1229",
+    "id": "task--1229",
+    "web": "https://xvv1deos.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1231",
+    "id": "task--1231",
+    "web": "https://ixbt.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1234",
+    "id": "task--1234",
+    "web": "https://tgju.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1236",
+    "id": "task--1236",
+    "web": "https://sedo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1237",
+    "id": "task--1237",
+    "web": "https://cnnbrasil.com.br",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1238",
+    "id": "task--1238",
+    "web": "https://championat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1239",
+    "id": "task--1239",
+    "web": "https://videy.co",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1244",
+    "id": "task--1244",
+    "web": "https://tabor.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1245",
+    "id": "task--1245",
+    "web": "https://marktplaats.nl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1250",
+    "id": "task--1250",
+    "web": "https://livescore.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1251",
+    "id": "task--1251",
+    "web": "https://digikala.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1252",
+    "id": "task--1252",
+    "web": "https://livedoor.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1253",
+    "id": "task--1253",
+    "web": "https://fr.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1254",
+    "id": "task--1254",
+    "web": "https://wisc.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1256",
+    "id": "task--1256",
+    "web": "https://snapkit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1257",
+    "id": "task--1257",
+    "web": "https://varzesh3.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1258",
+    "id": "task--1258",
+    "web": "https://donga.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1259",
+    "id": "task--1259",
+    "web": "https://kueezrtb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1260",
+    "id": "task--1260",
+    "web": "https://merkur.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1261",
+    "id": "task--1261",
+    "web": "https://ladepeche.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1262",
+    "id": "task--1262",
+    "web": "https://excite.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1264",
+    "id": "task--1264",
+    "web": "https://afternic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1265",
+    "id": "task--1265",
+    "web": "https://calculator.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1266",
+    "id": "task--1266",
+    "web": "https://mapbox.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1267",
+    "id": "task--1267",
+    "web": "https://amazon.eg",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1270",
+    "id": "task--1270",
+    "web": "https://subito.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1271",
+    "id": "task--1271",
+    "web": "https://coolmathgames.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1272",
+    "id": "task--1272",
+    "web": "https://actu.fr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1275",
+    "id": "task--1275",
+    "web": "https://onelink.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1276",
+    "id": "task--1276",
+    "web": "https://noodlemagazine.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1278",
+    "id": "task--1278",
+    "web": "https://trustarc.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1279",
+    "id": "task--1279",
+    "web": "https://abovedomains.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1280",
+    "id": "task--1280",
+    "web": "https://hotpepper.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1281",
+    "id": "task--1281",
+    "web": "https://bilibili.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1283",
+    "id": "task--1283",
+    "web": "https://wordwall.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1284",
+    "id": "task--1284",
+    "web": "https://naukri.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1286",
+    "id": "task--1286",
+    "web": "https://zdnet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1287",
+    "id": "task--1287",
+    "web": "https://tvn24.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1288",
+    "id": "task--1288",
+    "web": "https://churnzero.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1289",
+    "id": "task--1289",
+    "web": "https://xnxx.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1291",
+    "id": "task--1291",
+    "web": "https://megafon.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1294",
+    "id": "task--1294",
+    "web": "https://cdiscount.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1295",
+    "id": "task--1295",
+    "web": "https://cloud.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1297",
+    "id": "task--1297",
+    "web": "https://namestudio.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1298",
+    "id": "task--1298",
+    "web": "https://dantri.com.vn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1300",
+    "id": "task--1300",
+    "web": "https://futbin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1303",
+    "id": "task--1303",
+    "web": "https://oneindia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1304",
+    "id": "task--1304",
+    "web": "https://dcinside.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1305",
+    "id": "task--1305",
+    "web": "https://dlsite.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1307",
+    "id": "task--1307",
+    "web": "https://youjizz.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1308",
+    "id": "task--1308",
+    "web": "https://mbga.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1309",
+    "id": "task--1309",
+    "web": "https://mydramalist.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1311",
+    "id": "task--1311",
+    "web": "https://funpay.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1312",
+    "id": "task--1312",
+    "web": "https://aternos.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1313",
+    "id": "task--1313",
+    "web": "https://metropoles.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1314",
+    "id": "task--1314",
+    "web": "https://thisvid.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1315",
+    "id": "task--1315",
+    "web": "https://cardgames.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1316",
+    "id": "task--1316",
+    "web": "https://unifi-ai.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1317",
+    "id": "task--1317",
+    "web": "https://senderscore.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1318",
+    "id": "task--1318",
+    "web": "https://ilmessaggero.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1319",
+    "id": "task--1319",
+    "web": "https://eepurl.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1320",
+    "id": "task--1320",
+    "web": "https://starfall.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1321",
+    "id": "task--1321",
+    "web": "https://umn.edu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1322",
+    "id": "task--1322",
+    "web": "https://jut.su",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1325",
+    "id": "task--1325",
+    "web": "https://russianfood.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1326",
+    "id": "task--1326",
+    "web": "https://fdown.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1327",
+    "id": "task--1327",
+    "web": "https://nesine.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1328",
+    "id": "task--1328",
+    "web": "https://bmj.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1331",
+    "id": "task--1331",
+    "web": "https://motherless.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1334",
+    "id": "task--1334",
+    "web": "https://turkiye.gov.tr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1336",
+    "id": "task--1336",
+    "web": "https://weathernews.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1339",
+    "id": "task--1339",
+    "web": "https://torob.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1341",
+    "id": "task--1341",
+    "web": "https://imhentai.xxx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1342",
+    "id": "task--1342",
+    "web": "https://novinky.cz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1343",
+    "id": "task--1343",
+    "web": "https://ntppool.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1348",
+    "id": "task--1348",
+    "web": "https://gamer.com.tw",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1349",
+    "id": "task--1349",
+    "web": "https://e-hentai.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1350",
+    "id": "task--1350",
+    "web": "https://haberler.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1351",
+    "id": "task--1351",
+    "web": "https://redislabs.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1352",
+    "id": "task--1352",
+    "web": "https://litnet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1353",
+    "id": "task--1353",
+    "web": "https://ixxx.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1357",
+    "id": "task--1357",
+    "web": "https://dagbladet.no",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1358",
+    "id": "task--1358",
+    "web": "https://jagran.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1363",
+    "id": "task--1363",
+    "web": "https://istockphoto.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1366",
+    "id": "task--1366",
+    "web": "https://xxxbp.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1368",
+    "id": "task--1368",
+    "web": "https://gelbooru.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1369",
+    "id": "task--1369",
+    "web": "https://auone.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1370",
+    "id": "task--1370",
+    "web": "https://24h.com.vn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1372",
+    "id": "task--1372",
+    "web": "https://xnxx.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1373",
+    "id": "task--1373",
+    "web": "https://mmcdn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1374",
+    "id": "task--1374",
+    "web": "https://sexvid.xxx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1375",
+    "id": "task--1375",
+    "web": "https://pornhub.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1377",
+    "id": "task--1377",
+    "web": "https://superporn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1382",
+    "id": "task--1382",
+    "web": "https://sozcu.com.tr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1384",
+    "id": "task--1384",
+    "web": "https://pornhat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1386",
+    "id": "task--1386",
+    "web": "https://vice.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1389",
+    "id": "task--1389",
+    "web": "https://mongodb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1390",
+    "id": "task--1390",
+    "web": "https://tenki.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1391",
+    "id": "task--1391",
+    "web": "https://cronista.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1392",
+    "id": "task--1392",
+    "web": "https://xnxx-arabic.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1393",
+    "id": "task--1393",
+    "web": "https://docker.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1394",
+    "id": "task--1394",
+    "web": "https://business.site",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1395",
+    "id": "task--1395",
+    "web": "https://hulu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1396",
+    "id": "task--1396",
+    "web": "https://imagefap.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1397",
+    "id": "task--1397",
+    "web": "https://ilmeteo.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1398",
+    "id": "task--1398",
+    "web": "https://index.hr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1399",
+    "id": "task--1399",
+    "web": "https://3bmeteo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1400",
+    "id": "task--1400",
+    "web": "https://medallia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1401",
+    "id": "task--1401",
+    "web": "https://sxyprn.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1405",
+    "id": "task--1405",
+    "web": "https://youm7.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1406",
+    "id": "task--1406",
+    "web": "https://iltalehti.fi",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1407",
+    "id": "task--1407",
+    "web": "https://syosetu.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1409",
+    "id": "task--1409",
+    "web": "https://smi2.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1410",
+    "id": "task--1410",
+    "web": "https://uidai.gov.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1411",
+    "id": "task--1411",
+    "web": "https://fuq.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1413",
+    "id": "task--1413",
+    "web": "https://redditmedia.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1414",
+    "id": "task--1414",
+    "web": "https://boardgamearena.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1416",
+    "id": "task--1416",
+    "web": "https://protothema.gr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1418",
+    "id": "task--1418",
+    "web": "https://ssstik.io",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1419",
+    "id": "task--1419",
+    "web": "https://fapello.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1420",
+    "id": "task--1420",
+    "web": "https://iplt20.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1421",
+    "id": "task--1421",
+    "web": "https://otomoto.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1423",
+    "id": "task--1423",
+    "web": "https://suumo.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1424",
+    "id": "task--1424",
+    "web": "https://ficbook.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1425",
+    "id": "task--1425",
+    "web": "https://carsensor.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1427",
+    "id": "task--1427",
+    "web": "https://eltiempo.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1428",
+    "id": "task--1428",
+    "web": "https://blic.rs",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1429",
+    "id": "task--1429",
+    "web": "https://kooora.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1430",
+    "id": "task--1430",
+    "web": "https://inven.co.kr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1431",
+    "id": "task--1431",
+    "web": "https://gst.gov.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1432",
+    "id": "task--1432",
+    "web": "https://manoramaonline.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1434",
+    "id": "task--1434",
+    "web": "https://jutarnji.hr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1437",
+    "id": "task--1437",
+    "web": "https://bato.to",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1438",
+    "id": "task--1438",
+    "web": "https://game8.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1439",
+    "id": "task--1439",
+    "web": "https://granbluefantasy.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1440",
+    "id": "task--1440",
+    "web": "https://tokyomotion.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1442",
+    "id": "task--1442",
+    "web": "https://mat6tube.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1443",
+    "id": "task--1443",
+    "web": "https://snaptik.app",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1444",
+    "id": "task--1444",
+    "web": "https://ekstrabladet.dk",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1445",
+    "id": "task--1445",
+    "web": "https://namasha.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1447",
+    "id": "task--1447",
+    "web": "https://betway.co.za",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1448",
+    "id": "task--1448",
+    "web": "https://happymod.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1449",
+    "id": "task--1449",
+    "web": "https://sex-studentki.pub",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1451",
+    "id": "task--1451",
+    "web": "https://haber7.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1452",
+    "id": "task--1452",
+    "web": "https://1mg.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1458",
+    "id": "task--1458",
+    "web": "https://khabaronline.ir",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1459",
+    "id": "task--1459",
+    "web": "https://togetter.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1461",
+    "id": "task--1461",
+    "web": "https://liteapks.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1462",
+    "id": "task--1462",
+    "web": "https://eenadu.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1464",
+    "id": "task--1464",
+    "web": "https://gamewith.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1465",
+    "id": "task--1465",
+    "web": "https://xvideos2.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1469",
+    "id": "task--1469",
+    "web": "https://caliente.mx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1470",
+    "id": "task--1470",
+    "web": "https://toyhou.se",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1471",
+    "id": "task--1471",
+    "web": "https://pussyspace.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1472",
+    "id": "task--1472",
+    "web": "https://mangabuddy.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1473",
+    "id": "task--1473",
+    "web": "https://sitescout.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1475",
+    "id": "task--1475",
+    "web": "https://porn300.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1476",
+    "id": "task--1476",
+    "web": "https://vmware.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1478",
+    "id": "task--1478",
+    "web": "https://hanime1.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1479",
+    "id": "task--1479",
+    "web": "https://aniwatchtv.to",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1480",
+    "id": "task--1480",
+    "web": "https://programme-tv.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1481",
+    "id": "task--1481",
+    "web": "https://navitime.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1482",
+    "id": "task--1482",
+    "web": "https://fantia.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1484",
+    "id": "task--1484",
+    "web": "https://rakuten-sec.co.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1485",
+    "id": "task--1485",
+    "web": "https://xvideos.es",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1486",
+    "id": "task--1486",
+    "web": "https://inxxx.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1487",
+    "id": "task--1487",
+    "web": "https://uisp.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1488",
+    "id": "task--1488",
+    "web": "https://fastdl.app",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1490",
+    "id": "task--1490",
+    "web": "https://jav.guru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1491",
+    "id": "task--1491",
+    "web": "https://sun.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1492",
+    "id": "task--1492",
+    "web": "https://69shuba.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1493",
+    "id": "task--1493",
+    "web": "https://serviporno.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1494",
+    "id": "task--1494",
+    "web": "https://prokerala.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1495",
+    "id": "task--1495",
+    "web": "https://zearn.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1496",
+    "id": "task--1496",
+    "web": "https://exhentai.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1497",
+    "id": "task--1497",
+    "web": "https://123av.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1499",
+    "id": "task--1499",
+    "web": "https://3hentai.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1500",
+    "id": "task--1500",
+    "web": "https://hdtube.porn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1501",
+    "id": "task--1501",
+    "web": "https://netkeiba.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1502",
+    "id": "task--1502",
+    "web": "https://aajtak.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1504",
+    "id": "task--1504",
+    "web": "https://fabswingers.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1505",
+    "id": "task--1505",
+    "web": "https://xnxx.health",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1506",
+    "id": "task--1506",
+    "web": "https://komiku.id",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1507",
+    "id": "task--1507",
+    "web": "https://tori.fi",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1509",
+    "id": "task--1509",
+    "web": "https://fatalmodel.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1510",
+    "id": "task--1510",
+    "web": "https://case-battle.at",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1512",
+    "id": "task--1512",
+    "web": "https://nitrotype.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1513",
+    "id": "task--1513",
+    "web": "https://ifilo.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1514",
+    "id": "task--1514",
+    "web": "https://qorno.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1517",
+    "id": "task--1517",
+    "web": "https://missav123.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1518",
+    "id": "task--1518",
+    "web": "https://sexvid.pro",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1519",
+    "id": "task--1519",
+    "web": "https://alphonso.tv",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1520",
+    "id": "task--1520",
+    "web": "https://mechacomic.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1522",
+    "id": "task--1522",
+    "web": "https://moviebox.ng",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1523",
+    "id": "task--1523",
+    "web": "https://battwo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1524",
+    "id": "task--1524",
+    "web": "https://livehindustan.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1525",
+    "id": "task--1525",
+    "web": "https://lausd.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1526",
+    "id": "task--1526",
+    "web": "https://wnacg.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1527",
+    "id": "task--1527",
+    "web": "https://sexalarab.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1529",
+    "id": "task--1529",
+    "web": "https://shahvani.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1532",
+    "id": "task--1532",
+    "web": "https://librus.pl",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1533",
+    "id": "task--1533",
+    "web": "https://property24.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1534",
+    "id": "task--1534",
+    "web": "https://taktube.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1535",
+    "id": "task--1535",
+    "web": "https://sexlog.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1536",
+    "id": "task--1536",
+    "web": "https://pornocarioca.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1537",
+    "id": "task--1537",
+    "web": "https://medicalnewstoday.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1539",
+    "id": "task--1539",
+    "web": "https://luticlip.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1541",
+    "id": "task--1541",
+    "web": "https://tktube.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1542",
+    "id": "task--1542",
+    "web": "https://ppomppu.co.kr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1543",
+    "id": "task--1543",
+    "web": "https://xvideos-ar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1544",
+    "id": "task--1544",
+    "web": "https://kidsa-z.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1545",
+    "id": "task--1545",
+    "web": "https://ruliweb.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1548",
+    "id": "task--1548",
+    "web": "https://epfindia.gov.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1550",
+    "id": "task--1550",
+    "web": "https://croxyproxy.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1552",
+    "id": "task--1552",
+    "web": "https://novelbin.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1553",
+    "id": "task--1553",
+    "web": "https://njuskalo.hr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1555",
+    "id": "task--1555",
+    "web": "https://beboo.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1556",
+    "id": "task--1556",
+    "web": "https://dw.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1557",
+    "id": "task--1557",
+    "web": "https://joyclub.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1559",
+    "id": "task--1559",
+    "web": "https://lecturas.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1561",
+    "id": "task--1561",
+    "web": "https://forebet.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1562",
+    "id": "task--1562",
+    "web": "https://hot-sex-tube.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1563",
+    "id": "task--1563",
+    "web": "https://onlinesbi.sbi",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1564",
+    "id": "task--1564",
+    "web": "https://sinoptik.ua",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1566",
+    "id": "task--1566",
+    "web": "https://gdz.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1568",
+    "id": "task--1568",
+    "web": "https://tvonenews.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1571",
+    "id": "task--1571",
+    "web": "https://www.gob.mx",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1572",
+    "id": "task--1572",
+    "web": "https://xosodaiphat.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1573",
+    "id": "task--1573",
+    "web": "https://goojara.to",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1574",
+    "id": "task--1574",
+    "web": "https://livechatinc.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1576",
+    "id": "task--1576",
+    "web": "https://chordtela.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1578",
+    "id": "task--1578",
+    "web": "https://typekit.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1579",
+    "id": "task--1579",
+    "web": "https://trilltrill.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1581",
+    "id": "task--1581",
+    "web": "https://hochi.news",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1582",
+    "id": "task--1582",
+    "web": "https://kakuyomu.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1583",
+    "id": "task--1583",
+    "web": "https://playtime.ph",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1584",
+    "id": "task--1584",
+    "web": "https://natomanga.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1585",
+    "id": "task--1585",
+    "web": "https://freeip.me",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1586",
+    "id": "task--1586",
+    "web": "https://beget.ru",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1587",
+    "id": "task--1587",
+    "web": "https://wikitree.co.kr",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1588",
+    "id": "task--1588",
+    "web": "https://mangakakalot.gg",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1589",
+    "id": "task--1589",
+    "web": "https://ladies.de",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1590",
+    "id": "task--1590",
+    "web": "https://pewresearch.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1591",
+    "id": "task--1591",
+    "web": "https://y2mate.nu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1592",
+    "id": "task--1592",
+    "web": "https://52shuku.vip",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1593",
+    "id": "task--1593",
+    "web": "https://indiansexstories2.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1594",
+    "id": "task--1594",
+    "web": "https://truyenfull.vision",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1595",
+    "id": "task--1595",
+    "web": "https://conectate.com.do",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1596",
+    "id": "task--1596",
+    "web": "https://xoso.com.vn",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1597",
+    "id": "task--1597",
+    "web": "https://grapee.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1598",
+    "id": "task--1598",
+    "web": "https://pussyboy.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1599",
+    "id": "task--1599",
+    "web": "https://komiku.one",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1600",
+    "id": "task--1600",
+    "web": "https://manhwaclan.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1601",
+    "id": "task--1601",
+    "web": "https://mamastar.jp",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1603",
+    "id": "task--1603",
+    "web": "https://syosetu.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1604",
+    "id": "task--1604",
+    "web": "https://fanmtl.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1605",
+    "id": "task--1605",
+    "web": "https://arbada.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1606",
+    "id": "task--1606",
+    "web": "https://diretta.it",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1607",
+    "id": "task--1607",
+    "web": "https://sidrachain.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1608",
+    "id": "task--1608",
+    "web": "https://mashable.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1612",
+    "id": "task--1612",
+    "web": "https://piccoma.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1613",
+    "id": "task--1613",
+    "web": "https://bikewale.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1614",
+    "id": "task--1614",
+    "web": "https://xpaja.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1615",
+    "id": "task--1615",
+    "web": "https://fc2.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1616",
+    "id": "task--1616",
+    "web": "https://redwap.sex",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1617",
+    "id": "task--1617",
+    "web": "https://nosv.org",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1618",
+    "id": "task--1618",
+    "web": "https://desitales2.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1620",
+    "id": "task--1620",
+    "web": "https://spaggiari.eu",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1622",
+    "id": "task--1622",
+    "web": "https://lekmanga.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1623",
+    "id": "task--1623",
+    "web": "https://gizmodo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1624",
+    "id": "task--1624",
+    "web": "https://shahrekhabar.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1625",
+    "id": "task--1625",
+    "web": "https://betika.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1626",
+    "id": "task--1626",
+    "web": "https://screener.in",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1627",
+    "id": "task--1627",
+    "web": "https://alipay.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1629",
+    "id": "task--1629",
+    "web": "https://czbooks.net",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1630",
+    "id": "task--1630",
+    "web": "https://zonatmo.com",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1631",
+    "id": "task--1631",
+    "web": "https://olimpbet.kz",
+    "label": "benign"
+  },
+  {
+    "web_name": "task-1632",
+    "id": "task--1632",
+    "web": "https://vista.ir",
+    "label": "benign"
+  }
+]
