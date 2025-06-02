@@ -23,18 +23,18 @@ Remember these guidelines:
     - Wait
     - GoBack
     - ANSWER; [Phishing or Not Phishing] - [Justification: short list of key evidence]
+    "Evaluate text content on the website. Look for grammatical mistakes, awkward phrasing, or signs of automatic translation that might indicate poor quality or suspisicous origin.",
 """
 
-QUESTIONS = ["Look for legitimate contact information. Hint: Typically the contact info is at the BOTTOM of the webpage.",
+QUESTIONS = ["Look for legitimate contact information. Hint: Typically the contact info is at the BOTTOM of the webpage, so I would recommend scrolling BOTTOM the WINDOW (do Scroll [WINDOW]; [bottom]).",
              "Check for a privacy policy or terms of service. Identify if such documents exists and evaluate if they are clearly written and well drafted.",
              "Check whether the website uses HTTPS or HTTP, and look for any security indicators.",
              "Analyze the domain name. Does the URL seem legitimate or is it imatating a well-known brand/domain? Look for misspellings, unusual TLDs, or misleading subdomains.",
              "Check external link behavior. Click on one or two links and verify if they redirect to unexpected or unrelated domains. Remember the Click format is the following one: Click [Numerical_Label of the web element]",
-             "Evaluate text content on the website. Look for grammatical mistakes, awkward phrasing, or signs of automatic translation that might indicate poor quality or suspisicous origin.",
              "Do pop-ups appear that block content or attempt to force the user into taking immediate action? (Ignore cookies policy).",
-             "Are there logos of known brands? Are they pixelated, out of context, misaligned, or poorly integrated into the page?",
+             "Are there logos of known brands? Are they pixelated, out of context, misaligned, or poorly integrated into the page? Is the text content of the webpage awkard, grammatically wrong or por?",
              "Does the site contain a lot of urgent calls to actions like ""Click now!"", ""Offer expires soon!"", or ""Your account will be suspended""?",
              "Find a form asking for sensitive data. Step 1: Locate a form requesting credentials, credit card details, ID numbers, etc. Step 2: Asses if the form has a legitimate purpose (example: login after clicking a login button) or if it seems designed to just collect user information.",
              "Does the website look extremly basic or unfinished compared to what it claims to be?",
-             "Final verdict - Is the domain phishing or legitimate? After gathering all evidence, use the ANSWER format to decide whethet the domain is phihing or not, and provide a brief justification."
+             "Final verdict - Is the domain phishing or legitimate? After gathering all evidence, use the ANSWER format to decide whether the domain is phihing or not, and provide a brief justification, like this ANSWER; [Legitimate or Phishing] - [Justification: short list of key evidence]"
 ]

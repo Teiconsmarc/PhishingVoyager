@@ -82,13 +82,20 @@ class PhishingDomainVoyager():
         logger.setLevel(logging.INFO)
 
     def normalize_label(self, label):
-        label = label.strip().lower()
-        if label in ["benign", "legitimate", "safe", "not phishing"]:
+
+        match = re.search(r"(?i)(phishing|legitimate|benign|safe|not phishing|malicious|suspicious|fraud)", label)
+        if not match:
+            return None
+
+        normalized = match.group(1).lower()
+        
+        if normalized in ["benign", "legitimate", "safe", "not phishing"]:
             return 0
-        elif label in ["phishing", "malicious", "suspicious", "fraud"]:
+        elif normalized in ["phishing", "malicious", "suspicious", "fraud"]:
             return 1
         else:
             return None
+
 
     def driver_config(self):
         options = webdriver.ChromeOptions()
@@ -370,13 +377,10 @@ class PhishingDomainVoyager():
         return None, True
     
 
-    def write_answer(self, answer_string, question_it, save_dir):
+    def write_answer(self, answer_string, question_it, jsonl_path):
         msg = {'Question': QUESTIONS[question_it], 'Answer': answer_string}
-
-        if save_dir:
-            os.makedirs(save_dir, exist_ok=True)
-            with open(save_dir, 'a', encoding='utf-8') as fw:
-                json.dump(msg, fw, indent=2, ensure_ascii=False)
+        with open(jsonl_path, 'a', encoding='utf-8') as fw:
+            fw.write(json.dumps(msg, ensure_ascii=False) + '\n')
 
 
     def exec_action_click(self, info, web_ele, driver_task):
@@ -525,8 +529,6 @@ class PhishingDomainVoyager():
             question_prompt = f"Question: " + QUESTIONS[it] + " "
             init_msg = init_msg + question_prompt + obs_prompt
 
-            question_answer_dir = os.path.join(task_dir, "question_answers.json")
-
             while it < self.max_iter:
                 logging.info(f'Iter: {it}')
                 number_of_actions_per_question += 1
@@ -566,8 +568,8 @@ class PhishingDomainVoyager():
                         if it == 2 or it == 3:
                             curr_msg['content'][0]['text'] = "Remember, the webpage URL is " + task['web'] + ". " + curr_msg['content'][0]['text']
                         
-                        if number_of_actions_per_question == 10:
-                            curr_msg['content'][0]['text'] = "This is the 10th action you have taken. Please use the Answer ACTION to answer the question with all the evidence you have gathered until now. " + curr_msg['content'][0]['text']
+                        if number_of_actions_per_question == 7:
+                            curr_msg['content'][0]['text'] = "This is the 7th action you have taken. Please use the Answer ACTION to answer the question with all the evidence you have gathered until now. " + curr_msg['content'][0]['text']
                             
                     else:
                         curr_msg = self.format_msg_text_only(it, init_msg, pdf_obs, warn_obs, ac_tree)
@@ -586,7 +588,7 @@ class PhishingDomainVoyager():
                     messages = clip_message_and_obs_text_only(messages, self.max_attached_imgs)
 
                 #Time to avoid making to many requests to the Gemini API
-                time.sleep(5)
+                time.sleep(15)
 
                 #Code for ollama api
                 if self.provider == 'ollama':
@@ -705,9 +707,9 @@ class PhishingDomainVoyager():
                     #También he cambiado la acción de answer para que esta también se utilice como contestación a las preguntas. Cada vez que el LLM utilice el answer se incrementara en 1 el número de iteraciones que han pasado
                     elif action_key == 'answer':
                         logging.info(info['content'])
-                        #Last iterations, that is to answer if the domain is actually phihing or not
-                        self.write_answer(chosen_action, it, question_answer_dir)
-                        if it == 11:
+                        jsonl_path = os.path.join(task_dir, 'all_answers.jsonl')
+                        self.write_answer(chosen_action, it, jsonl_path)
+                        if it == 10:
                             logging.info('finished!!')
                             predicted = self.normalize_label(chosen_action)
                             true_label = self.normalize_label(task["label"])

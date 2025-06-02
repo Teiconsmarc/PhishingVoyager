@@ -309,7 +309,7 @@ Answer; [Answer of the corresponding question] - [Justification: short list of k
 4) Once you have found the answer of the corresponding question, use the ANSWER action to finish and answer the question.
 5) You should interact with the webpage at least 2 or 3 times unless the answer is EXTREMELY obvious from the very first Observation. Do not rush to answer after the first Observation.
 5) If you identify enough evidence to answer the current question, you MUST immediatly use the ANSWER action instead of continuing exploring.
-6) If after a reasonable number of steps (maximum 10), you cannot find the required information, use ANSWER to explain this based on the available evidence.
+6) If after a reasonable number of steps (maximum 7), you cannot find the required information, use ANSWER to explain this based on the available evidence.
 
 *WEB BROWSING GUIDELINES*
 1) DO NOT INTERACT with non-informative elements like LOGINS, SIGN-IN, or DONATION buttons, unless you are explicitly told to.
