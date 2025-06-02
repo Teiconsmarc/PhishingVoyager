@@ -331,21 +331,35 @@ class PhishingDomainVoyager():
             return curr_msg
         
 
-    def call_gemini_api(self, message, system_instruction):
+    def call_gemini_api(self, message, system_instruction, max_retries=5):
+        backoff = 5
 
-        client = genai.Client(api_key=self.GEMINI_API_KEY)
+        for attempt in range(max_retries):
+            try:
+                client = genai.Client(api_key=self.GEMINI_API_KEY)
 
-        response = client.models.generate_content(
-            model= self.api_model,
-            config = types.GenerateContentConfig(
-                system_instruction = system_instruction),
-            contents=message
-        )
+                response = client.models.generate_content(
+                    model= self.api_model,
+                    config = types.GenerateContentConfig(
+                        system_instruction = system_instruction),
+                    contents=message
+                )
 
-        if response.text == None:
-            return response.text, True
+                if not response.text:
+                    return response.text, True
 
-        return response.text, False
+                return response.text, False
+            
+            except Exception as e:
+                if "503" in str(e) or "UNAVAILABLE" in str(e).upper():
+                    print(f"Gemini API overloaded (attempt {attempt+1}/{max_retries}). Retrying in {backoff}s...")
+                    time.sleep(backoff)
+                    backoff *= 2
+                else:
+                    print("unexpected error in Gemini API call: {e}")
+
+        print("Max retries exceeded. Giving up.")
+        return None, True
         
 
     def call_ollama_api(self, messages):
@@ -470,9 +484,22 @@ class PhishingDomainVoyager():
         result_dir = os.path.join(self.output_dir, current_time)
         os.makedirs(result_dir, exist_ok=True)
 
+        #If the execution has stopped we load the previous results
+        partial_results_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
+
         #Result lists for the metrics' calcualtion
         results = []
+        processed_ids = set()
 
+        if os.path.exists(partial_results_path):
+            print(f"Loading previosu results...")
+            with open(partial_results_path, 'r', encoding='utf-8') as f:
+                results = json.load(f)
+                processed_ids = {entry["id"] for entry in results if "id" in entry}
+        else:
+            print("No results from previous sessions. Starting from zero.")
+
+        
         # Load tasks
         tasks = []
         with open(self.test_file, 'r', encoding='utf-8') as f:
@@ -480,8 +507,11 @@ class PhishingDomainVoyager():
                 tasks.append(json.loads(line))
 
 
-        for task_id in range(len(tasks)):
-            task = tasks[task_id]
+        for task in tasks:
+            if task["id"] in processed_ids:
+                print(f"Task with ID {task['id']} already processed")
+                continue
+
             task_dir = os.path.join(result_dir, 'task{}'.format(task["id"]))
             os.makedirs(task_dir, exist_ok=True)
             self.setup_logger(task_dir)
@@ -601,6 +631,13 @@ class PhishingDomainVoyager():
                     response_text, api_call_error = self.call_gemini_api(gemini_format_messages, SYSTEM_PROMPT_PHISHING_v5)
 
                 if api_call_error:
+                    print(f"API error detected. Saving progress before exiting...")
+
+                    partial_save_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
+                    with open(partial_save_path, 'w', encoding='utf-8') as f:
+                        json.dump(results, f, indent=2, ensure_ascii=False)
+
+                    print(f"Partial results saved to: {partial_save_path}")
                     break
                 else:
                     if self.provider == 'ollama':
@@ -719,10 +756,12 @@ class PhishingDomainVoyager():
                                     "id": task["id"],
                                     "web": task["web"],
                                     "predicted": predicted,
-                                    "label": true_label
+                                    "label": true_label,
+                                    "raw_answer": response_text
                                 })
                             else:
                                 logging.warning(f"Predicted label '{predicted}' not valid for {task['id']}")
+                            driver_task.quit()
                             break
                         it += 1
                         number_of_actions_per_question = 0
@@ -760,18 +799,17 @@ class PhishingDomainVoyager():
             y_pred = [r["predicted"] for r in results]
 
             logging.info("=== Model performance ===")
-            report = classification_report(y_true, y_pred, target_names=["benign", "phishing"])
+            report = classification_report(y_true, y_pred, labels=[0,1], target_names=["benign", "phishing"], zero_division=0)
             logging.info("\n" + report)
 
-            matrix = confusion_matrix(y_true, y_pred)
+            matrix = confusion_matrix(y_true, y_pred, labels=[0,1])
             logging.info("Confusion matrix:")
             logging.info(matrix)
-            with open("confusion_matrix.json", "w") as f:
+            with open(os.path.join(result_dir, f"confusion_matrix_{self.api_model}.json"), "w") as f:
                 json.dump(matrix.tolist(), f, indent=2)
 
             df = pd.DataFrame(results)
-            df.to_csv(f"results_{self.api_model}_{self.provider}.csv", index=False)
-        else:
+            df.to_csv(os.path.join(result_dir, f"results_{self.api_model}_{self.provider}.csv"), index=False)
             logging.warning("No metrics available")
 
         return
