@@ -11,6 +11,9 @@
 {"web_name": "task--9115009", "id": "task--9115009", "web": "https://docs.google.com/presentation/d/e/2PACX-1vSDSLoZhbfM4EFl8YoX8Y5fbYQEMZl_nKNcr9VnfGtStDQo6CGc-GeFRAgq4F-ckKYyv3i5RqtlXemU/pub?start=false&amp;loop=false&amp;delayms=3000", "label": "phishing"}
 {"web_name": "task--9115620", "id": "task--9115620", "web": "http://103.99.210.5/", "label": "phishing"}
 {"web_name": "task--9115022", "id": "task--9115022", "web": "https://docs.google.com/drawings/d/1MAF6HhMbsxfDbTmUQ0p2Yk9c017qeMvwvCObc9YopU8/edit", "label": "phishing"}
+{"web_name": "task--9112568", "id": "task--9112568", "web": "http://wel-sicn-itpy.liveblog365.com", "label": "phishing"}
+{"web_name": "task-1056", "id": "task--1056", "web": "https://nba.com", "label": "benign"}
+{"web_name": "task--9112512", "id": "task--9112512", "web": "https://luck-bouncy-fukuiraptor.glitch.me/", "label": "phishing"}
 {"web_name": "task-1316", "id": "task--1316", "web": "https://unifi-ai.com", "label": "benign"}
 {"web_name": "task--9114992", "id": "task--9114992", "web": "https://star.lindasueprice.com/hostpoin/?L=cad8e386d0c374186fbeb51e32bb923479c5b1fa1eec328704da488523a5ad53", "label": "phishing"}
 {"web_name": "task-343", "id": "task--343", "web": "https://gosuslugi.ru", "label": "benign"}

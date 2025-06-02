@@ -15,6 +15,9 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import TimeoutException, WebDriverException
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from prompts.prompts import SYSTEM_PROMPT_PHISHING_v5, SYSTEM_PROMPT_PHISHING_TEXT_ONLY
 
@@ -518,18 +521,29 @@ class PhishingDomainVoyager():
             logging.info(f'########## TASK{task["id"]} ##########')
 
             driver_task = webdriver.Chrome(options=self.options)
-
-            # About window size, 765 tokens
-            # You can resize to height = 512 by yourself (255 tokens, Maybe bad performance)
-            driver_task.set_window_size(self.window_width, self.window_height)  # larger height may contain more web information
-            driver_task.get(task['web'])
+            driver_task.set_page_load_timeout(15) #Load timeout
             try:
-                driver_task.find_element(By.TAG_NAME, 'body').click()
-            except:
-                pass
-            # sometimes enter SPACE, the page will scroll down
-            driver_task.execute_script("""window.onkeydown = function(e) {if(e.keyCode == 32 && e.target.type != 'text' && e.target.type != 'textarea') {e.preventDefault();}};""")
-            time.sleep(5)
+                # About window size, 765 tokens
+                # You can resize to height = 512 by yourself (255 tokens, Maybe bad performance)
+                driver_task.set_window_size(self.window_width, self.window_height)  # larger height may contain more web information
+                driver_task.get(task['web'])
+
+                WebDriverWait(driver_task, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+                try:
+                    driver_task.find_element(By.TAG_NAME, 'body').click()
+                except:
+                    pass
+                # sometimes enter SPACE, the page will scroll down
+                driver_task.execute_script("""window.onkeydown = function(e) {if(e.keyCode == 32 && e.target.type != 'text' && e.target.type != 'textarea') {e.preventDefault();}};""")
+                time.sleep(5)
+
+            #If the page is not available
+            except (TimeoutException, WebDriverException) as e:
+                logging.warning(f"[TASK {task['id']}] Page not available: {task['web']}")
+                with open(os.path.join(task_dir, 'unavailable.txt'), 'w', encoding='utf-8') as f:
+                    f.write(f"Domain not avbailable or loading error: {task['web']}\n")
+                    f.write(f"Error: {str(e)}\n")
+                continue
 
             # We only deal with PDF file
             for filename in os.listdir(self.download_dir):
@@ -633,11 +647,11 @@ class PhishingDomainVoyager():
                 if api_call_error:
                     print(f"API error detected. Saving progress before exiting...")
 
-                    partial_save_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
-                    with open(partial_save_path, 'w', encoding='utf-8') as f:
-                        json.dump(results, f, indent=2, ensure_ascii=False)
+                    #partial_save_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
+                    #with open(partial_save_path, 'w', encoding='utf-8') as f:
+                    #    json.dump(results, f, indent=2, ensure_ascii=False)
 
-                    print(f"Partial results saved to: {partial_save_path}")
+                    #print(f"Partial results saved to: {partial_save_path}")
                     break
                 else:
                     if self.provider == 'ollama':
@@ -746,19 +760,27 @@ class PhishingDomainVoyager():
                         logging.info(info['content'])
                         jsonl_path = os.path.join(task_dir, 'all_answers.jsonl')
                         self.write_answer(chosen_action, it, jsonl_path)
+
                         if it == 10:
                             logging.info('finished!!')
+                            print('Finished!!')
                             predicted = self.normalize_label(chosen_action)
                             true_label = self.normalize_label(task["label"])
 
                             if predicted is not None and true_label is not None:
-                                results.append({
+                                results_entry = {
                                     "id": task["id"],
                                     "web": task["web"],
                                     "predicted": predicted,
                                     "label": true_label,
-                                    "raw_answer": response_text
-                                })
+                                    "raw_answer": chosen_action
+                                }
+                                results.append(results_entry)
+                                processed_ids.add(task["id"])
+
+                                with open(partial_results_path, 'w', encoding='utf-8') as f:
+                                    json.dump(results, f, indent=2, ensure_ascii=False)
+
                             else:
                                 logging.warning(f"Predicted label '{predicted}' not valid for {task['id']}")
                             driver_task.quit()
