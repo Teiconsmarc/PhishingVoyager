@@ -15,10 +15,9 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import TimeoutException, WebDriverException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
+from save_snapshot import save_site_snapshot, check_page_availability
 from prompts.prompts import SYSTEM_PROMPT_PHISHING_v5, SYSTEM_PROMPT_PHISHING_TEXT_ONLY
 
 from google import genai
@@ -359,7 +358,7 @@ class PhishingDomainVoyager():
                     time.sleep(backoff)
                     backoff *= 2
                 else:
-                    print("unexpected error in Gemini API call: {e}")
+                    print(f"Unexpected error in Gemini API call: {e}")
 
         print("Max retries exceeded. Giving up.")
         return None, True
@@ -520,30 +519,40 @@ class PhishingDomainVoyager():
             self.setup_logger(task_dir)
             logging.info(f'########## TASK{task["id"]} ##########')
 
-            driver_task = webdriver.Chrome(options=self.options)
-            driver_task.set_page_load_timeout(15) #Load timeout
-            try:
-                # About window size, 765 tokens
-                # You can resize to height = 512 by yourself (255 tokens, Maybe bad performance)
-                driver_task.set_window_size(self.window_width, self.window_height)  # larger height may contain more web information
-                driver_task.get(task['web'])
-
-                WebDriverWait(driver_task, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
-                try:
-                    driver_task.find_element(By.TAG_NAME, 'body').click()
-                except:
-                    pass
-                # sometimes enter SPACE, the page will scroll down
-                driver_task.execute_script("""window.onkeydown = function(e) {if(e.keyCode == 32 && e.target.type != 'text' && e.target.type != 'textarea') {e.preventDefault();}};""")
-                time.sleep(5)
-
-            #If the page is not available
-            except (TimeoutException, WebDriverException) as e:
-                logging.warning(f"[TASK {task['id']}] Page not available: {task['web']}")
+            #Test before using selenium that the web is available
+            if not check_page_availability(task):
+    
+                #Save that webpage is unavailable
                 with open(os.path.join(task_dir, 'unavailable.txt'), 'w', encoding='utf-8') as f:
-                    f.write(f"Domain not avbailable or loading error: {task['web']}\n")
-                    f.write(f"Error: {str(e)}\n")
+                    f.write(f"Domain not available or loading error: {task['web']}\n")
+
+                results.append({
+                    "id": task["id"],
+                    "web": task["web"],
+                    "predicted": "unavailable",
+                    "label": self.normalize_label(task["label"]),
+                    "raw_answer": None
+                })
+                #Save results so we dont analyze it again
+                with open(partial_results_path, 'w', encoding='utf-8') as f:
+                    json.dump(results, f, indent=2, ensure_ascii=False)
+
+                print(f"Domain not available for task {task["id"]}")
                 continue
+
+            save_site_snapshot(task)
+                
+            driver_task = webdriver.Chrome(options=self.options)
+
+            driver_task.set_window_size(self.window_width, self.window_height)  # larger height may contain more web information
+            driver_task.get(task['web'])
+            try:
+                driver_task.find_element(By.TAG_NAME, 'body').click()
+            except:
+                pass
+            # sometimes enter SPACE, the page will scroll down
+            driver_task.execute_script("""window.onkeydown = function(e) {if(e.keyCode == 32 && e.target.type != 'text' && e.target.type != 'textarea') {e.preventDefault();}};""")
+            time.sleep(5)
 
             # We only deal with PDF file
             for filename in os.listdir(self.download_dir):
@@ -591,7 +600,27 @@ class PhishingDomainVoyager():
                         else:
                             logging.error('Driver error when obtaining accessibility tree.')
                         logging.error(e)
-                        break
+
+                        #Save in the task dir that an error ocurred for this task
+                        error_file_path = os.path.join(task_dir, 'selenium_error.txt')
+                        with open(error_file_path, 'w', encoding='utf-8') as f:
+                            f.write(f"Error loading elements in task {task['id']}\n")
+                            f.write(f"URL: {task['web']}\n")
+                            f.write(f"Error: {str(e)}\n")
+                        
+                        #Save result
+                        results.append({
+                            "id": task["id"],
+                            "web": task["web"],
+                            "predicted": "selenium_error",
+                            "label": self.normalize_label(task["label"]),
+                            "raw_answer": None
+                        })
+
+                        with open(partial_results_path, 'w', encoding='utf-8') as f:
+                            json.dump(results, f, indent=2, ensure_ascii=False)
+
+                        continue
 
                     img_path = os.path.join(task_dir, f'screenshot{it}_{number_of_actions_per_question}.png')
                     driver_task.save_screenshot(img_path)
@@ -762,7 +791,6 @@ class PhishingDomainVoyager():
                         self.write_answer(chosen_action, it, jsonl_path)
 
                         if it == 10:
-                            logging.info('finished!!')
                             print('Finished!!')
                             predicted = self.normalize_label(chosen_action)
                             true_label = self.normalize_label(task["label"])
