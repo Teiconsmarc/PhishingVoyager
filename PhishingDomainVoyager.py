@@ -494,7 +494,7 @@ class PhishingDomainVoyager():
         processed_ids = set()
 
         if os.path.exists(partial_results_path):
-            print(f"Loading previosu results...")
+            print(f"Loading previous results...")
             with open(partial_results_path, 'r', encoding='utf-8') as f:
                 results = json.load(f)
                 processed_ids = {entry["id"] for entry in results if "id" in entry}
@@ -608,17 +608,9 @@ class PhishingDomainVoyager():
                             f.write(f"URL: {task['web']}\n")
                             f.write(f"Error: {str(e)}\n")
                         
-                        #Save result
-                        results.append({
-                            "id": task["id"],
-                            "web": task["web"],
-                            "predicted": "selenium_error",
-                            "label": self.normalize_label(task["label"]),
-                            "raw_answer": None
-                        })
-
-                        with open(partial_results_path, 'w', encoding='utf-8') as f:
-                            json.dump(results, f, indent=2, ensure_ascii=False)
+                        print("Error de selenium")
+                        
+                        fail_obs = "An error ocurred and your action has not been executed. Please, try again."
 
                         continue
 
@@ -674,7 +666,7 @@ class PhishingDomainVoyager():
                     response_text, api_call_error = self.call_gemini_api(gemini_format_messages, SYSTEM_PROMPT_PHISHING_v5)
 
                 if api_call_error:
-                    print(f"API error detected. Saving progress before exiting...")
+                    print(f"API error detected.")
 
                     #partial_save_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
                     #with open(partial_save_path, 'w', encoding='utf-8') as f:
