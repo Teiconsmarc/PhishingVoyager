@@ -1,0 +1,5 @@
+Evaluation metrics:
+✔ Accuracy : 0.4382
+✔ Precision: 0.4643
+✔ Recall   : 0.4149
+✔ F1 Score : 0.4382

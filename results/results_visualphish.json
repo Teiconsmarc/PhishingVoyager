@@ -1,0 +1,1587 @@
+[
+  {
+    "url": "https://unifi-ai.com",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 0
+  },
+  {
+    "url": "https://cornell.edu",
+    "phishing": 0,
+    "min_distance": 1.5259547233581543,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_3.png",
+    "label": 0
+  },
+  {
+    "url": "https://xnxx.tv",
+    "phishing": 0,
+    "min_distance": 2.1222000122070312,
+    "matched_brand": "Standard Chartered Bank",
+    "matched_image": "merge_targetlist/Standard Chartered Bank/T121_77.png",
+    "label": 0
+  },
+  {
+    "url": "https://russianfood.com",
+    "phishing": 1,
+    "min_distance": 1.31142258644104,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_66.png"
+  },
+  {
+    "url": "https://www.discordp.com/discord-download/",
+    "phishing": 1,
+    "min_distance": 1.4244720935821533,
+    "matched_brand": "Visa International Service Association",
+    "matched_image": "merge_targetlist/Visa International Service Association/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://trajets-uiys.com/",
+    "phishing": 0,
+    "min_distance": 2.2553281784057617,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://www.venzeeofficial.id/",
+    "phishing": 0,
+    "min_distance": 1.666221261024475,
+    "matched_brand": "Alibaba",
+    "matched_image": "merge_targetlist/Alibaba/T4_122.png",
+    "label": 1
+  },
+  {
+    "url": "https://my-sso-itrustcapital--com-cdn-s-aut.webflow.io/",
+    "phishing": 1,
+    "min_distance": 1.3192250728607178,
+    "matched_brand": "Banco Safra",
+    "matched_image": "merge_targetlist/Banco Safra/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRZrCKBhBB61yLfOMVTv5oiBPPNMjXO4nezAsvJDk299B0BgzoQDj4A1jmX-M65z2hRo6zVYRP96HXE/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "phishing": 1,
+    "min_distance": 1.2906047105789185,
+    "matched_brand": "PayPal",
+    "matched_image": "merge_targetlist/PayPal/T108_69.png",
+    "label": 1
+  },
+  {
+    "url": "https://trezor-hardware-wallet-1.gitbook.io/trezor-suite",
+    "phishing": 0,
+    "min_distance": 1.6476129293441772,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_10.png",
+    "label": 1
+  },
+  {
+    "url": "https://scorecardresearch.com",
+    "phishing": 1,
+    "min_distance": 1.2868475914001465,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_4.png"
+  },
+  {
+    "url": "https://hnmfd-6728413-futuretech-plovmryt-008.diversifiedhr.biz/master/",
+    "phishing": 1,
+    "min_distance": 0.413495272397995,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_33.png",
+    "label": 1
+  },
+  {
+    "url": "https://dailymotion.com",
+    "phishing": 0,
+    "min_distance": 2.978048324584961,
+    "matched_brand": "Credit Suisse AG",
+    "matched_image": "merge_targetlist/Credit Suisse AG/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://mangabuddy.com",
+    "phishing": 0,
+    "min_distance": 1.8591519594192505,
+    "matched_brand": "RuneScape",
+    "matched_image": "merge_targetlist/RuneScape/T112_8.png",
+    "label": 0
+  },
+  {
+    "url": "https://mobiiites-uiys.com/",
+    "phishing": 0,
+    "min_distance": 2.409879684448242,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_17.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1DJUcwwYJ87XU9PL9efqM4KSRUD8yundIU8optOXb0FM/edit",
+    "phishing": 0,
+    "min_distance": 1.987882375717163,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_39.png",
+    "label": 1
+  },
+  {
+    "url": "http://downloadfullfill.com/locatefile/the_strongest_battlegrounds_script/18040/0/windows_10%7Cyandex_browser/ji.basesfiles.com/empty/4?t=download_v5&rr=37495719&c2=otc0mtq5mje=",
+    "phishing": 1,
+    "min_distance": 0.9098330736160278,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_83.png",
+    "label": 1
+  },
+  {
+    "url": "https://forbes.com",
+    "phishing": 0,
+    "min_distance": 1.6080973148345947,
+    "matched_brand": "eharmony",
+    "matched_image": "merge_targetlist/eharmony/T55_9.png",
+    "label": 0
+  },
+  {
+    "url": "https://mobiiites-uiys.com/as.php",
+    "phishing": 0,
+    "min_distance": 2.371084213256836,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_37.png",
+    "label": 1
+  },
+  {
+    "url": "https://businessinsider.com",
+    "phishing": 1,
+    "min_distance": 1.2389845848083496,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_31.png",
+    "label": 0
+  },
+  {
+    "url": "https://shopeemobile.com",
+    "phishing": 0,
+    "min_distance": 2.49995756149292,
+    "matched_brand": "Alibaba",
+    "matched_image": "merge_targetlist/Alibaba/T4_122.png",
+    "label": 0
+  },
+  {
+    "url": "https://io-trezrstartt.gitbook.io/us",
+    "phishing": 0,
+    "min_distance": 1.6750432252883911,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_25.png",
+    "label": 1
+  },
+  {
+    "url": "https://unesco.org",
+    "phishing": 0,
+    "min_distance": 1.6450507640838623,
+    "matched_brand": "zoominfo",
+    "matched_image": "merge_targetlist/zoominfo/T155_10.png",
+    "label": 0
+  },
+  {
+    "url": "https://divar.ir",
+    "phishing": 0,
+    "min_distance": 2.506842613220215,
+    "matched_brand": "Netflix",
+    "matched_image": "merge_targetlist/Netflix/T98_20.png"
+  },
+  {
+    "url": "https://agoda.com",
+    "phishing": 0,
+    "min_distance": 1.7328088283538818,
+    "matched_brand": "Bank of Montreal",
+    "matched_image": "merge_targetlist/Bank of Montreal/T27_17.png",
+    "label": 0
+  },
+  {
+    "url": "https://globo.com",
+    "phishing": 1,
+    "min_distance": 0.9785116314888,
+    "matched_brand": "Senior People Meet",
+    "matched_image": "merge_targetlist/Senior People Meet/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://pbs.org",
+    "phishing": 1,
+    "min_distance": 1.4637948274612427,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_9.png"
+  },
+  {
+    "url": "https://at1-alpha.vercel.app/",
+    "phishing": 0,
+    "min_distance": 2.172663688659668,
+    "matched_brand": "Microsoft OneDrive",
+    "matched_image": "merge_targetlist/Microsoft OneDrive/T90_112.png",
+    "label": 1
+  },
+  {
+    "url": "https://star.lindasueprice.com/hostpoin/?L=cad8e386d0c374186fbeb51e32bb923479c5b1fa1eec328704da488523a5ad53",
+    "phishing": 1,
+    "min_distance": 1.4138034582138062,
+    "matched_brand": "ieee",
+    "matched_image": "merge_targetlist/ieee/T72_28.png",
+    "label": 1
+  },
+  {
+    "url": "https://dcm9x.wishshopko.top/",
+    "phishing": 1,
+    "min_distance": 1.311924934387207,
+    "matched_brand": "WeTransfer",
+    "matched_image": "merge_targetlist/WeTransfer/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://kooora.com",
+    "phishing": 0,
+    "min_distance": 3.1010851860046387,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_23.png",
+    "label": 0
+  },
+  {
+    "url": "https://adsafeprotected.com",
+    "phishing": 0,
+    "min_distance": 1.678758144378662,
+    "matched_brand": "ms_bing",
+    "matched_image": "merge_targetlist/ms_bing/T151_4.png"
+  },
+  {
+    "url": "https://segment.io",
+    "phishing": 0,
+    "min_distance": 3.275871992111206,
+    "matched_brand": "BZSt",
+    "matched_image": "merge_targetlist/BZSt/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://newrelic.com",
+    "phishing": 1,
+    "min_distance": 1.289754867553711,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_106.png"
+  },
+  {
+    "url": "https://pewresearch.org",
+    "phishing": 0,
+    "min_distance": 1.786826729774475,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_74.png",
+    "label": 0
+  },
+  {
+    "url": "https://tumblr.com",
+    "phishing": 1,
+    "min_distance": 1.3781943321228027,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_67.png",
+    "label": 0
+  },
+  {
+    "url": "https://reg.ru",
+    "phishing": 0,
+    "min_distance": 2.069521903991699,
+    "matched_brand": "Dropbox",
+    "matched_image": "merge_targetlist/Dropbox/T53_19.png",
+    "label": 0
+  },
+  {
+    "url": "https://medicalnewstoday.com",
+    "phishing": 0,
+    "min_distance": 2.0564799308776855,
+    "matched_brand": "LinkedIn Corporation",
+    "matched_image": "merge_targetlist/LinkedIn Corporation/T84_76.png"
+  },
+  {
+    "url": "https://wa.me",
+    "phishing": 0,
+    "min_distance": 1.645399808883667,
+    "matched_brand": "TD Bank Group",
+    "matched_image": "merge_targetlist/TD Bank Group/T_1.png"
+  },
+  {
+    "url": "https://mercadolibre.com.ar",
+    "phishing": 0,
+    "min_distance": 1.7464386224746704,
+    "matched_brand": "eBay",
+    "matched_image": "merge_targetlist/eBay/T54_195.png",
+    "label": 0
+  },
+  {
+    "url": "https://contravation-amende.com/",
+    "phishing": 0,
+    "min_distance": 1.7304672002792358,
+    "matched_brand": "etrade",
+    "matched_image": "merge_targetlist/etrade/T58_8.png",
+    "label": 1
+  },
+  {
+    "url": "https://sp510123.sitebeat.crazydomains.com/",
+    "phishing": 1,
+    "min_distance": 0.5381836891174316,
+    "matched_brand": "Yahoo!",
+    "matched_image": "merge_targetlist/Yahoo!/T144_36.png",
+    "label": 1
+  },
+  {
+    "url": "https://arxiv.org",
+    "phishing": 0,
+    "min_distance": 2.773517608642578,
+    "matched_brand": "Americanas.com S",
+    "matched_image": "merge_targetlist/Americanas.com S/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://stripe.com",
+    "phishing": 1,
+    "min_distance": 0.8372393846511841,
+    "matched_brand": "Stripe",
+    "matched_image": "merge_targetlist/Stripe/T124_39.png"
+  },
+  {
+    "url": "http://allegrolokalnie.pl-oferta89756.com",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png"
+  },
+  {
+    "url": "https://poki.com",
+    "phishing": 1,
+    "min_distance": 1.2974413633346558,
+    "matched_brand": "Luno",
+    "matched_image": "merge_targetlist/Luno/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://webmail-ionos.de-en.cc/",
+    "phishing": 1,
+    "min_distance": 1.250598430633545,
+    "matched_brand": "walmart",
+    "matched_image": "merge_targetlist/walmart/T139_36.png",
+    "label": 1
+  },
+  {
+    "url": "https://salesforceliveagent.com",
+    "phishing": 1,
+    "min_distance": 1.1915438175201416,
+    "matched_brand": "PayPal",
+    "matched_image": "merge_targetlist/PayPal/T108_93.png",
+    "label": 0
+  },
+  {
+    "url": "https://novelbin.com",
+    "phishing": 0,
+    "min_distance": 1.971038579940796,
+    "matched_brand": "MyEtherWallet",
+    "matched_image": "merge_targetlist/MyEtherWallet/T89_38.png",
+    "label": 0
+  },
+  {
+    "url": "https://apple.com",
+    "phishing": 1,
+    "min_distance": 1.3293286561965942,
+    "matched_brand": "typeform",
+    "matched_image": "merge_targetlist/typeform/T137_43.png",
+    "label": 0
+  },
+  {
+    "url": "https://roku.com",
+    "phishing": 1,
+    "min_distance": 1.1696600914001465,
+    "matched_brand": "Yahoo!",
+    "matched_image": "merge_targetlist/Yahoo!/T144_21.png",
+    "label": 0
+  },
+  {
+    "url": "https://adrta.com",
+    "phishing": 1,
+    "min_distance": 0.9521870017051697,
+    "matched_brand": "WeTransfer",
+    "matched_image": "merge_targetlist/WeTransfer/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://python.org",
+    "phishing": 1,
+    "min_distance": 0.45454907417297363,
+    "matched_brand": "blizzard",
+    "matched_image": "merge_targetlist/blizzard/T26_36.png",
+    "label": 0
+  },
+  {
+    "url": "https://force.com",
+    "phishing": 1,
+    "min_distance": 1.3426527976989746,
+    "matched_brand": "PayPal",
+    "matched_image": "merge_targetlist/PayPal/T108_48.png",
+    "label": 0
+  },
+  {
+    "url": "http://allegro.pl-oferta89756.com",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://ln.run/t-l93",
+    "phishing": 0,
+    "min_distance": 1.8349967002868652,
+    "matched_brand": "infinisource",
+    "matched_image": "merge_targetlist/infinisource/T74_0.png",
+    "label": 1
+  },
+  {
+    "url": "https://firefox.com",
+    "phishing": 0,
+    "min_distance": 3.0455222129821777,
+    "matched_brand": "Landesbank Berlin AG",
+    "matched_image": "merge_targetlist/Landesbank Berlin AG/T82_4.png",
+    "label": 0
+  },
+  {
+    "url": "https://quickconnect.to",
+    "phishing": 1,
+    "min_distance": 1.257673978805542,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_87.png",
+    "label": 0
+  },
+  {
+    "url": "https://onetrust.com",
+    "phishing": 1,
+    "min_distance": 0.7902194261550903,
+    "matched_brand": "GoDaddy",
+    "matched_image": "merge_targetlist/GoDaddy/T64_107.png",
+    "label": 0
+  },
+  {
+    "url": "https://gtcarsindia.com/909/spazz/index.php",
+    "phishing": 1,
+    "min_distance": 1.1722089052200317,
+    "matched_brand": "Sakura Internet",
+    "matched_image": "merge_targetlist/Sakura Internet/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://furaffinity.net",
+    "phishing": 1,
+    "min_distance": 1.2447683811187744,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_112.png",
+    "label": 0
+  },
+  {
+    "url": "https://ir-ahora07.glitch.me/",
+    "phishing": 1,
+    "min_distance": 1.1385536193847656,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_85.png",
+    "label": 1
+  },
+  {
+    "url": "https://webixybootcamp.com/owa/1index.html",
+    "phishing": 1,
+    "min_distance": 0.7666233777999878,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1jLyP-oOmzNjX7EdLxDZSsg0OS1eu_kYApPOkcfz9hg8/edit",
+    "phishing": 0,
+    "min_distance": 2.2771146297454834,
+    "matched_brand": "Wells Fargo & Company",
+    "matched_image": "merge_targetlist/Wells Fargo & Company/T140_50.png",
+    "label": 1
+  },
+  {
+    "url": "https://turkiye.gov.tr",
+    "phishing": 1,
+    "min_distance": 0.87279212474823,
+    "matched_brand": "Chase Personal Banking",
+    "matched_image": "merge_targetlist/Chase Personal Banking/T39_93.png",
+    "label": 0
+  },
+  {
+    "url": "https://cen-o9ni.vercel.app/violate/page.html",
+    "phishing": 0,
+    "min_distance": 1.5289264917373657,
+    "matched_brand": "Facebook",
+    "matched_image": "merge_targetlist/Facebook/T59_15.png",
+    "label": 1
+  },
+  {
+    "url": "https://virtualearth.net",
+    "phishing": 0,
+    "min_distance": 1.6603951454162598,
+    "matched_brand": "Microsoft OneDrive",
+    "matched_image": "merge_targetlist/Microsoft OneDrive/T90_89.png",
+    "label": 0
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1xRt40wCYHc74frG9PthSPaMmPlzJFdiwm-RF1JROEJ0/edit",
+    "phishing": 0,
+    "min_distance": 2.8229455947875977,
+    "matched_brand": "Spark New Zealand",
+    "matched_image": "merge_targetlist/Spark New Zealand/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://cpcontacts.165-154-254-94.cprapid.com/home?c_ds_na=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7&c_ds_no=REj5Gds2KIzzl9wUERis6OXIzx8VedzjW7mIkS6cTu",
+    "phishing": 1,
+    "min_distance": 0.4394632577896118,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_69.png",
+    "label": 1
+  },
+  {
+    "url": "https://ssstik.io",
+    "phishing": 0,
+    "min_distance": 2.730685234069824,
+    "matched_brand": "Yahoo!",
+    "matched_image": "merge_targetlist/Yahoo!/T144_15.png",
+    "label": 0
+  },
+  {
+    "url": "https://sp409355.sitebeat.crazydomains.com/",
+    "phishing": 1,
+    "min_distance": 0.8895999193191528,
+    "matched_brand": "typeform",
+    "matched_image": "merge_targetlist/typeform/T137_5.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1M4EUR7tIoeiaTl22QgSpLdTAnlw63ifVRBLX7NYChU0/edit",
+    "phishing": 0,
+    "min_distance": 2.1782453060150146,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_9.png",
+    "label": 1
+  },
+  {
+    "url": "http://jshdhuuros.surge.sh/",
+    "phishing": 1,
+    "min_distance": 0.915733277797699,
+    "matched_brand": "ameli_fr",
+    "matched_image": "merge_targetlist/ameli_fr/T8_8.png",
+    "label": 1
+  },
+  {
+    "url": "https://temu.com",
+    "phishing": 0,
+    "min_distance": 1.6089186668395996,
+    "matched_brand": "mbank",
+    "matched_image": "merge_targetlist/mbank/T87_72.png",
+    "label": 0
+  },
+  {
+    "url": "http://ceelegal.com",
+    "phishing": 0,
+    "min_distance": 2.0896241664886475,
+    "matched_brand": "blizzard",
+    "matched_image": "merge_targetlist/blizzard/T26_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://get-trezor-support.teachable.com/p/home",
+    "phishing": 1,
+    "min_distance": 1.3334307670593262,
+    "matched_brand": "NedBank Limited",
+    "matched_image": "merge_targetlist/NedBank Limited/T97_3.png",
+    "label": 1
+  },
+  {
+    "url": "http://103.99.210.5/",
+    "phishing": 1,
+    "min_distance": 1.2822917699813843,
+    "matched_brand": "Equa bank",
+    "matched_image": "merge_targetlist/Equa bank/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://pccc.com",
+    "phishing": 0,
+    "min_distance": 2.61450457572937,
+    "matched_brand": "ieee",
+    "matched_image": "merge_targetlist/ieee/T72_76.png",
+    "label": 0
+  },
+  {
+    "url": "https://livescore.com",
+    "phishing": 0,
+    "min_distance": 2.7752926349639893,
+    "matched_brand": "Square",
+    "matched_image": "merge_targetlist/Square/T_2.png",
+    "label": 0
+  },
+  {
+    "url": "https://supercell.com",
+    "phishing": 1,
+    "min_distance": 1.1191174983978271,
+    "matched_brand": "Square",
+    "matched_image": "merge_targetlist/Square/T_2.png"
+  },
+  {
+    "url": "https://helps-content-ledggr.webflow.io/",
+    "phishing": 0,
+    "min_distance": 1.8413240909576416,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_20.png",
+    "label": 1
+  },
+  {
+    "url": "https://springer.com",
+    "phishing": 1,
+    "min_distance": 1.2724556922912598,
+    "matched_brand": "Luno",
+    "matched_image": "merge_targetlist/Luno/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScqJmmpVhf-v4KMqr7N3Zt9PJL0a40kuMwc2OsEz5XZsFP2-A/viewform?usp=send_form",
+    "phishing": 1,
+    "min_distance": 1.3645583391189575,
+    "matched_brand": "bcp",
+    "matched_image": "merge_targetlist/bcp/T24_16.png",
+    "label": 1
+  },
+  {
+    "url": "https://claim-daget-2025.dftr1.cfd/kaget=s6j7sxzeazg&r=iVlQUs",
+    "phishing": 0,
+    "min_distance": 2.3778531551361084,
+    "matched_brand": "PayPal",
+    "matched_image": "merge_targetlist/PayPal/T108_18.png",
+    "label": 1
+  },
+  {
+    "url": "https://intuit.com",
+    "phishing": 0,
+    "min_distance": 2.7165346145629883,
+    "matched_brand": "La Poste",
+    "matched_image": "merge_targetlist/La Poste/T80_27.png"
+  },
+  {
+    "url": "https://auth-m-start---ledgar---web.webflow.io/",
+    "phishing": 0,
+    "min_distance": 1.8413240909576416,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_20.png",
+    "label": 1
+  },
+  {
+    "url": "https://httpss-www--roblox.com/users/13030352/profile",
+    "phishing": 0,
+    "min_distance": 1.5583674907684326,
+    "matched_brand": "Outlook",
+    "matched_image": "merge_targetlist/Outlook/T_2.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQ1qBsWHmOGElGnVbDUOfj_vJ6WkA4BhHrNXSWTbdLSxWyl0M0FCq2nZ3giFi5ElC3jIWiKGtZwL8mQ/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "phishing": 1,
+    "min_distance": 0.9807201027870178,
+    "matched_brand": "Stripe",
+    "matched_image": "merge_targetlist/Stripe/T124_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://googlesyndication.com",
+    "phishing": 1,
+    "min_distance": 1.2769851684570312,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_66.png",
+    "label": 0
+  },
+  {
+    "url": "https://crashlytics.com",
+    "phishing": 0,
+    "min_distance": 1.6166237592697144,
+    "matched_brand": "Commonwealth Bank of Australia",
+    "matched_image": "merge_targetlist/Commonwealth Bank of Australia/T44_33.png",
+    "label": 0
+  },
+  {
+    "url": "https://point.angolodellatelefonia.com/hostpoin/",
+    "phishing": 1,
+    "min_distance": 1.4138034582138062,
+    "matched_brand": "ieee",
+    "matched_image": "merge_targetlist/ieee/T72_28.png",
+    "label": 1
+  },
+  {
+    "url": "https://finn.no",
+    "phishing": 0,
+    "min_distance": 2.2117371559143066,
+    "matched_brand": "Cembra Money Bank AG",
+    "matched_image": "merge_targetlist/Cembra Money Bank AG/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://ngenix.net",
+    "phishing": 0,
+    "min_distance": 1.6435186862945557,
+    "matched_brand": "Simplii Financial",
+    "matched_image": "merge_targetlist/Simplii Financial/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "http://blockhchaiinlogin-usa.godaddysites.com/",
+    "phishing": 0,
+    "min_distance": 1.7920403480529785,
+    "matched_brand": "walmart",
+    "matched_image": "merge_targetlist/walmart/T139_50.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1bPRoyX35EXdGVcwb1YMhxTaNbKAQbl_kRI4mTBwOYb4/edit",
+    "phishing": 0,
+    "min_distance": 1.8451892137527466,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://beautycareid.com/m/user/assets",
+    "phishing": 0,
+    "min_distance": 2.075706958770752,
+    "matched_brand": "Wells Fargo & Company",
+    "matched_image": "merge_targetlist/Wells Fargo & Company/T140_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://maricopa.gov",
+    "phishing": 0,
+    "min_distance": 2.080855131149292,
+    "matched_brand": "capital_one",
+    "matched_image": "merge_targetlist/capital_one/T35_31.png",
+    "label": 0
+  },
+  {
+    "url": "https://mapbox.com",
+    "phishing": 0,
+    "min_distance": 2.319298267364502,
+    "matched_brand": "Rackspace",
+    "matched_image": "merge_targetlist/Rackspace/T_2.png",
+    "label": 0
+  },
+  {
+    "url": "https://app.cgd.pt/cdoOBA/login.seam?ref=3f3e1ac2300e91427aa77e420e92d00ad1",
+    "phishing": 0,
+    "min_distance": 1.5854319334030151,
+    "matched_brand": "walmart",
+    "matched_image": "merge_targetlist/walmart/T139_22.png",
+    "label": 1
+  },
+  {
+    "url": "https://redditmedia.com",
+    "phishing": 1,
+    "min_distance": 0.6436953544616699,
+    "matched_brand": "etrade",
+    "matched_image": "merge_targetlist/etrade/T58_17.png",
+    "label": 0
+  },
+  {
+    "url": "https://facturationbadge-uiys.com/",
+    "phishing": 0,
+    "min_distance": 2.4075379371643066,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_17.png",
+    "label": 1
+  },
+  {
+    "url": "https://nesine.com",
+    "phishing": 1,
+    "min_distance": 1.106659173965454,
+    "matched_brand": "htb",
+    "matched_image": "merge_targetlist/htb/T70_14.png"
+  },
+  {
+    "url": "https://amazon.in",
+    "phishing": 1,
+    "min_distance": 0.8415247201919556,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_28.png",
+    "label": 0
+  },
+  {
+    "url": "http://bishalnandi.github.io/Facebook-login-page-clone",
+    "phishing": 1,
+    "min_distance": 1.4399030208587646,
+    "matched_brand": "Dropbox",
+    "matched_image": "merge_targetlist/Dropbox/T53_61.png",
+    "label": 1
+  },
+  {
+    "url": "https://notion.so",
+    "phishing": 0,
+    "min_distance": 1.5682470798492432,
+    "matched_brand": "Instagram",
+    "matched_image": "merge_targetlist/Instagram/T75_15.png",
+    "label": 0
+  },
+  {
+    "url": "https://urlz.fr/uzIr?userid=x6JwzxyM",
+    "phishing": 0,
+    "min_distance": 2.6200506687164307,
+    "matched_brand": "wp60",
+    "matched_image": "merge_targetlist/wp60/T142_3.png",
+    "label": 1
+  },
+  {
+    "url": "https://cnet.com",
+    "phishing": 1,
+    "min_distance": 1.3216603994369507,
+    "matched_brand": "Etisalat",
+    "matched_image": "merge_targetlist/Etisalat/T57_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://groupage-pb.com/",
+    "phishing": 0,
+    "min_distance": 2.3141870498657227,
+    "matched_brand": "etrade",
+    "matched_image": "merge_targetlist/etrade/T58_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://kuceeriqinlgen.webflow.io/",
+    "phishing": 0,
+    "min_distance": 2.1187150478363037,
+    "matched_brand": "GoDaddy",
+    "matched_image": "merge_targetlist/GoDaddy/T64_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://secure-ai-ledger-auth.webflow.io/",
+    "phishing": 0,
+    "min_distance": 2.718221664428711,
+    "matched_brand": "Americanas.com S",
+    "matched_image": "merge_targetlist/Americanas.com S/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://site-3ancsxizu.godaddysites.com/",
+    "phishing": 1,
+    "min_distance": 1.2738146781921387,
+    "matched_brand": "Twitter, Inc",
+    "matched_image": "merge_targetlist/Twitter, Inc/T136_33.png",
+    "label": 1
+  },
+  {
+    "url": "https://instructure.com",
+    "phishing": 1,
+    "min_distance": 1.1624085903167725,
+    "matched_brand": "Cembra Money Bank AG",
+    "matched_image": "merge_targetlist/Cembra Money Bank AG/T_1.png"
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1MAF6HhMbsxfDbTmUQ0p2Yk9c017qeMvwvCObc9YopU8/edit",
+    "phishing": 0,
+    "min_distance": 2.2201874256134033,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_14.png",
+    "label": 1
+  },
+  {
+    "url": "https://9qyku.wishshopko.top/",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://mainnetrevent.vercel.app/app.html",
+    "phishing": 0,
+    "min_distance": 2.2903852462768555,
+    "matched_brand": "Telstra Corporation Limited",
+    "matched_image": "merge_targetlist/Telstra Corporation Limited/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://punchbowlinvitation.vercel.app/",
+    "phishing": 0,
+    "min_distance": 2.58186411857605,
+    "matched_brand": "Microsoft OneDrive",
+    "matched_image": "merge_targetlist/Microsoft OneDrive/T149_8.png",
+    "label": 1
+  },
+  {
+    "url": "https://rutube.ru",
+    "phishing": 1,
+    "min_distance": 1.3950450420379639,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_62.png",
+    "label": 0
+  },
+  {
+    "url": "https://namestudio.com",
+    "phishing": 0,
+    "min_distance": 2.2386789321899414,
+    "matched_brand": "snapchat",
+    "matched_image": "merge_targetlist/snapchat/T119_2.png",
+    "label": 0
+  },
+  {
+    "url": "https://willetstrezor.gitbook.io/us",
+    "phishing": 0,
+    "min_distance": 1.6750432252883911,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_25.png",
+    "label": 1
+  },
+  {
+    "url": "https://investopedia.com",
+    "phishing": 0,
+    "min_distance": 2.3457789421081543,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_24.png",
+    "label": 0
+  },
+  {
+    "url": "https://amazon.com.mx",
+    "phishing": 0,
+    "min_distance": 1.723210096359253,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_24.png"
+  },
+  {
+    "url": "https://caffesound.com/?BlNR=iyOv&O1CBY=1VbLScco&3x84kF93=dLW9",
+    "phishing": 1,
+    "min_distance": 1.250598430633545,
+    "matched_brand": "walmart",
+    "matched_image": "merge_targetlist/walmart/T139_36.png",
+    "label": 1
+  },
+  {
+    "url": "https://starte-ledgerdocs.webflow.io/",
+    "phishing": 0,
+    "min_distance": 1.842063307762146,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_20.png",
+    "label": 1
+  },
+  {
+    "url": "https://interia.pl",
+    "phishing": 0,
+    "min_distance": 3.97745418548584,
+    "matched_brand": "qnb",
+    "matched_image": "merge_targetlist/qnb/T110_4.png"
+  },
+  {
+    "url": "https://amazon.eg",
+    "phishing": 0,
+    "min_distance": 2.045297145843506,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_50.png",
+    "label": 0
+  },
+  {
+    "url": "https://wikihow.com",
+    "phishing": 0,
+    "min_distance": 1.6204769611358643,
+    "matched_brand": "Etisalat",
+    "matched_image": "merge_targetlist/Etisalat/T57_1.png"
+  },
+  {
+    "url": "https://ivi.ru",
+    "phishing": 1,
+    "min_distance": 1.225647211074829,
+    "matched_brand": "Frontier Communications",
+    "matched_image": "merge_targetlist/Frontier Communications/T_2.png",
+    "label": 0
+  },
+  {
+    "url": "https://madison7.teachable.com/p/home",
+    "phishing": 1,
+    "min_distance": 1.3333923816680908,
+    "matched_brand": "NedBank Limited",
+    "matched_image": "merge_targetlist/NedBank Limited/T97_3.png",
+    "label": 1
+  },
+  {
+    "url": "https://miui.com",
+    "phishing": 1,
+    "min_distance": 0.4220319390296936,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_16.png",
+    "label": 0
+  },
+  {
+    "url": "https://indiatimes.com",
+    "phishing": 1,
+    "min_distance": 1.4817010164260864,
+    "matched_brand": "Facebook",
+    "matched_image": "merge_targetlist/Facebook/T59_32.png",
+    "label": 0
+  },
+  {
+    "url": "https://mailchimp.com",
+    "phishing": 1,
+    "min_distance": 1.1485252380371094,
+    "matched_brand": "Credit Suisse AG",
+    "matched_image": "merge_targetlist/Credit Suisse AG/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "http://allegro.pl-oferta7983724.shop",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://telegram.me",
+    "phishing": 1,
+    "min_distance": 0.8209141492843628,
+    "matched_brand": "Twitter, Inc",
+    "matched_image": "merge_targetlist/Twitter, Inc/T136_55.png",
+    "label": 0
+  },
+  {
+    "url": "https://bandcamp.com",
+    "phishing": 1,
+    "min_distance": 1.200901746749878,
+    "matched_brand": "Microsoft OneDrive",
+    "matched_image": "merge_targetlist/Microsoft OneDrive/T90_31.png",
+    "label": 0
+  },
+  {
+    "url": "http://allegrolokalnie.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1oOgApdah-YDn5VxBGz2c4bbcNBWMtuhcS1eaIaLETxU/edit",
+    "phishing": 0,
+    "min_distance": 1.5025334358215332,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_20.png",
+    "label": 1
+  },
+  {
+    "url": "https://line.me",
+    "phishing": 0,
+    "min_distance": 1.8344881534576416,
+    "matched_brand": "Discover",
+    "matched_image": "merge_targetlist/Discover/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://deloitte.com",
+    "phishing": 1,
+    "min_distance": 0.5102680921554565,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_74.png",
+    "label": 0
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1UTYEYj4PmqFdSOFmriwWYito66f7Wa_c7zgpj03PD-8/edit",
+    "phishing": 0,
+    "min_distance": 2.153423547744751,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_14.png",
+    "label": 1
+  },
+  {
+    "url": "https://index.hr",
+    "phishing": 1,
+    "min_distance": 1.2843825817108154,
+    "matched_brand": "Canadian Imperial Bank of Commerce",
+    "matched_image": "merge_targetlist/Canadian Imperial Bank of Commerce/T40_17.png",
+    "label": 0
+  },
+  {
+    "url": "https://reglement-somme.com/as.php",
+    "phishing": 0,
+    "min_distance": 2.355205535888672,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://split.io",
+    "phishing": 0,
+    "min_distance": 2.5847067832946777,
+    "matched_brand": "Chase Personal Banking",
+    "matched_image": "merge_targetlist/Chase Personal Banking/T39_96.png",
+    "label": 0
+  },
+  {
+    "url": "https://moviebox.ng",
+    "phishing": 1,
+    "min_distance": 1.0397310256958008,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_37.png",
+    "label": 0
+  },
+  {
+    "url": "https://daum.net",
+    "phishing": 1,
+    "min_distance": 1.0363062620162964,
+    "matched_brand": "blizzard",
+    "matched_image": "merge_targetlist/blizzard/T26_38.png",
+    "label": 0
+  },
+  {
+    "url": "https://steamcommunity.com",
+    "phishing": 1,
+    "min_distance": 0.7693926095962524,
+    "matched_brand": "Steam",
+    "matched_image": "merge_targetlist/Steam/T122_90.png",
+    "label": 0
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1BHNCawACZFQfyUFifIgxfMKpe0XngJAHkO7TvyDmSpU/edit",
+    "phishing": 0,
+    "min_distance": 1.5886096954345703,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_14.png",
+    "label": 1
+  },
+  {
+    "url": "https://iso.org",
+    "phishing": 0,
+    "min_distance": 1.8153612613677979,
+    "matched_brand": "Canadian Imperial Bank of Commerce",
+    "matched_image": "merge_targetlist/Canadian Imperial Bank of Commerce/T40_51.png",
+    "label": 0
+  },
+  {
+    "url": "https://character.ai",
+    "phishing": 1,
+    "min_distance": 0.9000328779220581,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_81.png",
+    "label": 0
+  },
+  {
+    "url": "https://livedoor.com",
+    "phishing": 0,
+    "min_distance": 1.5026209354400635,
+    "matched_brand": "HSBC Bank",
+    "matched_image": "merge_targetlist/HSBC Bank/T69_43.png"
+  },
+  {
+    "url": "https://vnexpress.net",
+    "phishing": 1,
+    "min_distance": 0.75541090965271,
+    "matched_brand": "BB&T Corporation",
+    "matched_image": "merge_targetlist/BB&T Corporation/T23_6.png",
+    "label": 0
+  },
+  {
+    "url": "https://3nh2j.wishshopko.top/",
+    "phishing": 0,
+    "min_distance": 2.9213154315948486,
+    "matched_brand": "ASB Bank Limited",
+    "matched_image": "merge_targetlist/ASB Bank Limited/T_2.png",
+    "label": 1
+  },
+  {
+    "url": "https://official-ledgr-us.webflow.io/",
+    "phishing": 0,
+    "min_distance": 1.8415501117706299,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_20.png",
+    "label": 1
+  },
+  {
+    "url": "https://faq-en-cdn-trezoer.webflow.io/",
+    "phishing": 1,
+    "min_distance": 1.316359281539917,
+    "matched_brand": "Huntington Bank",
+    "matched_image": "merge_targetlist/Huntington Bank/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "https://wi8u4fewqtuzih9v.radiowebluzfm.com/uX1f2LwHB/rmpq6uxkc7a3ztuc",
+    "phishing": 1,
+    "min_distance": 0.7667386531829834,
+    "matched_brand": "IBC Bank",
+    "matched_image": "merge_targetlist/IBC Bank/T_2.png",
+    "label": 1
+  },
+  {
+    "url": "https://docker.com",
+    "phishing": 0,
+    "min_distance": 2.178093194961548,
+    "matched_brand": "Dropbox",
+    "matched_image": "merge_targetlist/Dropbox/T53_19.png"
+  },
+  {
+    "url": "https://b-cdn.net",
+    "phishing": 0,
+    "min_distance": 1.976125717163086,
+    "matched_brand": "Banco Safra",
+    "matched_image": "merge_targetlist/Banco Safra/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://tinyurl.com/3j7h2jat",
+    "phishing": 1,
+    "min_distance": 1.1572173833847046,
+    "matched_brand": "United Services Automobile Association",
+    "matched_image": "merge_targetlist/United Services Automobile Association/T138_35.png",
+    "label": 1
+  },
+  {
+    "url": "https://uiysbadge.info/as.php",
+    "phishing": 0,
+    "min_distance": 2.355968952178955,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_11.png",
+    "label": 1
+  },
+  {
+    "url": "http://xn--im-1z5cr40w.com/",
+    "phishing": 0,
+    "min_distance": 1.5985345840454102,
+    "matched_brand": "walmart",
+    "matched_image": "merge_targetlist/walmart/T139_25.png",
+    "label": 1
+  },
+  {
+    "url": "https://ulys-fr.com/z.php",
+    "phishing": 1,
+    "min_distance": 0.8578639030456543,
+    "matched_brand": "Outlook",
+    "matched_image": "merge_targetlist/Outlook/T_2.png",
+    "label": 1
+  },
+  {
+    "url": "https://capcut.com",
+    "phishing": 1,
+    "min_distance": 1.1600435972213745,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_84.png",
+    "label": 0
+  },
+  {
+    "url": "https://contextweb.com",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png"
+  },
+  {
+    "url": "https://substack.com",
+    "phishing": 0,
+    "min_distance": 2.449138879776001,
+    "matched_brand": "cloudns",
+    "matched_image": "merge_targetlist/cloudns/T42_32.png",
+    "label": 0
+  },
+  {
+    "url": "https://uiysbadge.info/",
+    "phishing": 0,
+    "min_distance": 2.402461051940918,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_17.png",
+    "label": 1
+  },
+  {
+    "url": "https://sites.google.com/view/koloti/home",
+    "phishing": 0,
+    "min_distance": 1.7326405048370361,
+    "matched_brand": "Microsoft OneDrive",
+    "matched_image": "merge_targetlist/Microsoft OneDrive/T90_56.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1pnOY6GFxBgUgsqiAO05cyP03uSkEyvcv-gjc5IFhs6E/edit",
+    "phishing": 0,
+    "min_distance": 1.8581221103668213,
+    "matched_brand": "bradesco",
+    "matched_image": "merge_targetlist/bradesco/T31_9.png",
+    "label": 1
+  },
+  {
+    "url": "https://aniwatchtv.to",
+    "phishing": 1,
+    "min_distance": 1.1769018173217773,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_74.png",
+    "label": 0
+  },
+  {
+    "url": "https://gosuslugi.ru",
+    "phishing": 1,
+    "min_distance": 1.3847782611846924,
+    "matched_brand": "Bank of Montreal",
+    "matched_image": "merge_targetlist/Bank of Montreal/T27_172.png",
+    "label": 0
+  },
+  {
+    "url": "http://tr.ee/Itsme-cardstop",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://manhwaclan.com",
+    "phishing": 1,
+    "min_distance": 1.4393724203109741,
+    "matched_brand": "cloudns",
+    "matched_image": "merge_targetlist/cloudns/T42_27.png"
+  },
+  {
+    "url": "https://subscriptions-membershiprenewal.martindanailov.com/?secure",
+    "phishing": 1,
+    "min_distance": 1.3507955074310303,
+    "matched_brand": "Netflix",
+    "matched_image": "merge_targetlist/Netflix/T98_1.png",
+    "label": 1
+  },
+  {
+    "url": "http://idtsolutions.pe",
+    "phishing": 1,
+    "min_distance": 1.2283509969711304,
+    "matched_brand": "Chase Personal Banking",
+    "matched_image": "merge_targetlist/Chase Personal Banking/T39_63.png",
+    "label": 1
+  },
+  {
+    "url": "https://ton-wallet-connect.vercel.app/",
+    "phishing": 0,
+    "min_distance": 1.5584485530853271,
+    "matched_brand": "PayPal",
+    "matched_image": "merge_targetlist/PayPal/T108_68.png",
+    "label": 1
+  },
+  {
+    "url": "https://corriere.it",
+    "phishing": 1,
+    "min_distance": 1.2219196557998657,
+    "matched_brand": "LinkedIn Corporation",
+    "matched_image": "merge_targetlist/LinkedIn Corporation/T84_80.png",
+    "label": 0
+  },
+  {
+    "url": "https://clozer.io/autopass",
+    "phishing": 1,
+    "min_distance": 0.4287196695804596,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_112.png",
+    "label": 1
+  },
+  {
+    "url": "https://google.pl",
+    "phishing": 1,
+    "min_distance": 0.7125738859176636,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_26.png",
+    "label": 0
+  },
+  {
+    "url": "https://adblockplus.org",
+    "phishing": 1,
+    "min_distance": 1.2669402360916138,
+    "matched_brand": "sunrise",
+    "matched_image": "merge_targetlist/sunrise/T126_21.png",
+    "label": 0
+  },
+  {
+    "url": "https://turizorwlit.gitbook.io/ru",
+    "phishing": 0,
+    "min_distance": 1.6750432252883911,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_25.png",
+    "label": 1
+  },
+  {
+    "url": "https://mr.groupage-pbs.com/search",
+    "phishing": 0,
+    "min_distance": 2.3141870498657227,
+    "matched_brand": "etrade",
+    "matched_image": "merge_targetlist/etrade/T58_11.png",
+    "label": 1
+  },
+  {
+    "url": "https://theguardian.com",
+    "phishing": 0,
+    "min_distance": 1.9665427207946777,
+    "matched_brand": "La Poste",
+    "matched_image": "merge_targetlist/La Poste/T80_31.png",
+    "label": 0
+  },
+  {
+    "url": "https://t.co/UcqDNoTquW",
+    "phishing": 0,
+    "min_distance": 2.12420392036438,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_73.png",
+    "label": 1
+  },
+  {
+    "url": "https://uiysfr-espace.com/",
+    "phishing": 0,
+    "min_distance": 2.2570414543151855,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_17.png",
+    "label": 1
+  },
+  {
+    "url": "https://squarespace.com",
+    "phishing": 0,
+    "min_distance": 2.3085274696350098,
+    "matched_brand": "The Vanguard Group",
+    "matched_image": "merge_targetlist/The Vanguard Group/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "https://2gis.com",
+    "phishing": 1,
+    "min_distance": 1.401718258857727,
+    "matched_brand": "AT&T",
+    "matched_image": "merge_targetlist/AT&T/T15_105.png",
+    "label": 0
+  },
+  {
+    "url": "https://time.com",
+    "phishing": 1,
+    "min_distance": 1.2955137491226196,
+    "matched_brand": "Scotiabank",
+    "matched_image": "merge_targetlist/Scotiabank/T_1.png",
+    "label": 0
+  },
+  {
+    "url": "http://allegrolokalnie.id180137.shop",
+    "phishing": 1,
+    "min_distance": 1.1255756616592407,
+    "matched_brand": "Google",
+    "matched_image": "merge_targetlist/Google/T65_53.png",
+    "label": 1
+  },
+  {
+    "url": "https://doi.org",
+    "phishing": 0,
+    "min_distance": 1.6613000631332397,
+    "matched_brand": "La Poste",
+    "matched_image": "merge_targetlist/La Poste/T80_14.png",
+    "label": 0
+  },
+  {
+    "url": "https://kucoinlogena.gitbook.io/crypto-exchange-or-bitcoin-exchange-or-bitcoin-tradi",
+    "phishing": 0,
+    "min_distance": 2.4435815811157227,
+    "matched_brand": "AOL",
+    "matched_image": "merge_targetlist/AOL/T11_25.png",
+    "label": 1
+  },
+  {
+    "url": "https://europa.eu",
+    "phishing": 1,
+    "min_distance": 1.1177666187286377,
+    "matched_brand": "Facebook",
+    "matched_image": "merge_targetlist/Facebook/T59_48.png"
+  },
+  {
+    "url": "https://google.co.jp",
+    "phishing": 1,
+    "min_distance": 1.2877726554870605,
+    "matched_brand": "Adobe",
+    "matched_image": "merge_targetlist/Adobe/T2_66.png",
+    "label": 0
+  },
+  {
+    "url": "https://fortune.com",
+    "phishing": 0,
+    "min_distance": 2.5959889888763428,
+    "matched_brand": "htb",
+    "matched_image": "merge_targetlist/htb/T70_17.png",
+    "label": 0
+  },
+  {
+    "url": "https://merriam-webster.com",
+    "phishing": 1,
+    "min_distance": 1.3345552682876587,
+    "matched_brand": "IBC Bank",
+    "matched_image": "merge_targetlist/IBC Bank/T_2.png"
+  },
+  {
+    "url": "https://httpps--www--roblox.com/users/13030352/profile",
+    "phishing": 0,
+    "min_distance": 1.7507129907608032,
+    "matched_brand": "Airbnb, Inc",
+    "matched_image": "merge_targetlist/Airbnb, Inc/T3_83.png",
+    "label": 1
+  },
+  {
+    "url": "https://ulys-fr.com/as.php",
+    "phishing": 0,
+    "min_distance": 2.409879684448242,
+    "matched_brand": "Amazon",
+    "matched_image": "merge_targetlist/Amazon/T7_17.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/drawings/d/1kl4bkoVzo4wTr0rAoRCd5mzqovAwHDkXSkPIO5Z5ecA/edit",
+    "phishing": 0,
+    "min_distance": 1.9461712837219238,
+    "matched_brand": "Spark New Zealand",
+    "matched_image": "merge_targetlist/Spark New Zealand/T_1.png",
+    "label": 1
+  },
+  {
+    "url": "http://meetamasiik-l0gin-o1.godaddysites.com/",
+    "phishing": 0,
+    "min_distance": 1.7500498294830322,
+    "matched_brand": "Commonwealth Bank of Australia",
+    "matched_image": "merge_targetlist/Commonwealth Bank of Australia/T44_56.png",
+    "label": 1
+  },
+  {
+    "url": "https://pewter-unequaled-order.glitch.me/agb4k.html",
+    "phishing": 1,
+    "min_distance": 1.1385536193847656,
+    "matched_brand": "Apple",
+    "matched_image": "merge_targetlist/Apple/T12_85.png",
+    "label": 1
+  },
+  {
+    "url": "https://ebay.co.uk",
+    "phishing": 1,
+    "min_distance": 1.2405710220336914,
+    "matched_brand": "Dropbox",
+    "matched_image": "merge_targetlist/Dropbox/T53_61.png",
+    "label": 0
+  },
+  {
+    "url": "https://npr.org",
+    "phishing": 1,
+    "min_distance": 1.1528666019439697,
+    "matched_brand": "National Australia Bank Limited",
+    "matched_image": "merge_targetlist/National Australia Bank Limited/T94_3.png",
+    "label": 0
+  },
+  {
+    "url": "https://facilcrm.markenetics.com/wp-includes/blocks/weff34g/",
+    "phishing": 1,
+    "min_distance": 0.9032751321792603,
+    "matched_brand": "typeform",
+    "matched_image": "merge_targetlist/typeform/T137_19.png",
+    "label": 1
+  },
+  {
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTtXQRhy4BPDAhbJbbYWsfA51PRLoZJqbY0sdLw6ItjRYSLuD1HMedcWvOdGBwSElN7tzPGuTgX_vVg/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "phishing": 0,
+    "min_distance": 1.7472448348999023,
+    "matched_brand": "Bank of America",
+    "matched_image": "merge_targetlist/Bank of America/T30_10.png",
+    "label": 1
+  }
+]

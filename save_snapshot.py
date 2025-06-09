@@ -94,8 +94,23 @@ def check_page_availability(task):
         try:
             driver.get(url)
             sleep(2)
-            body_text = driver.page_source.lower()
 
+            #Check if the page is blank
+            if not driver.page_source.strip():
+                logging.warning(f"[TASK {task['id']}] Page loaded but appears blank.")
+                return False
+            
+            #Check for unwanted redirections
+            unwanted_domains = [
+                "lemonde.fr"
+            ]
+            current_url = driver.current_url.lower()
+            if any(domain in current_url for domain in unwanted_domains):
+                logging.warning(f"[TASK {task['id']}] URL redirected to unwanted domain: {current_url}")
+                return False
+            
+            #Look for typical error indicators in page text
+            body_text = driver.page_source.lower()
             error_indicators = [
                 "this page isn’t working",
                 "this site can’t be reached",
@@ -111,11 +126,11 @@ def check_page_availability(task):
             ]
 
             if any(err in body_text for err in error_indicators):
-                logging.warning(f"Domain not available: {(err in body_text for err in error_indicators)}")
+                logging.warning(f"[TASK {task['id']}] Error-like content detected in page.")
                 return False
 
         except (TimeoutException, WebDriverException) as e:
-            logging.warning(f"Page not working: {e}")
+            logging.warning(f"[TASK {task['id']}] Page not working: {e}")
             return False
 
         finally:

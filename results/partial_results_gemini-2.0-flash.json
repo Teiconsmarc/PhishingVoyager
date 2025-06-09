@@ -1,0 +1,16 @@
+[
+  {
+    "id": "task--1590",
+    "web": "https://pewresearch.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain uses HTTPS, has a legitimate domain name, provides clear contact information and privacy policies, and exhibits consistent and expected link behavior. The website's design and content quality are also professional.]"
+  },
+  {
+    "id": "task--9112496",
+    "web": "https://docs.google.com/presentation/d/e/2PACX-1vRZrCKBhBB61yLfOMVTv5oiBPPNMjXO4nezAsvJDk299B0BgzoQDj4A1jmX-M65z2hRo6zVYRP96HXE/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [The site imitates AT&T, lacks privacy policy/ToS, has urgent calls to action, and is hosted on Google Docs as a simple presentation.]"
+  }
+]

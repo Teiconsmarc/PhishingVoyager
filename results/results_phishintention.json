@@ -1,0 +1,2986 @@
+[
+  {
+    "domain": "task-1316",
+    "url": "https://unifi-ai.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 3.377535581588745,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-433",
+    "url": "https://cornell.edu",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6592654,
+    "runtime": {
+      "logo_detection": 3.0125229358673096,
+      "siamese": 1.7504031658172607,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1289",
+    "url": "https://xnxx.tv",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7263398,
+    "runtime": {
+      "logo_detection": 2.8262414932250977,
+      "siamese": 0.9273467063903809,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1325",
+    "url": "https://russianfood.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6954005,
+    "runtime": {
+      "logo_detection": 2.7498385906219482,
+      "siamese": 0.8818645477294922,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9126813",
+    "url": "https://www.discordp.com/discord-download/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6382698,
+    "runtime": {
+      "logo_detection": 2.7890408039093018,
+      "siamese": 0.8784637451171875,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114572",
+    "url": "https://trajets-uiys.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.8739256858825684,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9123556",
+    "url": "https://www.venzeeofficial.id/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.62108463,
+    "runtime": {
+      "logo_detection": 2.6992335319519043,
+      "siamese": 0.7628331184387207,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9129223",
+    "url": "https://my-sso-itrustcapital--com-cdn-s-aut.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.71655816,
+    "runtime": {
+      "logo_detection": 2.932406425476074,
+      "siamese": 1.3311512470245361,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9112496",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRZrCKBhBB61yLfOMVTv5oiBPPNMjXO4nezAsvJDk299B0BgzoQDj4A1jmX-M65z2hRo6zVYRP96HXE/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.55646145,
+    "runtime": {
+      "logo_detection": 2.8377349376678467,
+      "siamese": 1.192378282546997,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115281",
+    "url": "https://trezor-hardware-wallet-1.gitbook.io/trezor-suite",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.75932854,
+    "runtime": {
+      "logo_detection": 2.8563361167907715,
+      "siamese": 1.059967279434204,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-215",
+    "url": "https://scorecardresearch.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.84276724,
+    "runtime": {
+      "logo_detection": 2.7074947357177734,
+      "siamese": 0.8358187675476074,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9113668",
+    "url": "https://hnmfd-6728413-futuretech-plovmryt-008.diversifiedhr.biz/master/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.744131,
+    "runtime": {
+      "logo_detection": 2.6702721118927,
+      "siamese": 1.0465478897094727,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-329",
+    "url": "https://dailymotion.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.626991,
+    "runtime": {
+      "logo_detection": 2.8544154167175293,
+      "siamese": 0.8653900623321533,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1472",
+    "url": "https://mangabuddy.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.708211,
+    "runtime": {
+      "logo_detection": 2.8175699710845947,
+      "siamese": 1.291288137435913,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115239",
+    "url": "https://mobiiites-uiys.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.7596988677978516,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115015",
+    "url": "https://docs.google.com/drawings/d/1DJUcwwYJ87XU9PL9efqM4KSRUD8yundIU8optOXb0FM/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6761664,
+    "runtime": {
+      "logo_detection": 2.8461859226226807,
+      "siamese": 1.0647914409637451,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9124705",
+    "url": "http://downloadfullfill.com/locatefile/the_strongest_battlegrounds_script/18040/0/windows_10%7Cyandex_browser/ji.basesfiles.com/empty/4?t=download_v5&rr=37495719&c2=otc0mtq5mje=",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6557903,
+    "runtime": {
+      "logo_detection": 2.774280309677124,
+      "siamese": 1.1912927627563477,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-168",
+    "url": "https://forbes.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.71702576,
+    "runtime": {
+      "logo_detection": 2.736856460571289,
+      "siamese": 1.3402924537658691,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115238",
+    "url": "https://mobiiites-uiys.com/as.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.962695360183716,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-321",
+    "url": "https://businessinsider.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.76884717,
+    "runtime": {
+      "logo_detection": 2.7066280841827393,
+      "siamese": 0.9849581718444824,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-892",
+    "url": "https://shopeemobile.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7023228,
+    "runtime": {
+      "logo_detection": 2.789769172668457,
+      "siamese": 1.2839746475219727,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114356",
+    "url": "https://io-trezrstartt.gitbook.io/us",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6363537,
+    "runtime": {
+      "logo_detection": 2.690931558609009,
+      "siamese": 0.9337112903594971,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-717",
+    "url": "https://unesco.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.706356,
+    "runtime": {
+      "logo_detection": 2.760366439819336,
+      "siamese": 0.9389190673828125,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1220",
+    "url": "https://divar.ir",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.62342423,
+    "runtime": {
+      "logo_detection": 3.0059616565704346,
+      "siamese": 0.818511962890625,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-931",
+    "url": "https://agoda.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.71340525,
+    "runtime": {
+      "logo_detection": 2.890092134475708,
+      "siamese": 1.0540316104888916,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-418",
+    "url": "https://globo.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7437795,
+    "runtime": {
+      "logo_detection": 2.9337997436523438,
+      "siamese": 0.894261360168457,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-812",
+    "url": "https://pbs.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.8148791790008545,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9112627",
+    "url": "https://at1-alpha.vercel.app/",
+    "is_phishing": 1,
+    "target_brand": "AT&T",
+    "matched_domains": [
+      "att.com"
+    ],
+    "siamese_confidence": 0.97520363,
+    "runtime": {
+      "logo_detection": 2.8056600093841553,
+      "siamese": 0.4408247470855713,
+      "crp": 0.0014374256134033203,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114992",
+    "url": "https://star.lindasueprice.com/hostpoin/?L=cad8e386d0c374186fbeb51e32bb923479c5b1fa1eec328704da488523a5ad53",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6998942,
+    "runtime": {
+      "logo_detection": 2.980752944946289,
+      "siamese": 1.3965225219726562,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9120870",
+    "url": "https://dcm9x.wishshopko.top/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.63729190826416,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1429",
+    "url": "https://kooora.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6613822,
+    "runtime": {
+      "logo_detection": 2.721869945526123,
+      "siamese": 0.8341107368469238,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-335",
+    "url": "https://adsafeprotected.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.5639374256134033,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-888",
+    "url": "https://segment.io",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.75127083,
+    "runtime": {
+      "logo_detection": 2.6408956050872803,
+      "siamese": 0.8998715877532959,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-626",
+    "url": "https://newrelic.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6615882,
+    "runtime": {
+      "logo_detection": 2.7529187202453613,
+      "siamese": 1.2457144260406494,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-1590",
+    "url": "https://pewresearch.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7481821,
+    "runtime": {
+      "logo_detection": 2.593538522720337,
+      "siamese": 1.1007041931152344,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-130",
+    "url": "https://tumblr.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67488563,
+    "runtime": {
+      "logo_detection": 2.696488857269287,
+      "siamese": 1.0004394054412842,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-323",
+    "url": "https://reg.ru",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69507575,
+    "runtime": {
+      "logo_detection": 2.5759434700012207,
+      "siamese": 0.9764635562896729,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1537",
+    "url": "https://medicalnewstoday.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.687547206878662,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-117",
+    "url": "https://wa.me",
+    "is_phishing": 0,
+    "target_brand": "WhatsApp",
+    "matched_domains": [
+      "whatsapp.net"
+    ],
+    "siamese_confidence": 0.9287065,
+    "runtime": {
+      "logo_detection": 2.622081995010376,
+      "siamese": 0.5333967208862305,
+      "crp": 0.3532130718231201,
+      "total": 15.357338905334473
+    }
+  },
+  {
+    "domain": "task-947",
+    "url": "https://mercadolibre.com.ar",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66198164,
+    "runtime": {
+      "logo_detection": 2.8963983058929443,
+      "siamese": 0.8602759838104248,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9121145",
+    "url": "https://contravation-amende.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7065482,
+    "runtime": {
+      "logo_detection": 2.823385238647461,
+      "siamese": 0.9308109283447266,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114718",
+    "url": "https://sp510123.sitebeat.crazydomains.com/",
+    "is_phishing": 1,
+    "target_brand": "BT Group plc",
+    "matched_domains": [
+      "bt.com"
+    ],
+    "siamese_confidence": 0.9147111,
+    "runtime": {
+      "logo_detection": 2.9517946243286133,
+      "siamese": 0.518784761428833,
+      "crp": 0.3882720470428467,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-829",
+    "url": "https://arxiv.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6728811,
+    "runtime": {
+      "logo_detection": 2.878300905227661,
+      "siamese": 0.9935488700866699,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-285",
+    "url": "https://stripe.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.8593507,
+    "runtime": {
+      "logo_detection": 2.8343214988708496,
+      "siamese": 1.3369898796081543,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9113102",
+    "url": "http://allegrolokalnie.pl-oferta89756.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.821239471435547,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-1073",
+    "url": "https://poki.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72607833,
+    "runtime": {
+      "logo_detection": 2.920929431915283,
+      "siamese": 1.0683860778808594,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112561",
+    "url": "https://webmail-ionos.de-en.cc/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6344269,
+    "runtime": {
+      "logo_detection": 2.9304370880126953,
+      "siamese": 1.2602641582489014,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-390",
+    "url": "https://salesforceliveagent.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7081658,
+    "runtime": {
+      "logo_detection": 2.849461078643799,
+      "siamese": 1.1588115692138672,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1552",
+    "url": "https://novelbin.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.895437002182007,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-3",
+    "url": "https://apple.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6595322,
+    "runtime": {
+      "logo_detection": 2.7928123474121094,
+      "siamese": 1.1083600521087646,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-209",
+    "url": "https://roku.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66758096,
+    "runtime": {
+      "logo_detection": 2.851163864135742,
+      "siamese": 1.305861234664917,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1009",
+    "url": "https://adrta.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6453296,
+    "runtime": {
+      "logo_detection": 2.7009692192077637,
+      "siamese": 0.7987203598022461,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-956",
+    "url": "https://python.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66658515,
+    "runtime": {
+      "logo_detection": 2.9888079166412354,
+      "siamese": 1.2374789714813232,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-457",
+    "url": "https://force.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7185872,
+    "runtime": {
+      "logo_detection": 2.721083402633667,
+      "siamese": 1.1426258087158203,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9113126",
+    "url": "http://allegro.pl-oferta89756.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.5792267322540283,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114305",
+    "url": "https://ln.run/t-l93",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.73621356,
+    "runtime": {
+      "logo_detection": 2.8685619831085205,
+      "siamese": 0.9348154067993164,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-869",
+    "url": "https://firefox.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7027487,
+    "runtime": {
+      "logo_detection": 2.950518846511841,
+      "siamese": 1.2193336486816406,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-784",
+    "url": "https://quickconnect.to",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.8365836143493652,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-534",
+    "url": "https://onetrust.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7468548,
+    "runtime": {
+      "logo_detection": 2.9104130268096924,
+      "siamese": 0.8438725471496582,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114947",
+    "url": "https://gtcarsindia.com/909/spazz/index.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6375532,
+    "runtime": {
+      "logo_detection": 2.965522050857544,
+      "siamese": 0.8449738025665283,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1149",
+    "url": "https://furaffinity.net",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.55945456,
+    "runtime": {
+      "logo_detection": 2.9389262199401855,
+      "siamese": 0.9902644157409668,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114086",
+    "url": "https://ir-ahora07.glitch.me/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7124394,
+    "runtime": {
+      "logo_detection": 2.846952199935913,
+      "siamese": 1.1888866424560547,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114959",
+    "url": "https://webixybootcamp.com/owa/1index.html",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.709799,
+    "runtime": {
+      "logo_detection": 2.683711051940918,
+      "siamese": 0.9636447429656982,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115021",
+    "url": "https://docs.google.com/drawings/d/1jLyP-oOmzNjX7EdLxDZSsg0OS1eu_kYApPOkcfz9hg8/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.722588062286377,
+      "siamese": 1.5029542446136475,
+      "crp": 0.3395657539367676,
+      "total": 0.08726239204406738
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1334",
+    "url": "https://turkiye.gov.tr",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7049307,
+    "runtime": {
+      "logo_detection": 2.980670213699341,
+      "siamese": 0.8896565437316895,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115168",
+    "url": "https://cen-o9ni.vercel.app/violate/page.html",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6903105,
+    "runtime": {
+      "logo_detection": 2.829169988632202,
+      "siamese": 1.2531344890594482,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-601",
+    "url": "https://virtualearth.net",
+    "is_phishing": 0,
+    "target_brand": "Microsoft",
+    "matched_domains": [
+      "microsoft.com"
+    ],
+    "siamese_confidence": 0.87390614,
+    "runtime": {
+      "logo_detection": 2.798185110092163,
+      "siamese": 0.42621922492980957,
+      "crp": 0.3687310218811035,
+      "total": 12.909465551376343
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115004",
+    "url": "https://docs.google.com/drawings/d/1xRt40wCYHc74frG9PthSPaMmPlzJFdiwm-RF1JROEJ0/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.5535664558410645,
+      "siamese": 1.506620168685913,
+      "crp": 0.3487555980682373,
+      "total": 0.09311342239379883
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9113409",
+    "url": "https://cpcontacts.165-154-254-94.cprapid.com/home?c_ds_na=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7&c_ds_no=REj5Gds2KIzzl9wUERis6OXIzx8VedzjW7mIkS6cTu",
+    "is_phishing": 0,
+    "target_brand": "Comcast Corporation",
+    "matched_domains": [
+      "comcast.com"
+    ],
+    "siamese_confidence": 0.88950545,
+    "runtime": {
+      "logo_detection": 2.775937795639038,
+      "siamese": 0.2920558452606201,
+      "crp": 0.2916598320007324,
+      "total": 15.793477296829224
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1418",
+    "url": "https://ssstik.io",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69520736,
+    "runtime": {
+      "logo_detection": 2.820188283920288,
+      "siamese": 0.9922800064086914,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114997",
+    "url": "https://sp409355.sitebeat.crazydomains.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.7412993907928467,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115013",
+    "url": "https://docs.google.com/drawings/d/1M4EUR7tIoeiaTl22QgSpLdTAnlw63ifVRBLX7NYChU0/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.468186140060425,
+      "siamese": 1.3717105388641357,
+      "crp": 0.280789852142334,
+      "total": 0.0812528133392334
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114708",
+    "url": "http://jshdhuuros.surge.sh/",
+    "is_phishing": 1,
+    "target_brand": "1&1 Ionos",
+    "matched_domains": [
+      "ionos.com"
+    ],
+    "siamese_confidence": 0.89392155,
+    "runtime": {
+      "logo_detection": 2.796649217605591,
+      "siamese": 0.33715128898620605,
+      "crp": 0.0006825923919677734,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-255",
+    "url": "https://temu.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7519449,
+    "runtime": {
+      "logo_detection": 2.654165267944336,
+      "siamese": 0.7541568279266357,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114366",
+    "url": "http://ceelegal.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.63167864,
+    "runtime": {
+      "logo_detection": 2.6978907585144043,
+      "siamese": 1.00673246383667,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114839",
+    "url": "https://get-trezor-support.teachable.com/p/home",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67199606,
+    "runtime": {
+      "logo_detection": 2.8480911254882812,
+      "siamese": 0.8617854118347168,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115620",
+    "url": "http://103.99.210.5/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7054928,
+    "runtime": {
+      "logo_detection": 2.678542137145996,
+      "siamese": 1.0826518535614014,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-751",
+    "url": "https://pccc.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6731415,
+    "runtime": {
+      "logo_detection": 2.7695207595825195,
+      "siamese": 0.8972368240356445,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1250",
+    "url": "https://livescore.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7382933,
+    "runtime": {
+      "logo_detection": 2.7244439125061035,
+      "siamese": 1.2451481819152832,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-734",
+    "url": "https://supercell.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6209404,
+    "runtime": {
+      "logo_detection": 2.7670185565948486,
+      "siamese": 1.0417394638061523,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9128926",
+    "url": "https://helps-content-ledggr.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72484905,
+    "runtime": {
+      "logo_detection": 2.8366482257843018,
+      "siamese": 0.9268896579742432,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-352",
+    "url": "https://springer.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7133402,
+    "runtime": {
+      "logo_detection": 2.837024688720703,
+      "siamese": 0.8937454223632812,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115001",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScqJmmpVhf-v4KMqr7N3Zt9PJL0a40kuMwc2OsEz5XZsFP2-A/viewform?usp=send_form",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.688908576965332,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9124829",
+    "url": "https://claim-daget-2025.dftr1.cfd/kaget=s6j7sxzeazg&r=iVlQUs",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.68476075,
+    "runtime": {
+      "logo_detection": 2.8882720470428467,
+      "siamese": 0.8549339771270752,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-105",
+    "url": "https://intuit.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7153979,
+    "runtime": {
+      "logo_detection": 3.099693536758423,
+      "siamese": 1.134537696838379,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9128758",
+    "url": "https://auth-m-start---ledgar---web.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72484905,
+    "runtime": {
+      "logo_detection": 2.8129959106445312,
+      "siamese": 1.208662986755371,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115094",
+    "url": "https://httpss-www--roblox.com/users/13030352/profile",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.63136005,
+    "runtime": {
+      "logo_detection": 2.818519353866577,
+      "siamese": 1.0649988651275635,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115010",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQ1qBsWHmOGElGnVbDUOfj_vJ6WkA4BhHrNXSWTbdLSxWyl0M0FCq2nZ3giFi5ElC3jIWiKGtZwL8mQ/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.554232358932495,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-52",
+    "url": "https://googlesyndication.com",
+    "is_phishing": 1,
+    "target_brand": "Google",
+    "matched_domains": [
+      "google.com",
+      "appspot.com",
+      "appspot.com"
+    ],
+    "siamese_confidence": 0.99229556,
+    "runtime": {
+      "logo_detection": 2.9926652908325195,
+      "siamese": 0.3659036159515381,
+      "crp": 0.3112790584564209,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-214",
+    "url": "https://crashlytics.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7683282,
+    "runtime": {
+      "logo_detection": 2.9159042835235596,
+      "siamese": 1.0835518836975098,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114990",
+    "url": "https://point.angolodellatelefonia.com/hostpoin/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6998942,
+    "runtime": {
+      "logo_detection": 2.763875961303711,
+      "siamese": 1.0117614269256592,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1095",
+    "url": "https://finn.no",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69981015,
+    "runtime": {
+      "logo_detection": 2.7060458660125732,
+      "siamese": 1.1831285953521729,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-428",
+    "url": "https://ngenix.net",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7654405,
+    "runtime": {
+      "logo_detection": 2.749898910522461,
+      "siamese": 1.317061424255371,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9122706",
+    "url": "http://blockhchaiinlogin-usa.godaddysites.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.78272265,
+    "runtime": {
+      "logo_detection": 2.897364616394043,
+      "siamese": 0.9013254642486572,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115028",
+    "url": "https://docs.google.com/drawings/d/1bPRoyX35EXdGVcwb1YMhxTaNbKAQbl_kRI4mTBwOYb4/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6624983,
+    "runtime": {
+      "logo_detection": 2.751276969909668,
+      "siamese": 0.882051944732666,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9129311",
+    "url": "https://beautycareid.com/m/user/assets",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.999128818511963,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-842",
+    "url": "https://maricopa.gov",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.68044204,
+    "runtime": {
+      "logo_detection": 2.7835171222686768,
+      "siamese": 1.2294719219207764,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1266",
+    "url": "https://mapbox.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6577699,
+    "runtime": {
+      "logo_detection": 2.7563979625701904,
+      "siamese": 1.2017323970794678,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114264",
+    "url": "https://app.cgd.pt/cdoOBA/login.seam?ref=3f3e1ac2300e91427aa77e420e92d00ad1",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67362577,
+    "runtime": {
+      "logo_detection": 2.700921058654785,
+      "siamese": 1.169220209121704,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1413",
+    "url": "https://redditmedia.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6822979,
+    "runtime": {
+      "logo_detection": 2.626549482345581,
+      "siamese": 1.1291491985321045,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9113417",
+    "url": "https://facturationbadge-uiys.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.772400140762329,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1327",
+    "url": "https://nesine.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.705535,
+    "runtime": {
+      "logo_detection": 2.688060998916626,
+      "siamese": 1.2718217372894287,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-724",
+    "url": "https://amazon.in",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.9426492,
+    "runtime": {
+      "logo_detection": 2.6976921558380127,
+      "siamese": 0.3097541332244873,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9123597",
+    "url": "http://bishalnandi.github.io/Facebook-login-page-clone",
+    "is_phishing": 1,
+    "target_brand": "Facebook",
+    "matched_domains": [
+      "facebook.com"
+    ],
+    "siamese_confidence": 0.97010124,
+    "runtime": {
+      "logo_detection": 2.802307367324829,
+      "siamese": 0.45651721954345703,
+      "crp": 0.3088648319244385,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1158",
+    "url": "https://notion.so",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.73623145,
+    "runtime": {
+      "logo_detection": 2.7865853309631348,
+      "siamese": 0.8530213832855225,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9113197",
+    "url": "https://urlz.fr/uzIr?userid=x6JwzxyM",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7099071,
+    "runtime": {
+      "logo_detection": 2.8850839138031006,
+      "siamese": 1.1525297164916992,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-511",
+    "url": "https://cnet.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66677046,
+    "runtime": {
+      "logo_detection": 2.6251308917999268,
+      "siamese": 0.9275939464569092,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114411",
+    "url": "https://groupage-pb.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.526184558868408,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9124975",
+    "url": "https://kuceeriqinlgen.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7058884,
+    "runtime": {
+      "logo_detection": 2.7661924362182617,
+      "siamese": 1.1164259910583496,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9120016",
+    "url": "https://secure-ai-ledger-auth.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7463286,
+    "runtime": {
+      "logo_detection": 2.7602219581604004,
+      "siamese": 1.1115801334381104,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9112141",
+    "url": "https://site-3ancsxizu.godaddysites.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6742824,
+    "runtime": {
+      "logo_detection": 2.713839054107666,
+      "siamese": 1.535874843597412,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-946",
+    "url": "https://instructure.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7219245,
+    "runtime": {
+      "logo_detection": 2.7045540809631348,
+      "siamese": 1.100874662399292,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9115022",
+    "url": "https://docs.google.com/drawings/d/1MAF6HhMbsxfDbTmUQ0p2Yk9c017qeMvwvCObc9YopU8/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.3517961502075195,
+      "siamese": 1.2695412635803223,
+      "crp": 0.3556845188140869,
+      "total": 0.09131813049316406
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9127606",
+    "url": "https://9qyku.wishshopko.top/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.591353178024292,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9113159",
+    "url": "https://mainnetrevent.vercel.app/app.html",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7152432,
+    "runtime": {
+      "logo_detection": 2.7200567722320557,
+      "siamese": 1.1561062335968018,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9125450",
+    "url": "https://punchbowlinvitation.vercel.app/",
+    "is_phishing": 1,
+    "target_brand": "Microsoft",
+    "matched_domains": [
+      "microsoft.com"
+    ],
+    "siamese_confidence": 0.9787548,
+    "runtime": {
+      "logo_detection": 2.938675880432129,
+      "siamese": 0.2965695858001709,
+      "crp": 0.0011637210845947266,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-341",
+    "url": "https://rutube.ru",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6869993,
+    "runtime": {
+      "logo_detection": 2.87937331199646,
+      "siamese": 1.2229862213134766,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1297",
+    "url": "https://namestudio.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.70874107,
+    "runtime": {
+      "logo_detection": 2.9411559104919434,
+      "siamese": 1.2450520992279053,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115277",
+    "url": "https://willetstrezor.gitbook.io/us",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6363537,
+    "runtime": {
+      "logo_detection": 2.701489210128784,
+      "siamese": 1.4514341354370117,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-700",
+    "url": "https://investopedia.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7411561,
+    "runtime": {
+      "logo_detection": 2.7796952724456787,
+      "siamese": 1.2470531463623047,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1040",
+    "url": "https://amazon.com.mx",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.97494143,
+    "runtime": {
+      "logo_detection": 2.9428048133850098,
+      "siamese": 0.4399259090423584,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9114828",
+    "url": "https://caffesound.com/?BlNR=iyOv&O1CBY=1VbLScco&3x84kF93=dLW9",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6344269,
+    "runtime": {
+      "logo_detection": 2.9776837825775146,
+      "siamese": 1.1737666130065918,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9122178",
+    "url": "https://starte-ledgerdocs.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72484905,
+    "runtime": {
+      "logo_detection": 2.8597943782806396,
+      "siamese": 1.0021312236785889,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1006",
+    "url": "https://interia.pl",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.724313,
+    "runtime": {
+      "logo_detection": 2.8576598167419434,
+      "siamese": 1.0580508708953857,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-1267",
+    "url": "https://amazon.eg",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.68709683,
+    "runtime": {
+      "logo_detection": 2.764174461364746,
+      "siamese": 1.00929594039917,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1025",
+    "url": "https://wikihow.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.676385,
+    "runtime": {
+      "logo_detection": 2.920569896697998,
+      "siamese": 1.0730342864990234,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-222",
+    "url": "https://ivi.ru",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69227874,
+    "runtime": {
+      "logo_detection": 3.1466386318206787,
+      "siamese": 1.475459337234497,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112102",
+    "url": "https://madison7.teachable.com/p/home",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67199606,
+    "runtime": {
+      "logo_detection": 3.147399663925171,
+      "siamese": 1.3161616325378418,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-216",
+    "url": "https://miui.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69776285,
+    "runtime": {
+      "logo_detection": 3.1204254627227783,
+      "siamese": 1.1917712688446045,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-486",
+    "url": "https://indiatimes.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.64651304,
+    "runtime": {
+      "logo_detection": 2.938513994216919,
+      "siamese": 0.9922358989715576,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-585",
+    "url": "https://mailchimp.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69876635,
+    "runtime": {
+      "logo_detection": 2.8019521236419678,
+      "siamese": 1.0437312126159668,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112108",
+    "url": "http://allegro.pl-oferta7983724.shop",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.86682391166687,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-444",
+    "url": "https://telegram.me",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69159365,
+    "runtime": {
+      "logo_detection": 2.781005382537842,
+      "siamese": 0.9691643714904785,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-800",
+    "url": "https://bandcamp.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72095007,
+    "runtime": {
+      "logo_detection": 2.844573736190796,
+      "siamese": 0.8347680568695068,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112094",
+    "url": "http://allegrolokalnie.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.9598686695098877,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115003",
+    "url": "https://docs.google.com/drawings/d/1oOgApdah-YDn5VxBGz2c4bbcNBWMtuhcS1eaIaLETxU/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.58724713,
+    "runtime": {
+      "logo_detection": 2.9718871116638184,
+      "siamese": 1.0491549968719482,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-535",
+    "url": "https://line.me",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6948054,
+    "runtime": {
+      "logo_detection": 2.97220516204834,
+      "siamese": 1.1048407554626465,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-972",
+    "url": "https://deloitte.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7153479,
+    "runtime": {
+      "logo_detection": 2.7710883617401123,
+      "siamese": 1.3970301151275635,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115025",
+    "url": "https://docs.google.com/drawings/d/1UTYEYj4PmqFdSOFmriwWYito66f7Wa_c7zgpj03PD-8/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 6.099609851837158,
+      "siamese": 1.3062489032745361,
+      "crp": 0.29619550704956055,
+      "total": 0.07739853858947754
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1398",
+    "url": "https://index.hr",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7044873,
+    "runtime": {
+      "logo_detection": 3.4904565811157227,
+      "siamese": 1.7147011756896973,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9113372",
+    "url": "https://reglement-somme.com/as.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 3.3833913803100586,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-992",
+    "url": "https://split.io",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.68679994,
+    "runtime": {
+      "logo_detection": 3.4475533962249756,
+      "siamese": 1.158418893814087,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1522",
+    "url": "https://moviebox.ng",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66810447,
+    "runtime": {
+      "logo_detection": 2.7959277629852295,
+      "siamese": 1.3481533527374268,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-843",
+    "url": "https://daum.net",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.8927524089813232,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-455",
+    "url": "https://steamcommunity.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.9885118,
+    "runtime": {
+      "logo_detection": 2.466883897781372,
+      "siamese": 0.5670759677886963,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115040",
+    "url": "https://docs.google.com/drawings/d/1BHNCawACZFQfyUFifIgxfMKpe0XngJAHkO7TvyDmSpU/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.143346786499023,
+      "siamese": 0.8960800170898438,
+      "crp": 0.3284480571746826,
+      "total": 0.08179688453674316
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-805",
+    "url": "https://iso.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.64073104,
+    "runtime": {
+      "logo_detection": 2.6196439266204834,
+      "siamese": 0.8882346153259277,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1252",
+    "url": "https://livedoor.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6832732,
+    "runtime": {
+      "logo_detection": 2.5260579586029053,
+      "siamese": 0.9089481830596924,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-1172",
+    "url": "https://vnexpress.net",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.77515686,
+    "runtime": {
+      "logo_detection": 2.4814724922180176,
+      "siamese": 1.011866569519043,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9124617",
+    "url": "https://3nh2j.wishshopko.top/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67258966,
+    "runtime": {
+      "logo_detection": 2.5127527713775635,
+      "siamese": 0.8226437568664551,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9121319",
+    "url": "https://official-ledgr-us.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72484905,
+    "runtime": {
+      "logo_detection": 2.663513660430908,
+      "siamese": 1.0532658100128174,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9123204",
+    "url": "https://faq-en-cdn-trezoer.webflow.io/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.716724,
+    "runtime": {
+      "logo_detection": 2.6051228046417236,
+      "siamese": 0.7737717628479004,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114964",
+    "url": "https://wi8u4fewqtuzih9v.radiowebluzfm.com/uX1f2LwHB/rmpq6uxkc7a3ztuc",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.59962964,
+    "runtime": {
+      "logo_detection": 2.4556639194488525,
+      "siamese": 1.0469379425048828,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-543",
+    "url": "https://docker.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7155432,
+    "runtime": {
+      "logo_detection": 2.539623260498047,
+      "siamese": 0.8108828067779541,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-212",
+    "url": "https://b-cdn.net",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.70839083,
+    "runtime": {
+      "logo_detection": 2.602717399597168,
+      "siamese": 0.9247615337371826,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115053",
+    "url": "https://tinyurl.com/3j7h2jat",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6535061,
+    "runtime": {
+      "logo_detection": 2.7598369121551514,
+      "siamese": 0.868793249130249,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114618",
+    "url": "https://uiysbadge.info/as.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.587602138519287,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9127958",
+    "url": "http://xn--im-1z5cr40w.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.72602445,
+    "runtime": {
+      "logo_detection": 2.5241260528564453,
+      "siamese": 1.2691919803619385,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9112914",
+    "url": "https://ulys-fr.com/z.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.5724480152130127,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-785",
+    "url": "https://capcut.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7585588,
+    "runtime": {
+      "logo_detection": 2.317901849746704,
+      "siamese": 1.0551958084106445,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-735",
+    "url": "https://contextweb.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.231595516204834,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-750",
+    "url": "https://substack.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.61405724,
+    "runtime": {
+      "logo_detection": 2.432873249053955,
+      "siamese": 0.6794488430023193,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9114229",
+    "url": "https://sites.google.com/view/koloti/home",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.59200174,
+    "runtime": {
+      "logo_detection": 2.5017189979553223,
+      "siamese": 0.7269623279571533,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115014",
+    "url": "https://docs.google.com/drawings/d/1pnOY6GFxBgUgsqiAO05cyP03uSkEyvcv-gjc5IFhs6E/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 5.003103256225586,
+      "siamese": 0.9413580894470215,
+      "crp": 0.34291791915893555,
+      "total": 0.09415721893310547
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1479",
+    "url": "https://aniwatchtv.to",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.69976914,
+    "runtime": {
+      "logo_detection": 2.6225507259368896,
+      "siamese": 0.6458497047424316,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-343",
+    "url": "https://gosuslugi.ru",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67228913,
+    "runtime": {
+      "logo_detection": 2.266643762588501,
+      "siamese": 0.9950275421142578,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115220",
+    "url": "http://tr.ee/Itsme-cardstop",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.364318370819092,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-1600",
+    "url": "https://manhwaclan.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6963191,
+    "runtime": {
+      "logo_detection": 2.528153419494629,
+      "siamese": 0.8599281311035156,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9115000",
+    "url": "https://subscriptions-membershiprenewal.martindanailov.com/?secure",
+    "is_phishing": 0,
+    "target_brand": "Netflix",
+    "matched_domains": [
+      "netflix.com"
+    ],
+    "siamese_confidence": 0.98602724,
+    "runtime": {
+      "logo_detection": 2.4705922603607178,
+      "siamese": 0.2460951805114746,
+      "crp": 0.33771228790283203,
+      "total": 5.294129848480225
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115152",
+    "url": "http://idtsolutions.pe",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.73359925,
+    "runtime": {
+      "logo_detection": 2.6884114742279053,
+      "siamese": 0.6093614101409912,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114243",
+    "url": "https://ton-wallet-connect.vercel.app/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.297926902770996,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-939",
+    "url": "https://corriere.it",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.451632261276245,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112107",
+    "url": "https://clozer.io/autopass",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7422561,
+    "runtime": {
+      "logo_detection": 2.5872738361358643,
+      "siamese": 0.9658398628234863,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-802",
+    "url": "https://google.pl",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.99229556,
+    "runtime": {
+      "logo_detection": 2.6324827671051025,
+      "siamese": 0.38144516944885254,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-889",
+    "url": "https://adblockplus.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.752866,
+    "runtime": {
+      "logo_detection": 2.814453601837158,
+      "siamese": 1.0282621383666992,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115286",
+    "url": "https://turizorwlit.gitbook.io/ru",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6363537,
+    "runtime": {
+      "logo_detection": 2.441284418106079,
+      "siamese": 1.0743136405944824,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114221",
+    "url": "https://mr.groupage-pbs.com/search",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.3018767833709717,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-177",
+    "url": "https://theguardian.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.6264781951904297,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115087",
+    "url": "https://t.co/UcqDNoTquW",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.70475465,
+    "runtime": {
+      "logo_detection": 2.5175793170928955,
+      "siamese": 0.7606661319732666,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9113080",
+    "url": "https://uiysfr-espace.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.596611738204956,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-547",
+    "url": "https://squarespace.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.66646355,
+    "runtime": {
+      "logo_detection": 2.5911471843719482,
+      "siamese": 0.936974287033081,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-728",
+    "url": "https://2gis.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.5011773109436035,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-477",
+    "url": "https://time.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6715685,
+    "runtime": {
+      "logo_detection": 2.454960584640503,
+      "siamese": 0.9350447654724121,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9115224",
+    "url": "http://allegrolokalnie.id180137.shop",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.3593344688415527,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-247",
+    "url": "https://doi.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6589859,
+    "runtime": {
+      "logo_detection": 2.521176338195801,
+      "siamese": 0.9188544750213623,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9112190",
+    "url": "https://kucoinlogena.gitbook.io/crypto-exchange-or-bitcoin-exchange-or-bitcoin-tradi",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7453311,
+    "runtime": {
+      "logo_detection": 2.6433582305908203,
+      "siamese": 0.936406135559082,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-118",
+    "url": "https://europa.eu",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.73350734,
+    "runtime": {
+      "logo_detection": 2.4557831287384033,
+      "siamese": 0.7558977603912354,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task-548",
+    "url": "https://google.co.jp",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.99229556,
+    "runtime": {
+      "logo_detection": 2.542127847671509,
+      "siamese": 0.552924394607544,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-1058",
+    "url": "https://fortune.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.67800146,
+    "runtime": {
+      "logo_detection": 2.7806622982025146,
+      "siamese": 0.7529447078704834,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-572",
+    "url": "https://merriam-webster.com",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.6558964252471924,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "domain": "task--9115096",
+    "url": "https://httpps--www--roblox.com/users/13030352/profile",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6722237,
+    "runtime": {
+      "logo_detection": 2.6428935527801514,
+      "siamese": 0.817946195602417,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9112913",
+    "url": "https://ulys-fr.com/as.php",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": null,
+    "runtime": {
+      "logo_detection": 2.5299489498138428,
+      "siamese": 0.0,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9115039",
+    "url": "https://docs.google.com/drawings/d/1kl4bkoVzo4wTr0rAoRCd5mzqovAwHDkXSkPIO5Z5ecA/edit",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6550173,
+    "runtime": {
+      "logo_detection": 4.931373834609985,
+      "siamese": 1.1279597282409668,
+      "crp": 0.21140837669372559,
+      "total": 0.08015108108520508
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9127407",
+    "url": "http://meetamasiik-l0gin-o1.godaddysites.com/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7456847,
+    "runtime": {
+      "logo_detection": 2.512467861175537,
+      "siamese": 0.694812536239624,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9112545",
+    "url": "https://pewter-unequaled-order.glitch.me/agb4k.html",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.7124394,
+    "runtime": {
+      "logo_detection": 2.30922532081604,
+      "siamese": 0.8802425861358643,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task-838",
+    "url": "https://ebay.co.uk",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.96854335,
+    "runtime": {
+      "logo_detection": 2.5817039012908936,
+      "siamese": 0.3030364513397217,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task-409",
+    "url": "https://npr.org",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.79115766,
+    "runtime": {
+      "logo_detection": 2.9590108394622803,
+      "siamese": 0.6901857852935791,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 0
+  },
+  {
+    "domain": "task--9113332",
+    "url": "https://facilcrm.markenetics.com/wp-includes/blocks/weff34g/",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.6685546,
+    "runtime": {
+      "logo_detection": 2.455188274383545,
+      "siamese": 1.2903721332550049,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  },
+  {
+    "domain": "task--9114634",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTtXQRhy4BPDAhbJbbYWsfA51PRLoZJqbY0sdLw6ItjRYSLuD1HMedcWvOdGBwSElN7tzPGuTgX_vVg/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "is_phishing": 0,
+    "target_brand": null,
+    "matched_domains": [],
+    "siamese_confidence": 0.70081365,
+    "runtime": {
+      "logo_detection": 2.5979065895080566,
+      "siamese": 1.0691983699798584,
+      "crp": 0.0,
+      "total": 0.0
+    },
+    "label": 1
+  }
+]

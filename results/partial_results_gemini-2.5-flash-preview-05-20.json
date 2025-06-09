@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "task--352",
+    "web": "https://springer.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS with security indicators; Legitimate domain name `springer.com` with correct spelling and common TLD; Professional design and appearance; Presence of clear Privacy Policy and Terms & Conditions; Legitimate external link behavior; Absence of intrusive pop-ups; High-quality, grammatically correct text and well-integrated branding; No urgent calls to action; No suspicious forms requesting sensitive data found on the homepage.]"
+  },
+  {
+    "id": "task--511",
+    "web": "https://cnet.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain name \"cnet.com\" is well-known and authentic, supported by consistent branding and high-quality design. A clear and well-drafted Privacy Policy with TRUSTe seals is present. Link behavior is normal, staying within the cnet.com domain. No suspicious or aggressive pop-ups, urgent calls to action, or poorly integrated content were observed. Any forms for sensitive data (e.g., email for newsletters) are for legitimate purposes within a transparent context.]"
+  },
+  {
+    "id": "task--1172",
+    "web": "https://vnexpress.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Well-known news brand with professional design, legitimate contact info, clear privacy policy, no misspellings, no urgent CTAs, and proper login forms. The ad redirection is an issue with third-party content, not the primary domain being a phishing site."
+  },
+  {
+    "id": "task--1552",
+    "web": "https://novelbin.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain name novelbin.com appears legitimate and does not mimic known brands. The website uses HTTPS, indicating a secure connection. The presence of a Cloudflare security check page, while preventing full access, is a common security measure for legitimate sites and the page itself displays no phishing indicators (e.g., urgent CTAs, requests for sensitive data, poor grammar). Due to the Cloudflare block, a comprehensive analysis of the actual website content was not possible, but the observed elements do not suggest phishing."
+  },
+  {
+    "id": "task--1590",
+    "web": "https://pewresearch.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact information, well-drafted privacy policy and terms of service, legitimate domain name (pewresearch.org), normal external link behavior, no intrusive pop-ups, high-quality logos and text content, absence of urgent calls to action, and legitimate forms for sensitive data (account login/creation)."
+  },
+  {
+    "id": "task--9112496",
+    "web": "https://docs.google.com/presentation/d/e/2PACX-1vRZrCKBhBB61yLfOMVTv5oiBPPNMjXO4nezAsvJDk299B0BgzoQDj4A1jmX-M65z2hRo6zVYRP96HXE/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The page impersonates AT&T on a Google Docs domain, lacks common legitimate website features (contact info, privacy policy), and is a very basic, unfinished presentation, not a functional corporate site."
+  },
+  {
+    "id": "task--9113126",
+    "web": "http://allegro.pl-oferta89756.com",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain \"allegro.pl-oferta89756.com\" imitates the legitimate \"allegro.pl\" using a deceptive subdomain structure. The website uses insecure HTTP. The page was blank, indicating a lack of legitimate content. Finally, the browser issued a direct security warning, explicitly stating the site \"looks fake\" and is a mimic, confirming its phishing nature."
+  },
+  {
+    "id": "task--9115022",
+    "web": "https://docs.google.com/drawings/d/1MAF6HhMbsxfDbTmUQ0p2Yk9c017qeMvwvCObc9YopU8/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The content imitating Amazon is hosted on a Google Drawings document, not a legitimate Amazon domain. The text contains grammatical errors and awkward phrasing, and employs urgent calls to action (\"System requires verification\"). While the Google domain itself is legitimate and uses HTTPS, its misuse to host a deceptive Amazon page is a classic phishing technique. The page lacks legitimate contact information, privacy policy, or terms of service, and appears extremely basic and unfinished for a reputable company's security page."
+  },
+  {
+    "id": "task--9115096",
+    "web": "https://httpps--www--roblox.com/users/13030352/profile",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: 1. Manipulated domain name `httpps--www--roblox.com` clearly imitating a legitimate brand (Roblox) with unusual prefixes and double hyphens. 2. Critical browser security warning \"Your connection is not private\" and \"NET::ERR_CERT_AUTHORITY_INVALID\", indicating an invalid HTTPS certificate and an insecure connection."
+  },
+  {
+    "id": "task--1316",
+    "web": "https://unifi-ai.com",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Thought: Based on all the previous observations, the website `unifi-ai.com` consistently displayed a blank page. This lack of content, inability to find any legitimate information (contact, privacy policy, etc.), and the domain name's potential for brand imitation, strongly suggest it is not a legitimate, fully functional website. It either points to a scam/phishing site that is not yet fully active, or a highly unprofessional and abandoned site. In the context of phishing detection, a blank page is a significant red flag, as it offers no legitimate content but still holds a domain name that could be used for malicious purposes.\nAction: Answer; Phishing - Justification: Website is consistently blank with no content, contact information, privacy policy, or interactive elements. The domain name `unifi-ai.com` attempts to leverage a known brand (\"UniFi\") with an added descriptor (\"-ai\"), which is a common tactic for deceptive websites. The extreme lack of functionality and content indicates it is not a legitimate operational website."
+  },
+  {
+    "id": "task--9114992",
+    "web": "https://star.lindasueprice.com/hostpoin/?L=cad8e386d0c374186fbeb51e32bb923479c5b1fa1eec328704da488523a5ad53",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Thought: Based on the collected evidence, the most critical factor is the domain name itself. While the site visually appears legitimate (good quality logos, no obvious grammatical errors, uses HTTPS, no urgent calls to action), the URL clearly shows an impersonation attempt. The domain `star.lindasueprice.com` is not associated with Hostpoint, and there's a misspelling in the path (`hostpoin` instead of `hostpoint`). The non-functional navigation links also indicate a typical phishing strategy to keep the user on the malicious login page. The presence of a form requesting sensitive login credentials on this deceptive domain confirms its malicious intent.\nAction: Answer; Phishing - Justification: The domain `star.lindasueprice.com` is not the legitimate Hostpoint domain, and the URL path contains a misspelling (`hostpoin`). The site presents a login form for sensitive data while being hosted on an illegitimate domain, clearly attempting to impersonate a well-known brand to steal credentials. Non-functional navigation links further support this conclusion."
+  },
+  {
+    "id": "task--343",
+    "web": "https://gosuslugi.ru",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Thought: I have reviewed all the evidence gathered throughout the interaction. The domain `gosuslugi.ru` consistently exhibited characteristics of a legitimate website rather than a phishing attempt.\n\nKey evidence supporting legitimacy:\n- The website uses HTTPS.\n- The domain name `gosuslugi.ru` is the correct and well-known official domain for Russian public services, with no misspellings or unusual TLDs.\n- External links did not redirect to unexpected or unrelated domains; all interactions remained within the `gosuslugi.ru` domain.\n- There were no aggressive pop-ups or urgent, threatening calls to action.\n- The website's design, logos, and text content appear professional, high-quality, and consistent with an official government service.\n- A legitimate login form for sensitive data was found, accessed through an appropriate \"Login\" button.\n\nWhile a clear privacy policy link was not immediately discoverable, this single point does not negate the strong positive indicators.\nAction: Answer; Legitimate - [Justification: Uses HTTPS; correct and official domain name (gosuslugi.ru); no unexpected redirects; professional design and text quality; legitimate login form found; no urgent calls to action; and reputable brand logos.]"
+  },
+  {
+    "id": "task--216",
+    "web": "https://miui.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Thought: I have already gathered all the necessary evidence to determine whether the domain is legitimate or phishing. All previous checks (contact info, privacy policy, domain name, link behavior, pop-ups, logos/text quality, urgent calls to action, sensitive data forms, and website appearance) point towards a legitimate website. The current observation is the same as the one before I attempted to provide the \"Final verdict\" answer, and I'm being prompted with the same question again. This indicates that my previous `Answer` action was not accepted for some reason, despite following the specified format. As the goal is to provide the final verdict, I will re-attempt to use the `Answer` action, ensuring strict adherence to the format requested.\nAction: Answer; Legitimate - Justification: The domain `miui.com` is official for the MIUI brand, a privacy policy is present and professional, links lead to expected internal pages, no deceptive pop-ups or urgent calls to action, no requests for sensitive data, and the site design is polished and legitimate."
+  },
+  {
+    "id": "task--9114718",
+    "web": "https://sp510123.sitebeat.crazydomains.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Thought: I have already gathered all the necessary evidence to make a final verdict. The question explicitly asks for the \"Final verdict\" and specifies the `ANSWER` format. My previous attempt to answer in the correct format was rejected with \"The action you have chosen cannot be executed.\" This is unusual for a final verdict question, as it implies a continued interaction is expected, which contradicts the instructions to answer immediately once enough evidence is gathered for the current question. However, since the prompt specifies I need to \"provide again the Thought and Action\", I will try to submit the answer again with a more concise justification, adhering strictly to the requested format, as there are no further interactive elements to explore or new information to gather from the current observation.\nAction: Answer; Phishing - [Justification: Brand impersonation (BT logo on non-BT domain), suspicious domain (`sitebeat.crazydomains.com`), lack of contact info/privacy policy, basic/unfinished design, and form collecting sensitive data.]"
+  },
+  {
+    "id": "task--9112545",
+    "web": "https://pewter-unequaled-order.glitch.me/agb4k.html",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Thought: I have gathered a significant amount of evidence throughout this analysis. I will summarize the key findings to determine the final verdict.\n\n**Key Evidence:**\n1.  **Domain Name Analysis:** The URL is `https://pewter-unequaled-order.glitch.me/agb4k.html`. The domain `glitch.me` is a free hosting service and has no relation to T-Mobile (Telekom), the brand being impersonated. This is the most critical red flag.\n2.  **Brand Impersonation:** The page prominently displays the T-Mobile (Telekom) logo and uses German text consistent with a Telekom login page (\"Geben Sie Ihren Benutzernamen und Ihr Passwort ein\"). This is a clear attempt to impersonate a well-known brand.\n3.  **Purpose of Form:** The page features a form asking for \"Benutzername\" (username) and \"Passwort\" (password). Given the fake domain and brand impersonation, this form's purpose is to illicitly collect user credentials.\n4.  **Security Indicators:** While the site uses HTTPS, the illegitimate domain completely negates the security provided by HTTPS for brand authentication.\n5.  **Website Appearance:** The website appears basic and unfinished compared to a legitimate, comprehensive login portal for a major brand like Telekom, lacking typical elements found on such sites.\n6.  **No Legitimate Contact Info/Policies:** Earlier attempts to find contact information or privacy policy were unsuccessful due to initial page errors and then the lack of labeled clickable elements, though the ultimate reason for their absence is the page's illegitimate nature.\n7.  **No Urgent Calls to Action/Pop-ups:** While the absence of these is generally a good sign, in this case, it doesn't outweigh the overwhelming evidence of phishing.\n\nAll evidence points strongly towards this being a phishing website.\nAction: Answer; Phishing - Justification: Impersonates T-Mobile (Telekom) brand on an unrelated domain (`glitch.me`), hosts a form to collect user credentials, and displays a suspiciously basic design for a major company's login page."
+  },
+  {
+    "id": "task--9114221",
+    "web": "https://mr.groupage-pbs.com/search",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Thought: Based on all observations, the website has consistently displayed an \"under maintenance\" message and provided no interactive content or functional elements.\nKey findings:\n- The domain `mr.groupage-pbs.com` does not exhibit typical phishing characteristics like misspellings, unusual TLDs, or clear brand imitation.\n- The website uses HTTPS.\n- No suspicious content, forms for sensitive data, urgent calls to action, or misleading links were found because the site is not functional.\n- The appearance is extremely basic due to the maintenance message.\n\nWhile the site's non-operational state prevents a full assessment of its ultimate purpose or potential future malicious intent, it does not currently exhibit any active characteristics of a phishing website. There are no deceptive elements, fake login pages, or attempts to trick the user into revealing information. It simply states it's under maintenance. Therefore, it cannot be classified as phishing based on the available evidence.\nAction: Answer; Not Phishing - Justification: The website is non-functional, displaying only an \"under maintenance\" message. It does not exhibit any typical phishing characteristics such as brand imitation, deceptive content, suspicious forms, or urgent calls to action. The domain itself does not show signs of being a phishing attempt."
+  },
+  {
+    "id": "task--534",
+    "web": "https://onetrust.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Thought: I have gathered all the necessary evidence from the previous questions. The website has consistently shown signs of legitimacy. I will now compile these findings to provide the final verdict.\nAction: Answer; Legitimate - The website uses HTTPS, provides clear and comprehensive privacy documentation, has legitimate contact forms that do not request sensitive data, features a professional design with high-quality content, and its external links behave as expected. The domain name itself is standard and not suspicious."
+  },
+  {
+    "id": "task--784",
+    "web": "https://quickconnect.to",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Thought: I need to provide the final verdict on whether the domain is phishing or legitimate, based on all the evidence gathered throughout the analysis. I have already collected sufficient information in the previous steps.\nAction: Answer; Legitimate - [Justification: Uses HTTPS; domain `quickconnect.to` is associated with the legitimate Synology brand and service; external links redirect to legitimate Synology domains; no urgent/suspicious calls to action or intrusive pop-ups; professional design and text content; form asks for non-sensitive data for a legitimate purpose.]"
+  },
+  {
+    "id": "task--9114619",
+    "web": "https://uiysbadge.info/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Thought: I have gathered all the necessary evidence from the previous steps. The question asks for a final verdict.\nAction: Answer; Phishing - Justification: The domain name (`uiysbadge.info`) is completely unrelated to the legitimate \"Le Monde\" website (`lemonde.fr`), despite the site meticulously impersonating its content, branding, and layout. While the site uses HTTPS, features a well-drafted privacy policy, and has high-quality visuals and text, these elements are all designed to build trust and deceive users. Crucially, internal links do not redirect to the legitimate domain, and there is a form designed to capture sensitive login credentials under false pretenses. The lack of legitimate direct contact information further supports this conclusion."
+  },
+  {
+    "id": "task--1266",
+    "web": "https://mapbox.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS, well-known legitimate domain \"mapbox.com\" with no misspellings, professional design and content, legitimate contact information and legal documents (privacy, terms), and expected behavior of internal links. No phishing indicators like urgent CTAs, intrusive pop-ups, or suspicious external redirects were found.]"
+  },
+  {
+    "id": "task--9115620",
+    "web": "http://103.99.210.5/",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - Justification: The website displays a \"404 Not Found\" error page with no active content, forms, deceptive elements, or attempts to mimic brands or collect sensitive information. It does not exhibit any characteristics of a phishing website."
+  },
+  {
+    "id": "task--728",
+    "web": "https://2gis.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Found legitimate contact info (physical address), presence of clear and well-drafted Privacy Policy and License Agreement, use of HTTPS, legitimate domain name matching a known brand, proper external link behavior, no intrusive pop-ups, high quality text/logos, absence of urgent calls to action, and legitimate purpose for sensitive data forms (sign-in).]"
+  },
+  {
+    "id": "task--9114086",
+    "web": "https://ir-ahora07.glitch.me/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain \"ir-ahora07.glitch.me\" is not legitimate for a Microsoft/Outlook login page, clearly indicating brand imitation. The site features a form designed to capture sensitive login credentials under false pretenses. Additionally, interactive links on the page (e.g., \"Cree una\", \"Siguiente\") were found to be non-functional, further supporting the conclusion that it is a deceptive site."
+  },
+  {
+    "id": "task--284",
+    "web": "https://cnbc.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--323",
+    "web": "https://reg.ru",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information, HTTPS usage, a proper domain name (reg.ru), normal link behavior, absence of aggressive pop-ups or urgent calls to action, professional design and content quality, and a legitimate login form for account access.]"
+  },
+  {
+    "id": "task--130",
+    "web": "https://tumblr.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain 'tumblr.com' is a well-known, legitimate brand. The website uses HTTPS, indicating a secure connection. The overall design, branding, and textual content are professional and free of common phishing indicators like misspellings, poor grammar, or urgent calls to action. Despite issues with the cookie banner, the core elements point to legitimacy.]"
+  },
+  {
+    "id": "task--1289",
+    "web": "https://xnxx.tv",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Answer; Phishing - Justification: The domain `xnxx.tv` closely imitates a well-known adult entertainment brand (`xnxx.com`), a common tactic for deceptive websites. The site consistently displays a \"Network error\" and loads no content, suggesting it is unfinished or intentionally non-functional, which is highly suspicious for a legitimate site."
+  },
+  {
+    "id": "task--9115025",
+    "web": "https://docs.google.com/drawings/d/1UTYEYj4PmqFdSOFmriwWYito66f7Wa_c7zgpj03PD-8/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The page is a static image hosted on a legitimate Google domain, but it mimics an Amazon security page. Key indicators of phishing include: lack of legitimate contact information or privacy policy, grammatical errors/awkward phrasing in the text, urgent calls to action, and the extremely basic/unfinished appearance for what it claims to be, with non-functional interactive elements like the \"Continue Verification\" button."
+  },
+  {
+    "id": "task--9113350",
+    "web": "https://nwlglnoutlouk365.iceiy.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--168",
+    "web": "https://forbes.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - The website uses the official \"forbes.com\" domain with HTTPS, provides clear and legitimate contact information, has a well-drafted privacy policy, shows normal external link behavior, features high-quality visuals and text, and lacks any common phishing indicators such as urgent calls to action, suspicious pop-ups, or requests for sensitive data out of context."
+  },
+  {
+    "id": "task--9112913",
+    "web": "https://ulys-fr.com/as.php",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - The website is operating on the domain `ulys-fr.com` but extensively impersonates the well-known brand \"Le Monde\" (`lemonde.fr`) through its design, logo, content, and the presence of a login form. This clear act of brand impersonation, designed to illicitly collect user credentials, is the primary indicator of a phishing attempt, despite the use of HTTPS, a professional design, and seemingly legitimate legal documents."
+  },
+  {
+    "id": "task--9112561",
+    "web": "https://webmail-ionos.de-en.cc/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - The primary indicator of phishing is the highly suspicious domain name \"webmail-ionos.de-en.cc/\". Despite other factors like professional design, legitimate-looking content, working links, HTTPS, and proper forms, the unusual TLD (.cc) and sub-domain structure are clear signs of brand imitation, which is a core characteristic of phishing."
+  },
+  {
+    "id": "task--9115286",
+    "web": "https://turizorwlit.gitbook.io/ru",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `turizorwlit.gitbook.io` is a clear misspelling of \"Trezor\" and is hosted on a third-party documentation platform, not the official Trezor domain. The site falsely claims to be an \"Official wallet — GitBook.\" There is no legitimate contact information, privacy policy, or terms of service. The main call-to-action link is non-functional. The overall appearance is too basic for an official product site."
+  },
+  {
+    "id": "task--795",
+    "web": "https://xbox.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--477",
+    "web": "https://time.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The website uses HTTPS, has a legitimate domain (time.com) with no misspellings, features clear and well-integrated branding (TIME logo), provides legitimate contact information, includes well-drafted privacy policy and terms of service, exhibits expected external link behavior, and presents a professional, finished appearance. No urgent calls to action or malicious pop-ups were observed, and forms for sensitive data were part of a legitimate subscription process."
+  },
+  {
+    "id": "task--341",
+    "web": "https://rutube.ru",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain \"rutube.ru\" is a recognized brand with a standard TLD, no misspellings or deceptive subdomains. The website design, logo quality, and text content appear professional and legitimate. Forms asking for sensitive data (login) serve a clear, legitimate purpose. No urgent, suspicious calls to action were observed. While there were usability issues with persistent pop-ups and page reloads, these do not indicate phishing intent."
+  },
+  {
+    "id": "task--390",
+    "web": "https://salesforceliveagent.com",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Answer; Phishing - Justification: The domain `salesforceliveagent.com` is a clear imitation of the well-known Salesforce brand, leveraging its name and services (\"live agent\") in a standalone domain rather than an official Salesforce subdomain. This brand impersonation is the primary indicator of a deceptive practice, even though the website itself appears professional, uses HTTPS, and does not exhibit other overt signs of traditional phishing (e.g., asking for sensitive credentials, urgent calls to action, or broken design). It aims to mislead users about its affiliation with Salesforce."
+  },
+  {
+    "id": "task--9114356",
+    "web": "https://io-trezrstartt.gitbook.io/us",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain `io-trezrstartt.gitbook.io` imitates the legitimate Trezor brand using misspellings and is hosted on a documentation platform (gitbook.io) rather than an official domain. Prominent text like \"Trezor® Hardware® Wallet® - (Official)**\" uses deceptive formatting. External links were found to be non-functional (leading to \"Forbidden\" pages), and no legitimate contact information or privacy policy was present.]"
+  },
+  {
+    "id": "task--9115239",
+    "web": "https://mobiiites-uiys.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain \"mobiiites-uiys.com\" is an imitation of \"Le Monde\" using misspellings and random characters; attempts to harvest credentials via a fake Google login page hosted on the same deceptive domain instead of redirecting to the legitimate Google sign-in; despite having seemingly legitimate content (logo, well-written articles, a privacy policy), these elements are used to enhance the deception of the phishing attempt."
+  },
+  {
+    "id": "task--9113203",
+    "web": "https://www.bing.com/ck/a?!&&p=d5be2eeb8c4044d64ee3ae5be71a0b7d3dc2de84464b71ec41715b7995feb37cJmltdHM9MTc0ODM5MDQwMA&ptn=3&ver=2&hsh=4&fclid=1c55f1f2-8175-6199-294d-e59f80b5604d&u=a1aHR0cHM6Ly9ob2xkZW5kZC5vcmcvdGVhbS1hbmQtc2VydmljZS8&ntb=1",
+    "predicted": "selenium_error",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--717",
+    "web": "https://unesco.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; legitimate domain `unesco.org`; clear and well-drafted Privacy Notice; professional site design; no suspicious pop-ups or urgent calls to action; internal links behave as expected; legitimate newsletter subscription form.]"
+  },
+  {
+    "id": "task--9115277",
+    "web": "https://willetstrezor.gitbook.io/us",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name \"willetstrezor.gitbook.io\" is a clear imitation of the legitimate \"Trezor\" brand on a generic hosting platform. The lack of official contact information and privacy policy further suggests it is not a legitimate brand presence."
+  },
+  {
+    "id": "task--773",
+    "web": "https://amazon.it",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--939",
+    "web": "https://corriere.it",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Uses HTTPS; official and correctly spelled domain for a major news brand (Corriere della Sera); legitimate contact info and comprehensive privacy policy found; professional design with high-quality logos and grammatically correct content; no urgent or malicious calls to action."
+  },
+  {
+    "id": "task--433",
+    "web": "https://cornell.edu",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information; Comprehensive privacy policy; Uses HTTPS; Authentic \"cornell.edu\" domain; Normal internal link behavior; No malicious pop-ups or urgent calls to action; Professional website design and content; Legitimate login form for university services.]"
+  },
+  {
+    "id": "task--209",
+    "web": "https://roku.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain is the official roku.com. It uses HTTPS. Legitimate contact information, privacy policy, and terms of service are present and well-drafted. The domain name is legitimate, not misspelled, and doesn't use unusual TLDs. Internal links redirect within the expected domain. No intrusive pop-ups or urgent/deceptive calls to action were found. The website design is professional, not basic or unfinished. Forms requesting sensitive data (login) have a legitimate purpose."
+  },
+  {
+    "id": "task--9113229",
+    "web": "http://allegro.pl-kategorie913291283187.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114994",
+    "web": "https://zhoujcbli.shop/loser/bal/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112509",
+    "web": "https://giddy-lackadaisical-poet.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--843",
+    "web": "https://daum.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact information available; presence of well-drafted privacy policy and terms of service; uses HTTPS; legitimate and well-known domain name \"daum.net\"; external links redirect to expected, reputable sources; no intrusive pop-ups or urgent calls to action; professional appearance with high-quality logos and text; legitimate login forms for integrated services."
+  },
+  {
+    "id": "task--321",
+    "web": "https://businessinsider.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain uses HTTPS, has legitimate contact information, a clear privacy policy, standard domain name, expected internal link behavior, professional appearance with high-quality logos and text, no urgent calls to action, and legitimate forms for subscriptions."
+  },
+  {
+    "id": "task--9113924",
+    "web": "https://breezy-boundless-verbena.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114572",
+    "web": "https://trajets-uiys.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name `trajets-uiys.com` is entirely unrelated to the legitimate \"Le Monde\" brand, which the website explicitly imitates in its logo, content, and overall appearance. This clear discrepancy between the displayed brand and the actual domain name is a strong indicator of brand impersonation and a phishing attempt."
+  },
+  {
+    "id": "task--697",
+    "web": "https://latimes.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114264",
+    "web": "https://app.cgd.pt/cdoOBA/login.seam?ref=3f3e1ac2300e91427aa77e420e92d00ad1",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - Justification: Uses HTTPS; legitimate domain `app.cgd.pt` matching a known bank (Caixa Geral de Depósitos/Caixadirecta); professional design and clear, grammatically correct text; absence of common phishing tactics like urgent calls to action or intrusive pop-ups."
+  },
+  {
+    "id": "task--9112190",
+    "web": "https://kucoinlogena.gitbook.io/crypto-exchange-or-bitcoin-exchange-or-bitcoin-tradi",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `kucoinlogena.gitbook.io` impersonates a legitimate brand (KuCoin) on an illegitimate hosting platform (`gitbook.io`). No legitimate contact or privacy information was found. The site's primary purpose is to collect user credentials via a highly convincing but spoofed interface."
+  },
+  {
+    "id": "task--548",
+    "web": "https://google.co.jp",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain `google.co.jp` is official and legitimate, using HTTPS. It features a well-written privacy policy, professional branding, high-quality text, and no urgent calls to action or intrusive pop-ups. External links redirect correctly to associated legitimate domains, and forms requesting sensitive data serve a clear, legitimate purpose.]"
+  },
+  {
+    "id": "task--9115010",
+    "web": "https://docs.google.com/presentation/d/e/2PACX-1vQ1qBsWHmOGElGnVbDUOfj_vJ6WkA4BhHrNXSWTbdLSxWyl0M0FCq2nZ3giFi5ElC3jIWiKGtZwL8mQ/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `docs.google.com` is legitimate, but it is being used to host content (Eastlink branding, monthly dues) that imitates a well-known brand. The site lacks crucial elements like contact information, privacy policy, and terms of service, and its design is overly simplistic and unprofessional for a financial transaction page."
+  },
+  {
+    "id": "task--9113332",
+    "web": "https://facilcrm.markenetics.com/wp-includes/blocks/weff34g/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain is currently suspended, but the highly suspicious URL path (`/wp-includes/blocks/weff34g/`) is a strong indicator of a potentially compromised or malicious site, inconsistent with a legitimate business. No functional content, contact info, or legal documents were found. The site appears extremely basic and unfinished for a supposed CRM service.]"
+  },
+  {
+    "id": "task--9115003",
+    "web": "https://docs.google.com/drawings/d/1oOgApdah-YDn5VxBGz2c4bbcNBWMtuhcS1eaIaLETxU/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Impersonation of a well-known brand (USPS) on an inappropriate platform (Google Drawing), presence of an urgent call to action, lack of legitimate contact information or privacy policy, and the extremely basic and unofficial appearance compared to a real USPS website."
+  },
+  {
+    "id": "task--222",
+    "web": "https://ivi.ru",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS, domain name is legitimate with no misspellings, well-drafted Privacy Policy present, internal links behave as expected, no intrusive pop-ups, professional design and correct content, and legitimate login forms are found.]"
+  },
+  {
+    "id": "task--922",
+    "web": "https://character.ai",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information, comprehensive and well-drafted Privacy Policy and Terms of Service, use of HTTPS, legitimate and relevant domain name \"character.ai\", professional and high-quality branding/text, absence of urgent or malicious calls to action, and standard login/signup forms for user credentials.]"
+  },
+  {
+    "id": "task--9115053",
+    "web": "https://tinyurl.com/3j7h2jat",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - Justification: The domain tinyurl.com is a well-known, legitimate URL shortening service. The website uses HTTPS, and all internal links (Terms of Use, Privacy Policy, Visit TinyURL.com) correctly redirect to expected pages within the `tinyurl.com` domain. The site presents a professional appearance with a clear, grammatically correct message and a well-integrated logo. There are no suspicious elements such as urgent calls to action, requests for sensitive data, or misleading design choices, other than a standard ad banner. The current page is a legitimate warning from TinyURL itself, indicating a violation of its terms, not a phishing attempt."
+  },
+  {
+    "id": "task--255",
+    "web": "https://temu.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - The website uses HTTPS, has a legitimate and professional domain name (temu.com), features well-integrated and high-quality logos of known brands, displays grammatically correct and professional text content, includes a clear and well-drafted privacy policy, and lacks urgent/threatening calls to action or malicious pop-ups. While direct contact information was not immediately visible and external link behavior could not be fully assessed due to page loading issues, these do not outweigh the strong indicators of legitimacy."
+  },
+  {
+    "id": "task--1297",
+    "web": "https://namestudio.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Uses HTTPS; legitimate and untampered domain name; presence of a professional privacy policy via Verisign; no urgent calls to action, suspicious pop-ups, or fake sensitive data forms observed; and generally good content/logo quality where evaluated."
+  },
+  {
+    "id": "task--862",
+    "web": "https://seznam.cz",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--869",
+    "web": "https://firefox.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact information (emails for Mozilla Foundation and Mozilla Corporation) was found; A clear and well-drafted privacy policy is present; The domain name (firefox.com) is the official and well-known brand, free of typos or suspicious TLDs; External links (e.g., to the blog) redirect to legitimate and related subdomains; No intrusive or malicious pop-ups were observed; Brand logos are high-quality and integrated, and text content is professional and grammatically correct; There are no urgent, deceptive, or fear-mongering calls to action; No forms requesting sensitive data were found; The website's design and functionality are professional and complete."
+  },
+  {
+    "id": "task--9112541",
+    "web": "https://brazen-cool-passbook.glitch.me/tgok.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--724",
+    "web": "https://amazon.in",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "** The site did not contain aggressive or manipulative urgent calls to action. Promotional language was typical for e-commerce.\n9.  **Site Appearance:** The website looked professionally designed, fully functional, and complete, not basic or unfinished, consistent with a major e-commerce platform.\n10. **Forms for Sensitive Data:** A login/account creation form was found after clicking a legitimate sign-in button. Its purpose was clearly for authentication, not just data harvesting.\n\nAll these points strongly indicate that the website is legitimate.Answer; Legitimate - [Justification: The domain \"amazon.in\" is official and correctly spelled. The website uses professional design, clear branding, and high-quality content. Legitimate privacy policies and terms of service are present and well-drafted. Link behavior is normal, staying within the domain. No malicious pop-ups or urgent/coercive calls to action were observed. Forms requesting sensitive data serve a legitimate purpose (login/account creation).]"
+  },
+  {
+    "id": "task--1009",
+    "web": "https://adrta.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain uses HTTPS, is associated with a legitimate company (Pixalate, Inc.) via its robots.txt file, and exhibits no characteristics of a phishing site such as brand imitation, misleading content, requests for sensitive data, or suspicious links.]"
+  },
+  {
+    "id": "task--52",
+    "web": "https://googlesyndication.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; domain name `googlesyndication.com` is legitimate and consistent with Google services; professional design with high-quality Google branding; grammatically correct and clear text content; no urgent calls to action; no suspicious forms for sensitive data.]"
+  },
+  {
+    "id": "task--9114990",
+    "web": "https://point.angolodellatelefonia.com/hostpoin/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `point.angolodellatelefonia.com` misleadingly uses the \"HOSTPOINT\" brand and includes a misspelling (`/hostpoin/`) in the URL path. Links to the legitimate Hostpoint site or other sections are non-functional, keeping the user on the suspicious domain. The site features a login form designed to collect sensitive credentials."
+  },
+  {
+    "id": "task--457",
+    "web": "https://force.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information and legal documents (privacy, terms) present, uses HTTPS, domain name is associated with a well-known brand (Salesforce) and is not misspelled or misleading, no urgent calls to action, professional appearance with high-quality logos and grammatically correct content, no deceptive pop-ups or immediately visible sensitive data request forms.]"
+  },
+  {
+    "id": "task--585",
+    "web": "https://mailchimp.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain \"mailchimp.com\" is authentic and well-known. The site uses HTTPS, has legitimate contact information, a clear privacy policy (TRUSTe certified), professional design, correct grammar, and expected link/form behavior. No phishing indicators like unusual TLDs, misspellings, urgent CTAs, or suspicious redirects were found."
+  },
+  {
+    "id": "task--9112627",
+    "web": "https://at1-alpha.vercel.app/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain name `at1-alpha.vercel.app` does not match the legitimate AT&T domain (`att.com`) despite impersonating the brand with its logo and login prompt. Additionally, there is a complete lack of accessible legitimate contact information, and all policy/footer links are non-functional, causing the page to reload instead of navigating. The website also appears unusually basic for a major brand's login page.]"
+  },
+  {
+    "id": "task--1561",
+    "web": "https://forebet.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--838",
+    "web": "https://ebay.co.uk",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain \"ebay.co.uk\" is the official and correct URL for eBay in the UK. The website exhibits a professional design, high-quality logos, and grammatically correct content. Key legitimate elements like \"Help & Contact,\" \"Sign in,\" and \"Privacy Policy\" links are present. Internal link navigation works as expected, keeping the user within the domain. No malicious pop-ups or urgent, deceptive calls to action were observed. The persistent captcha, while preventing full access to some internal pages, is a security measure of a legitimate site, not a phishing indicator."
+  },
+  {
+    "id": "task--9114161",
+    "web": "https://0qzwaf-rj.myshopify.com/0ee23",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112507",
+    "web": "https://everlasting-balsam-vise.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113197",
+    "web": "https://urlz.fr/uzIr?userid=x6JwzxyM",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `urlz.fr` is a URL shortener, a common tactic in phishing to obscure the real destination. The site displays the \"gofundme\" logo, impersonating a legitimate brand, while the domain is completely unrelated. This clear brand impersonation on a suspicious domain is a strong indication of phishing. Additionally, the privacy banner's non-interactability (due to missing labels) prevents further exploration, which is also a red flag."
+  },
+  {
+    "id": "task--247",
+    "web": "https://doi.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; legitimate domain `doi.org` relevant to content; clear Privacy Policy; external links redirect to expected domains; no intrusive pop-ups or urgent calls to action; professional design, logo, and text content; no forms for sensitive data found.]"
+  },
+  {
+    "id": "task--9114585",
+    "web": "http://rtfreeski.com/wp-admin/access.php?r=bD1odHRwczovL2RxcmRidi5jb20v",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1472",
+    "web": "https://mangabuddy.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS, domain name is not misleading or imitating, external links redirect to expected/related domains, no urgent/deceptive pop-ups, and a legitimate login form is present. Minor drawbacks include grammatical errors in text and lack of direct contact information, but these are not strong indicators of phishing.]"
+  },
+  {
+    "id": "task--179",
+    "web": "https://t.co",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114839",
+    "web": "https://get-trezor-support.teachable.com/p/home",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; official domain `trezor.io`; professional design and high-quality content/logos; no urgent calls to action; no immediate request for sensitive data; no intrusive pop-ups.]"
+  },
+  {
+    "id": "task--1073",
+    "web": "https://poki.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact info, clear privacy policy/terms, legitimate domain name, normal external link behavior, no malicious pop-ups or urgent CTAs, professional website appearance, no requests for sensitive data, high-quality content.]"
+  },
+  {
+    "id": "task--9113159",
+    "web": "https://mainnetrevent.vercel.app/app.html",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The website attempts to collect highly sensitive data (mnemonic words/private key) through a deceptive form, lacks legitimate contact information and legal documents (privacy policy/TOS), uses a suspicious subdomain, and exhibits fake in-page connection behavior instead of genuine external redirects.]"
+  },
+  {
+    "id": "task--9114151",
+    "web": "https://scanned.page/p/6837ec209d573",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--428",
+    "web": "https://ngenix.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The website uses HTTPS, provides legitimate contact information, includes a professional user agreement, has a clean and unique domain name, shows no suspicious redirects from internal links, avoids aggressive pop-ups or urgent calls to action, and presents a polished, professional design. A legitimate login form was also present.]"
+  },
+  {
+    "id": "task--805",
+    "web": "https://iso.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate domain name (iso.org) matching the organization, clear contact information, comprehensive and well-drafted privacy policy, use of HTTPS, professional design and content, and legitimate purpose for login forms.]"
+  },
+  {
+    "id": "task--1572",
+    "web": "https://xosodaiphat.com",
+    "predicted": "selenium_error",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114828",
+    "web": "https://caffesound.com/?BlNR=iyOv&O1CBY=1VbLScco&3x84kF93=dLW9",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - [Justification: Found legitimate contact information for IONOS SE, presence of well-drafted terms of service and privacy policy, use of HTTPS, domain name not imitating a known brand, normal external link behavior, no intrusive pop-ups or urgent calls to action, professional appearance, and no suspicious forms on informational pages.]"
+  },
+  {
+    "id": "task--1539",
+    "web": "https://luticlip.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--873",
+    "web": "https://biblegateway.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115128",
+    "web": "https://www.ashsxcas221.jp%E2%88%95yjm@mdfbvrik.hduiwjx.asia/NQLJXCY#iijxotceyb.tcyhyr.co.jp",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--559",
+    "web": "https://braze.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--751",
+    "web": "https://pccc.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The website uses HTTPS, has a legitimate domain name with a common TLD, provides clear and extensive contact information, includes privacy and terms documents, features professional design and grammatically correct content, exhibits proper external link behavior, and does not use suspicious pop-ups or urgent calls to action. The form found for sensitive data (login) serves a legitimate purpose for accessing a company service."
+  },
+  {
+    "id": "task--9115001",
+    "web": "https://docs.google.com/forms/d/e/1FAIpQLScqJmmpVhf-v4KMqr7N3Zt9PJL0a40kuMwc2OsEz5XZsFP2-A/viewform?usp=send_form",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Requests sensitive data (Office 365 email/password) under false pretenses and threats; poor grammar and unprofessional tone; lacks legitimate branding/contact for the claimed entity; uses urgent calls to action; generic Google Forms interface is unsuitable for official credential collection.]"
+  },
+  {
+    "id": "task--1058",
+    "web": "https://fortune.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; legitimate domain name \"fortune.com\" matching the brand; comprehensive and well-drafted privacy policy/terms of service; legitimate contact information available; professional website design with high-quality logos and text content; no deceptive pop-ups or urgent calls to action; sensitive data forms (sign-in) serve a legitimate purpose.]"
+  },
+  {
+    "id": "task--9115297",
+    "web": "https://allegrolokalnie.pl-oferta7495128.cfd",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1418",
+    "web": "https://ssstik.io",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; no forms for sensitive data; external links lead to legitimate app stores; domain imitation is common for third-party tools rather than credential theft; appearance is functional; no urgent calls to action. Minor issues include lack of clear contact/privacy info and some grammatical errors, but these are not indicative of phishing.]"
+  },
+  {
+    "id": "task--9113140",
+    "web": "https://www.sportspartner.pt/a/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115154",
+    "web": "https://y4yku.com/rakuten-solidbeautifulaire-login",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--660",
+    "web": "https://cdnvideo.ru",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115168",
+    "web": "https://cen-o9ni.vercel.app/violate/page.html",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Suspicious domain name (`cen-o9ni.vercel.app` impersonating Meta/Facebook), deceptive redirection of privacy policy links to an \"Account Violation Notice,\" urgent and threatening language to coerce action, and a form collecting sensitive personal information for a non-legitimate purpose."
+  },
+  {
+    "id": "task--409",
+    "web": "https://npr.org",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "** None present.\n- **Forms for Sensitive Data:** No suspicious forms found.\n- **Website Appearance:** Looks professional and finished, not basic or unfinished.\n\nAll evidence points towards the website being legitimate.Answer; Legitimate - [Justification: Uses HTTPS; Legitimate and well-known domain (npr.org) with correct spelling; Functional and secure external links; Professional and well-designed layout; High-quality brand logos and text content; Clear and well-drafted privacy policy; Absence of intrusive pop-ups, urgent calls to action, or suspicious data collection forms.]"
+  },
+  {
+    "id": "task--9114964",
+    "web": "https://wi8u4fewqtuzih9v.radiowebluzfm.com/uX1f2LwHB/rmpq6uxkc7a3ztuc",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain name `wi8u4fewqtuzih9v.radiowebluzfm.com` is completely fraudulent and unrelated to the legitimate LHV bank, which is the strongest indicator of phishing. While the website presents a highly convincing replica with professional design, legitimate-looking contact information, and comprehensive policies (all designed to deceive), the core URL's illegitimacy confirms its malicious intent to collect sensitive user data via its login form.]"
+  },
+  {
+    "id": "task--9115485",
+    "web": "https://anneoptusdecosta.weebly.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--892",
+    "web": "https://shopeemobile.com",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Answer; Phishing - Justification: The domain \"shopeemobile.com\" is an imitation of the well-known Shopee brand; the website lacks legitimate contact information, a privacy policy, and terms of service; and it contains a significant grammatical error in its main content, all of which are strong indicators of a deceptive site despite its professional appearance and use of HTTPS. The login form found is likely for credential harvesting."
+  },
+  {
+    "id": "task--9115028",
+    "web": "https://docs.google.com/drawings/d/1bPRoyX35EXdGVcwb1YMhxTaNbKAQbl_kRI4mTBwOYb4/edit",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "** The message explicitly stated \"Your Subscription is on hold\" and urged the user to \"Update Payment\", creating a strong sense of urgency.\n9.  **Form for Sensitive Data:** No interactive forms for sensitive data were found on the page; the \"Update Payment\" button was part of the static image.\n10. **Website Appearance:** The overall \"website\" (a Google Drawings file) looks extremely basic and unfinished compared to a legitimate Netflix website, further indicating it's not a real communication channel.\n\nCombining these points, despite being hosted on a legitimate Google domain, the *content* and its *purpose* are unequivocally phishing. The Google warning itself confirms this.Answer; Phishing - [Justification: The webpage, despite being hosted on a legitimate Google domain (docs.google.com), displays content that is a phishing attempt. Key evidence includes: 1) A prominent Google security warning banner stating \"This file looks suspicious. It contains links that might be used to steal your personal information.\" 2) The content impersonates Netflix, using a generic greeting, urgent language (\"Your Subscription is on hold\"), and a clear misspelling (\"countinue\"). 3) The \"website\" is merely a Google Drawing, making it appear basic and illegitimate for a major company's communication. 4) No legitimate, interactive privacy policy or terms of service could be accessed, and the phishing links were non-functional as they were part of a static image.]"
+  },
+  {
+    "id": "task--9112222",
+    "web": "http://mbhbank.hu@mbline.pro",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113668",
+    "web": "https://hnmfd-6728413-futuretech-plovmryt-008.diversifiedhr.biz/master/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain (`diversifiedhr.biz`) is entirely unrelated to the legitimate Bradesco bank and features randomly generated subdomains, despite impersonating Bradesco. A highly deceptive and urgent security warning pop-up appears, blocking content and coercing users into downloading a file, threatening account suspension with grammatically incorrect and awkward phrasing. The site presents a login form for sensitive banking credentials on a suspicious domain, clearly designed for illegitimate data collection. The site's overall appearance with the intrusive pop-up is unprofessional for a bank, and its use of HTTPS despite these issues doesn't negate the strong phishing indicators."
+  },
+  {
+    "id": "task--750",
+    "web": "https://substack.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain \"substack.com\" is well-known and uses HTTPS. No unusual redirects, malicious pop-ups, or urgent calls to action were observed. The website design is professional, and text content is high quality. A legitimate login form was present."
+  },
+  {
+    "id": "task--659",
+    "web": "https://amazon.ca",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--486",
+    "web": "https://indiatimes.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain \"indiatimes.com\" is a recognized brand, internal links function as expected within the domain, no intrusive pop-ups were observed, the website design is professional with high-quality content and logos, and no suspicious forms requesting sensitive data or urgent calls to action were found."
+  },
+  {
+    "id": "task--9114223",
+    "web": "http://allegrolokalnie.pl-oferta-wozek-narzedziowy-aukcja.icu/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--802",
+    "web": "https://google.pl",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The website uses HTTPS, has a legitimate Google domain name (google.pl), displays an authentic Google logo, features a well-structured privacy policy, contains grammatically correct content, shows normal external link behavior, lacks suspicious pop-ups or urgent calls to action, and presents a professional, complete appearance."
+  },
+  {
+    "id": "task--9115514",
+    "web": "https://trozur-iou-sttart.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--778",
+    "web": "https://tencent.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--700",
+    "web": "https://investopedia.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate domain name (investopedia.com) with no misspellings or unusual TLDs; presence of a clear and well-drafted Privacy Policy and Terms of Service; external links redirect to expected, legitimate domains (e.g., LinkedIn); absence of intrusive pop-ups or urgent/aggressive calls to action; professional, high-quality logos and text content; and a well-designed, finished website appearance.]"
+  },
+  {
+    "id": "task--1095",
+    "web": "https://finn.no",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; legitimate and well-known domain name (`finn.no`) with appropriate TLD; no suspicious external redirects observed; professional design and high-quality, grammatically correct text; no aggressive pop-ups or urgent calls to action.]"
+  },
+  {
+    "id": "task--444",
+    "web": "https://telegram.me",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The website uses HTTPS, has clear and well-written privacy policy and terms of service, provides legitimate contact information, exhibits professional design with high-quality logos and text, and external links redirect to expected, official destinations. There are no signs of urgent calls to action, requests for sensitive data without context, or an unfinished appearance. The domain name is consistent with the legitimate brand.]"
+  },
+  {
+    "id": "task--9113063",
+    "web": "http://asbca.ca/wp-content/task.php?r=bD1odHRwczovL2RxcmRidi5jb20v",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1400",
+    "web": "https://medallia.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--601",
+    "web": "https://virtualearth.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information and privacy policy found, uses HTTPS, domain is a legitimate Microsoft property, external links redirect correctly, no suspicious pop-ups or urgent calls to action, professional logos and text, no illicit data collection forms, and a polished website appearance.]"
+  },
+  {
+    "id": "task--9114950",
+    "web": "https://gulfracing.net/zoo/china/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1429",
+    "web": "https://kooora.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; widely recognized and relevant domain name (kooora.com); presence of detailed and professionally drafted Privacy Policy and Terms of Service; professional website appearance and content; no deceptive pop-ups or urgent calls to action; legitimate login form for user accounts.]"
+  },
+  {
+    "id": "task--913",
+    "web": "https://huffpost.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115186",
+    "web": "http://allegrolokalnie.pl-oferta4166800.cfd",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115021",
+    "web": "https://docs.google.com/drawings/d/1jLyP-oOmzNjX7EdLxDZSsg0OS1eu_kYApPOkcfz9hg8/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Content impersonates Amazon on a Google Drawings domain (docs.google.com), no legitimate contact/privacy policy, poor grammar/awkward phrasing in text, urgent calls to action, and unprofessional appearance with visible Google Drawings interface."
+  },
+  {
+    "id": "task--9115051",
+    "web": "https://tinyurl.com/2r79pz66",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1398",
+    "web": "https://index.hr",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information; presence of clear privacy policy/terms of use; professional domain name; consistent internal link behavior; high-quality content and design; no suspicious forms or urgent calls to action.]"
+  },
+  {
+    "id": "task--214",
+    "web": "https://crashlytics.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The website uses HTTPS, the domain name (crashlytics.com) is directly associated with Google's legitimate Firebase service, a clear and well-drafted Privacy Policy exists, external links redirect to expected and related domains (Firebase Blog), there are no intrusive pop-ups or urgent calls to action, logos are well-integrated and of a known brand, and the overall website design and text quality are professional and complete. No suspicious forms were found, and contact information, while indirect, is through a legitimate support structure.]"
+  },
+  {
+    "id": "task--9115358",
+    "web": "https://colis-depot.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--535",
+    "web": "https://line.me",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain `line.me` is legitimate and matches the well-known brand. The website uses HTTPS, has clear and well-drafted privacy and user agreements, and displays professional design with no grammatical errors or pixelated logos. Internal links behave as expected, and there are no suspicious pop-ups, urgent calls to action, or unauthorized data request forms."
+  },
+  {
+    "id": "task--923",
+    "web": "https://kick.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112822",
+    "web": "https://auth-click-bn.zya.me",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114549",
+    "web": "https://pro.crputs.sbs/crs/home.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114243",
+    "web": "https://ton-wallet-connect.vercel.app/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: No contact information or legal documents (privacy policy, terms of service) found; extremely basic and unfinished website design lacking professional appearance; persistent functional issues (stuck loading) preventing interaction; lack of transparency and trust indicators for a cryptocurrency-related service.]"
+  },
+  {
+    "id": "task--931",
+    "web": "https://agoda.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; domain name 'agoda.com' is legitimate and correctly spelled; displays known brand logos and features a professional, well-designed website; external links redirect as expected within the same domain; forms for sensitive data (login) serve a legitimate purpose; no signs of urgent, threatening calls to action or malicious pop-ups.]"
+  },
+  {
+    "id": "task--212",
+    "web": "https://b-cdn.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact info (email/phone), non-deceptive domain name (b-cdn.net associated with bunny.net), internal links stay within the domain, no intrusive pop-ups, professional design/text quality, no urgent/threatening calls to action, and a legitimate sign-up form for service."
+  },
+  {
+    "id": "task--177",
+    "web": "https://theguardian.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact information (press.office@theguardian.com) found; Privacy policy exists and is discoverable; Uses HTTPS; Domain name 'theguardian.com' is legitimate and well-known, no misspellings or unusual TLDs; Internal links redirect to expected, relevant content within the same domain; Pop-ups are not aggressively blocking or forcing action; Logos are clear and well-integrated, text content is professional and grammatically correct; Calls to action are non-urgent and typical for a news site; Login form is legitimate and properly purposed."
+  },
+  {
+    "id": "task--947",
+    "web": "https://mercadolibre.com.ar",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Official domain (mercadolibre.com.ar), HTTPS in use, legitimate contact info, professional design, clear privacy policy/terms of service, no unusual pop-ups or urgent calls to action, and proper handling of sensitive data forms.]"
+  },
+  {
+    "id": "task--846",
+    "web": "https://alidns.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1597",
+    "web": "https://grapee.jp",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1479",
+    "web": "https://aniwatchtv.to",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Answer; Phishing - Justification: The website lacks essential elements of legitimacy including contact information, privacy policy, and terms of service. The use of an uncommon '.to' TLD for a global service also raises suspicion. While not overtly attempting credential harvesting on the displayed page, the severe lack of transparency makes it an untrustworthy domain."
+  },
+  {
+    "id": "task--800",
+    "web": "https://bandcamp.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses official domain `bandcamp.com` with HTTPS, professional design and content, no urgent calls to action, and the pop-up is a standard privacy banner.]"
+  },
+  {
+    "id": "task--9112914",
+    "web": "https://ulys-fr.com/z.php",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The website is consistently inaccessible, displaying a \"THE REQUEST WAS DENIED\" error, which is highly abnormal for a legitimate site and prevents any content analysis. While no direct phishing content was observed, its non-functionality and the specific error message are significant red flags that suggest it is not a legitimate operational website."
+  },
+  {
+    "id": "task--9115000",
+    "web": "https://subscriptions-membershiprenewal.martindanailov.com/?secure",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The primary evidence is the domain name, `martindanailov.com`, which is not `netflix.com` despite the website perfectly mimicking Netflix's visual branding, logos, and text content. Other supporting evidence includes the lack of legitimate contact information (beyond a general phone number that can be part of the scam), and the internal links (e.g., \"Sign In,\" \"Forgot password?\") that keep the user within the fake domain instead of redirecting to the official Netflix site. While the site uses HTTPS and has well-drafted policies, these are common tactics used by sophisticated phishing campaigns to appear legitimate.]"
+  },
+  {
+    "id": "task--9115064",
+    "web": "https://tinyurl.com/26qkpkth",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113080",
+    "web": "https://uiysfr-espace.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Impersonates \"Le Monde\" brand on an unrelated domain (\"uiysfr-espace.com\" instead of \"lemonde.fr\"); Contains a login form designed to collect credentials under false pretenses; Internal links keep users on the imposter domain; Despite high-quality design, the fundamental mismatch between the domain and content points to deception.]"
+  },
+  {
+    "id": "task--9115281",
+    "web": "https://trezor-hardware-wallet-1.gitbook.io/trezor-suite",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `trezor-hardware-wallet-1.gitbook.io` is highly suspicious for an \"official\" Trezor site. No legitimate contact information, privacy policy, or terms of service were found. Critical links (e.g., support, login) lead to broken or suspicious, unrelated domains (`user.trezorwallet-app.org`), indicating a fraudulent setup. While visually appealing, this is a common tactic to mislead users."
+  },
+  {
+    "id": "task--455",
+    "web": "https://steamcommunity.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; Legitimate domain name related to a known brand (Steam); Professional design and high-quality content; Presence of a clear and well-drafted privacy policy; Legitimate external link behavior; No urgent/malicious calls to action or intrusive pop-ups; Legitimate forms for sensitive data (login).]"
+  },
+  {
+    "id": "task--9113759",
+    "web": "https://pt-co-pilot-33d56d97.azurewebsites.net/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112107",
+    "web": "https://clozer.io/autopass",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The website is consistently non-functional, displaying blank/black screens throughout the interaction. It lacks any discoverable legitimate content, contact information, an accessible privacy policy, or interactive elements, making it highly suspicious and indicative of not being a legitimate service.]"
+  },
+  {
+    "id": "task--9114634",
+    "web": "https://docs.google.com/presentation/d/e/2PACX-1vTtXQRhy4BPDAhbJbbYWsfA51PRLoZJqbY0sdLw6ItjRYSLuD1HMedcWvOdGBwSElN7tzPGuTgX_vVg/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Unexpected redirection from a legitimate Google Docs URL to an unrelated Yahoo portal; lack of contact information and privacy policy on redirected page; non-functional navigation links."
+  },
+  {
+    "id": "task--842",
+    "web": "https://maricopa.gov",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The website uses a legitimate .gov domain, displays clear and professional branding and content, features a comprehensive privacy policy, utilizes HTTPS, provides legitimate contact information, and exhibits no signs of phishing tactics such as misleading redirects, urgent calls to action, or poorly designed forms.]"
+  },
+  {
+    "id": "task--9115238",
+    "web": "https://mobiiites-uiys.com/as.php",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name \"mobiiites-uiys.com\" is a clear misspelling and does not match the legitimate \"lemonde.fr\", indicating impersonation. All content is hosted on this deceptive domain, and despite a polished design, authentic-looking logos, and professional text, the core URL itself is designed to trick users into believing it's the official \"Le Monde\" website."
+  },
+  {
+    "id": "task--889",
+    "web": "https://adblockplus.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - The domain is legitimate. Justification: It provides clear contact information, has comprehensive and well-drafted privacy policy and terms of service, uses HTTPS, has a legitimate and correctly spelled domain name matching the brand, redirects to expected external sites (like the Chrome Web Store), lacks urgent or deceptive calls to action, displays high-quality graphics and text, and does not request sensitive data through suspicious forms."
+  },
+  {
+    "id": "task--9113085",
+    "web": "https://allegrolokalnie.pl8374.cfd/prywatna/70848",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115280",
+    "web": "https://allegrolokalnie.pl-kategorie-ogrod-oferty-id52210.sbs",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--992",
+    "web": "https://split.io",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Uses HTTPS; legitimate domain name `split.io` with no misspellings or misleading TLDs; professional website design; no urgent or suspicious calls to action; external links redirect to legitimate and related domains (harness.io); login forms serve a legitimate purpose; logos and text content are of high quality and professional.]"
+  },
+  {
+    "id": "task--829",
+    "web": "https://arxiv.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Legitimate contact (email) and privacy policy found; uses HTTPS; domain (arxiv.org) is well-known and associated with Cornell University; no suspicious pop-ups or urgent calls to action; high-quality logos and text; legitimate login form; professional website appearance."
+  },
+  {
+    "id": "task--9112744",
+    "web": "http://allegrolokalne.pl-kategorie-inne-89133.sbs",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1250",
+    "web": "https://livescore.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Legitimate contact information available (contact form); clear and well-drafted Privacy Notice and Terms of Use; uses HTTPS; domain name is well-known and correctly spelled; no deceptive pop-ups or urgent calls to action; high-quality brand logos and well-written text content; no forms asking for sensitive data without legitimate purpose; and the website appears professional and fully functional.]"
+  },
+  {
+    "id": "task--9115013",
+    "web": "https://docs.google.com/drawings/d/1M4EUR7tIoeiaTl22QgSpLdTAnlw63ifVRBLX7NYChU0/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Hosted on a legitimate Google Docs domain but impersonates Amazon; no legitimate contact info or privacy policy found; poor text quality with grammatical errors and awkward phrasing; contains urgent calls to action (\"Continue Verification\"); appears extremely basic and unfinished compared to a legitimate Amazon page; likely leads to a sensitive data collection form."
+  },
+  {
+    "id": "task--1096",
+    "web": "https://vivo.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1522",
+    "web": "https://moviebox.ng",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Not Phishing - The website uses HTTPS, displays good visual design with integrated brand logos and correct grammar, and did not exhibit suspicious redirects upon clicking various links. While traditional contact information is absent and an intrusive pop-up hindered full exploration, there was no prominent attempt to collect sensitive data or other strong indicators of a phishing scheme."
+  },
+  {
+    "id": "task--1149",
+    "web": "https://furaffinity.net",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: HTTPS usage; Legitimate domain name (furaffinity.net); Clear and well-drafted Privacy Policy and Terms of Service; Expected external link behavior; No aggressive pop-ups or urgent calls to action; Professional design and text content; Legitimate login forms; Registered company name.]"
+  },
+  {
+    "id": "task--1076",
+    "web": "https://psychologytoday.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--888",
+    "web": "https://segment.io",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain `segment.io` is the official website for Twilio Segment, a well-known brand. It uses HTTPS, has a professional and modern design, features high-quality and grammatically correct content, and does not display typical phishing indicators such as misspellings, urgent calls to action, or suspicious pop-ups. While I encountered technical difficulties interacting with the page (e.g., clicking links), this does not negate the overwhelming evidence of legitimacy in its branding, security, and presentation.]"
+  },
+  {
+    "id": "task--9112537",
+    "web": "https://petalite-linen-cover.glitch.me/public/nil.htm",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1158",
+    "web": "https://notion.so",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - The domain `notion.so` is a recognized and legitimate brand. Although the website was inaccessible, consistently displaying a \"Forbidden\" page, this indicates a server issue rather than an active phishing attempt. There were no signs of domain spoofing, misspellings, or malicious content."
+  },
+  {
+    "id": "task--9114227",
+    "web": "https://treizor-stiart.gitbook.io/us",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--418",
+    "web": "https://globo.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain \"globo.com\" is well-known and authentic; the website has a professional and complete design; there are no suspicious pop-ups or urgent calls to action; links redirect to legitimate subdomains; a secure login form is present for account management; and legitimate copyright information is displayed.]"
+  },
+  {
+    "id": "task--3",
+    "web": "https://apple.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Official domain `apple.com`, legitimate contact information, clear and well-drafted privacy policy/terms of use, professional design, high-quality visuals, grammatically correct content, and absence of common phishing indicators like urgent calls to action, intrusive pop-ups, or suspicious links."
+  },
+  {
+    "id": "task--131",
+    "web": "https://userapi.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--972",
+    "web": "https://deloitte.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Official domain \"deloitte.com\", uses HTTPS, presence of well-drafted privacy policy and terms of service, professional logo and text content, legitimate contact form, and no urgent calls to action or suspicious external redirects found.]"
+  },
+  {
+    "id": "task--1267",
+    "web": "https://amazon.eg",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The website uses HTTPS with a padlock, has a legitimate domain (amazon.eg) with no misspellings, provides well-drafted privacy and terms of service documents, features high-quality branding and text, and exhibits standard e-commerce functionality without suspicious redirects or intrusive elements."
+  },
+  {
+    "id": "task--1251",
+    "web": "https://digikala.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114679",
+    "web": "http://escoladeimpressao3d.com.br/wp-content/plugins/wp-legal-cyberinteraction/index.php?r=bD1odHRwczovL2tzYndtay5jb20v",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--956",
+    "web": "https://python.org",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain uses HTTPS, the domain name \"python.org\" is legitimate and aligns with the brand, a clear and well-drafted privacy policy is present, external links redirect to expected domains, no intrusive pop-ups or urgent calls to action are found, logos and text are professional and high-quality, and forms for sensitive data (donations) serve a legitimate purpose."
+  },
+  {
+    "id": "task--9115299",
+    "web": "http://myhrportalhhscsttx.com",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115518",
+    "web": "http://trezor-io-learn-sso.webflow.io",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115074",
+    "web": "https://tinyurl.com/458m9vdk",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--547",
+    "web": "https://squarespace.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: Official and well-known domain name (squarespace.com), uses HTTPS, legitimate contact options, well-drafted privacy policy and terms, professional design and text content, expected link behavior, and legitimate purpose for sensitive data forms (login).]"
+  },
+  {
+    "id": "task--9115272",
+    "web": "https://trezor-wallet-review.gitbook.io/trezor-wallet-review-2024-is-trezor-safe",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--785",
+    "web": "https://capcut.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: Uses HTTPS; domain name `capcut.com` matches a well-known brand and uses a standard TLD; website design is professional with high-quality visual content and grammatically correct text; login forms have a legitimate purpose (account creation/access); no deceptive or urgent calls to action; no suspicious pop-ups observed. While initial contact info and legal documents were hard to find, they were present on the login page."
+  },
+  {
+    "id": "task--324",
+    "web": "https://alibaba.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115004",
+    "web": "https://docs.google.com/drawings/d/1xRt40wCYHc74frG9PthSPaMmPlzJFdiwm-RF1JROEJ0/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The page hosts a suspicious Netflix phishing email embedded as an image within a Google Docs drawing. A Google warning banner explicitly flags the file as suspicious, stating it may be used to obtain personal information. The content employs urgent and threatening language (\"subscription expired\", \"account will be canceled\") to coerce users into an \"Update Payment\" action. No legitimate contact info or privacy policy is available on the page.]"
+  },
+  {
+    "id": "task--9114087",
+    "web": "http://highfalutin-weak-memory.glitch.me/indek.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112600",
+    "web": "http://anke-busse.selfip.org/.28mai",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--1413",
+    "web": "https://redditmedia.com",
+    "predicted": 1,
+    "label": 0,
+    "raw_answer": "Answer; Phishing - [Justification: The domain `redditmedia.com` directly imitates the well-known brand `reddit.com`. While visually polished and containing a privacy policy, the deceptive domain name is a strong phishing indicator. The inability to fully assess external links due to persistent pop-ups, and the primary goal of harvesting user credentials via a legitimate-looking login form, further support this conclusion.]"
+  },
+  {
+    "id": "task--9115014",
+    "web": "https://docs.google.com/drawings/d/1pnOY6GFxBgUgsqiAO05cyP03uSkEyvcv-gjc5IFhs6E/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Hosted on docs.google.com (Google Drawings) impersonating Amazon; lacks legitimate contact info/policies; poor grammar/awkward phrasing in text; urgent calls to action creating pressure; visually basic and inconsistent with a genuine Amazon site."
+  },
+  {
+    "id": "task--9114366",
+    "web": "http://ceelegal.com",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name \"ceelegal.com\" is highly misleading, implying legal services while the website content is a simple game. The site uses insecure HTTP. Crucial legitimate website information (contact details, privacy policy) is completely inaccessible due to a persistent pop-up, indicating it is not a legitimate business site for its implied purpose."
+  },
+  {
+    "id": "task--1334",
+    "web": "https://turkiye.gov.tr",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - Justification: The domain uses HTTPS and the official `.gov.tr` TLD, has clear and legitimate contact information, provides a well-drafted privacy policy, features professional and well-integrated logos, contains grammatically correct and coherent text, lacks urgent calls to action or deceptive pop-ups, and its sensitive data form serves a legitimate authentication purpose for a government service. The overall appearance is professional and complete."
+  },
+  {
+    "id": "task--9114411",
+    "web": "https://groupage-pb.com/",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - The website is under maintenance and shows no content, links, or forms that could be used for phishing. It lacks all typical phishing indicators."
+  },
+  {
+    "id": "task--9114952",
+    "web": "https://melodic-vegetable-huge.on-fleek.app/indexsx.html/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--329",
+    "web": "https://dailymotion.com",
+    "predicted": 0,
+    "label": 0,
+    "raw_answer": "Answer; Legitimate - [Justification: The domain is a well-known platform, uses HTTPS, has professional branding and content (within visible areas), and shows no common phishing indicators like misspellings, urgent calls to action, or unprofessional design.]"
+  },
+  {
+    "id": "task--9114618",
+    "web": "https://uiysbadge.info/as.php",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Domain `uiysbadge.info` is unrelated to \"Le Monde\" brand. Most links and forms are non-functional, indicating a deceptive static site."
+  },
+  {
+    "id": "task--995",
+    "web": "https://statcounter.com",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115220",
+    "web": "http://tr.ee/Itsme-cardstop",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Uses a URL shortener (`tr.ee`), impersonates legitimate brands/services (`Itsme-cardstop`), lacks HTTPS, and shows \"Access Denied\" instead of legitimate content, indicating a deceptive intent."
+  },
+  {
+    "id": "task--1596",
+    "web": "https://xoso.com.vn",
+    "predicted": "unavailable",
+    "label": 0,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112605",
+    "web": "http://schweikart.is-by.us/.28mai/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113372",
+    "web": "https://reglement-somme.com/as.php",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115015",
+    "web": "https://docs.google.com/drawings/d/1DJUcwwYJ87XU9PL9efqM4KSRUD8yundIU8optOXb0FM/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The website is hosted on a Google Drawings domain (`docs.google.com`) but displays content imitating Amazon, creating a clear URL-brand mismatch. It lacks legitimate contact information or legal policies. The content uses urgent language to prompt action, and its basic presentation within a Google service is highly uncharacteristic of a legitimate Amazon security page.]"
+  },
+  {
+    "id": "task--9112908",
+    "web": "http://serghertuseygwaert.shop",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114696",
+    "web": "http://app-daviviendahn.glitch.me",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115187",
+    "web": "https://allegro.pl-oferta4166800.cfd",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115153",
+    "web": "https://idtsolutions.pe/amx/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115184",
+    "web": "https://allegro.pl-oferta8966500.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115040",
+    "web": "https://docs.google.com/drawings/d/1BHNCawACZFQfyUFifIgxfMKpe0XngJAHkO7TvyDmSpU/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: 1. **Misleading Domain:** The content (Amazon security page) is hosted on `docs.google.com`, a legitimate Google domain, which is entirely out of context for Amazon and indicates abuse of service. 2. **Lack of Legitimacy Indicators:** No legitimate Amazon contact information, privacy policy, or terms of service are present. 3. **Poor Content Quality:** The text contains grammatical errors, awkward phrasing, and unnecessary capitalization. 4. **Urgent Calls to"
+  },
+  {
+    "id": "task--9115151",
+    "web": "https://www.cpree.theworldismytivo.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115195",
+    "web": "https://locker-dispo.com/how/calcul",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112094",
+    "web": "http://allegrolokalnie.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Suspicious domain name imitating a known brand (allegrolokalnie.pl), uses HTTP instead of HTTPS, and the webpage is completely blank and non-functional, lacking any legitimate content, contact information, or policy documents."
+  },
+  {
+    "id": "task--9115055",
+    "web": "https://bddqkq.cn/k9h2F7",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115519",
+    "web": "https://trezor-io-learn-sso.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114199",
+    "web": "http://allegrolokalnie.pl-7.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113200",
+    "web": "https://olx-pl.fbamzks.cfd/payment/88c7a28c94f2/millennium",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112540",
+    "web": "https://ajar-boulder-globeflower.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114922",
+    "web": "https://allegro.pl-oferta2.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115185",
+    "web": "https://allegrolokalnie.oferta-501213234.sbs",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115039",
+    "web": "https://docs.google.com/drawings/d/1kl4bkoVzo4wTr0rAoRCd5mzqovAwHDkXSkPIO5Z5ecA/edit",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain is Google Drawings, not Amazon, despite displaying Amazon branding. The content is a static image lacking legitimate contact info, privacy policy, or functional links. The text contains grammatical errors and creates false urgency. The website appearance is extremely basic compared to a legitimate brand."
+  },
+  {
+    "id": "task--9114997",
+    "web": "https://sp409355.sitebeat.crazydomains.com/",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - Justification: The website uses HTTPS, the domain name (sp409355.sitebeat.crazydomains.com) is legitimate and associated with a known registrar (Crazy Domains) and its website builder service (Sitebeat). It features well-drafted privacy policy and terms of service that link to a legitimate parent company (Newfold Digital). External links lead to expected and legitimate domains (crazydomains.com, newfold.com). There are no malicious pop-ups, urgent calls to action, requests for sensitive data, or signs of poor grammar/design typically associated with phishing attempts. The website's \"under construction\" status is clearly stated and its appearance is consistent with this claim."
+  },
+  {
+    "id": "task--9114708",
+    "web": "http://jshdhuuros.surge.sh/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112102",
+    "web": "https://madison7.teachable.com/p/home",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `madison7.teachable.com` attempts to impersonate the legitimate Trezor brand, using a subdomain on a third-party platform (Teachable) not officially associated with Trezor. All interactive elements on the page were non-functional, preventing any legitimate navigation or interaction. The website also lacks essential legitimate features such as contact information, a privacy policy, and terms of service. These combined factors indicate a deceptive purpose, despite the presence of HTTPS and a professional visual design."
+  },
+  {
+    "id": "task--9115418",
+    "web": "https://melodious-low-leptoceratops.glitch.me/cbhdk.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115094",
+    "web": "https://httpss-www--roblox.com/users/13030352/profile",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Deceptive domain name (httpss-www--roblox.com imitating roblox.com with unusual prefixes), entirely blank and non-functional page, absence of legitimate content (contact info, privacy policy), poor quality/garbled text, and an unfinished appearance.]"
+  },
+  {
+    "id": "task--9113417",
+    "web": "https://facturationbadge-uiys.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115424",
+    "web": "http://allegro.pl-kategorie17327154123.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115135",
+    "web": "https://t.co/CTZZ8iq8oF",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114085",
+    "web": "https://dog-fifth-loan.glitch.me/public/gh00384.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114197",
+    "web": "http://allegrolokainie.pl-7.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115087",
+    "web": "https://t.co/UcqDNoTquW",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain name `cu17317.tw1.ru` is highly suspicious due to its random alphanumeric string and unusual subdomain structure, which is characteristic of domains used in phishing campaigns. The domain was also initially flagged as potentially unsafe by Twitter (X). Although the current content is a benign parked page, the domain structure itself is a strong indicator of potential malicious intent.]"
+  },
+  {
+    "id": "task--9115046",
+    "web": "https://cpanel.54-162-155-124.cprapid.com/?moelmabro",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112607",
+    "web": "http://volkankonak1.selfip.org/.28mai/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113409",
+    "web": "https://cpcontacts.165-154-254-94.cprapid.com/home?c_ds_na=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2Cimage%2Favif%2Cimage%2Fwebp%2Cimage%2Fapng%2C%2A%2F%2A%3Bq%3D0.8%2Capplication%2Fsigned-exchange%3Bv%3Db3%3Bq%3D0.7&c_ds_no=REj5Gds2KIzzl9wUERis6OXIzx8VedzjW7mIkS6cTu",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Suspicious domain name (`cpcontacts.165-154-254-94.cprapid.com` with IP and \"cprapid.com\"), deceptive external link behavior failing to redirect to legitimate Xfinity domains, and a credential-harvesting login form hosted on the suspicious domain."
+  },
+  {
+    "id": "task--9115056",
+    "web": "https://tinyurl.com/netfilixiss",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115224",
+    "web": "http://allegrolokalnie.id180137.shop",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name `allegrolokalnie.id180137.shop` imitates a legitimate brand (Allegro Lokalnie) with a suspicious, generic-looking subdomain (`id180137.shop`). The website uses HTTP instead of secure HTTPS. Most importantly, the webpage is completely blank and unfinished, lacking any legitimate content, contact information, privacy policies, or interactive elements, which is highly indicative of a non-functional or malicious site."
+  },
+  {
+    "id": "task--9115289",
+    "web": "https://treezoruyallet.gitbook.io/ru",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112539",
+    "web": "https://bouncy-almondine-cellar.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112526",
+    "web": "https://mellow-mature-sweatshirt.glitch.me/index%20(1).html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114872",
+    "web": "https://dsp4-free.com/pages/banks/lbp/index.php",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112141",
+    "web": "https://site-3ancsxizu.godaddysites.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The website exhibits several red flags: poor text quality/typo in a sensitive input field (\"Mot d pss*\"), an extremely basic and unfinished appearance for a site claiming to be an \"Instituto Superior Universitario\", a lack of specific contact information, and reliance on generic Google privacy policies instead of customized legal documentation. These elements, particularly the grammatical error in the login form, are strong indicators of a site potentially designed for credential harvesting rather than a legitimate service."
+  },
+  {
+    "id": "task--9115348",
+    "web": "https://declaracionrtbrf2025formulario.webnode.cr/contacto/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114947",
+    "web": "https://gtcarsindia.com/909/spazz/index.php",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Unrelated domain name (gtcarsindia.com) for an email login page; non-functional external links trapping users on the site; no legitimate contact information or privacy policy; poorly drafted text with grammatical errors; and a basic/unfinished website design inconsistent with a professional service."
+  },
+  {
+    "id": "task--9114229",
+    "web": "https://sites.google.com/view/koloti/home",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain is hosted on Google Sites but attempts to mimic GMX and then redirects to a WEB.DE login. It lacks legitimate contact info, privacy policies, professional design, and its primary purpose is to illicitly collect user credentials through deception.]"
+  },
+  {
+    "id": "task--9114305",
+    "web": "https://ln.run/t-l93",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - [Justification: The website functions as a URL shortener with proper internal navigation and legitimate social media redirects. The text content is grammatically correct. However, it raises red flags due to the lack of legitimate contact information, absence of a privacy policy, intrusive pop-up advertisements, and a generic domain name, which collectively point to a potentially untrustworthy or low-quality service rather than a direct phishing attempt.]"
+  },
+  {
+    "id": "task--9114986",
+    "web": "https://pub-ed16f0c3f15244cbb23f680a30e2c957.r2.dev/cap1ent.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114165",
+    "web": "https://sec4sbimyjapan.com/sbi",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9113508",
+    "web": "https://ulys-france.com/as.php",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112227",
+    "web": "http://site4-sbisec.4oece.com/sbi/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114995",
+    "web": "https://oauth-managrxfintylionlinewebs.work.gd/security-check/signin?secure=fms_33185",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115152",
+    "web": "http://idtsolutions.pe",
+    "predicted": 0,
+    "label": 1,
+    "raw_answer": "Answer; Legitimate - [Justification: The website explicitly states \"under construction\" and does not exhibit common phishing characteristics such as brand imitation, unexpected redirects, urgent calls to action, suspicious pop-ups, or illicit data collection. Any forms encountered (login) served a legitimate purpose. The only major security concern is the use of HTTP, not HTTPS.]"
+  },
+  {
+    "id": "task--9112108",
+    "web": "http://allegro.pl-oferta7983724.shop",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Mimicking a known brand (allegro.pl) in the domain name with a misleading structure; Using HTTP instead of HTTPS; Website consistently appears blank and unfinished, lacking any legitimate content, contact info, or privacy policy; Browser issued a security warning identifying the site as potentially fake.]"
+  },
+  {
+    "id": "task--9113209",
+    "web": "https://inpost-pl.fhaznwls.cfd/payment/88c7a28c94f2/millennium",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115058",
+    "web": "https://tinyurl.com/shppment",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115352",
+    "web": "https://gestion-colis.com/as.php",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112522",
+    "web": "https://c0mmand-0rthp-g1ady.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9115419",
+    "web": "https://secure-coinbasepro-web-auth.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9112603",
+    "web": "http://sarahstucky86.selfip.org/.28mai/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9114959",
+    "web": "https://webixybootcamp.com/owa/1index.html",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Domain `webixybootcamp.com/owa/` mimics Outlook Web Access, generic logo instead of brand, no legitimate contact/privacy policy, non-functional \"Forgot Password?\" link, and suspicious \"Copyright 2025\" date."
+  },
+  {
+    "id": "task--9114202",
+    "web": "http://allegrolokalne.pl-7.icu",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9128230",
+    "web": "http://influencershub-ml.ct.ws/sc/em?fbclid=PAQ0xDSwKxm71leHRuA2FlbQIxMAABpxjzmRY50eJNKHxks8zSxrI-Is9GnFnyyqr0nS1OwsSuDLVqn0AAGQs9AoDB_aem_Tc6N0IfzNoELOlp9OnUuwA&i=1",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9128758",
+    "web": "https://auth-m-start---ledgar---web.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Misspelled brand name \"ledgar\" in the domain (typosquatting), hosted on a generic `webflow.io` subdomain instead of the official `ledger.com`, despite a polished and professional website appearance.]"
+  },
+  {
+    "id": "task--9123409",
+    "web": "http://inl.cioud.axnvz.cn/mim/106k16722u7o1b50bo2x574t61w8u11hq6ek464k151111293m.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9120016",
+    "web": "https://secure-ai-ledger-auth.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: 1. Highly suspicious domain name (`secure-ai-ledger-auth.webflow.io/`) imitating \"Ledger\" (official `ledger.com`) by using `webflow.io` and misleading subdomains. 2. Absence of legitimate contact information. 3. Lack of privacy policy or terms of service documents. 4. Non-functional links, preventing verification of redirects."
+  },
+  {
+    "id": "task--9127724",
+    "web": "https://boatneck-shining-garment.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9121384",
+    "web": "https://webmail09978y3yt4u655.weebly.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9122706",
+    "web": "http://blockhchaiinlogin-usa.godaddysites.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain contains a misspelling of a well-known brand (\"blockhchaiin\" instead of \"blockchain\"), is hosted on a generic site builder domain (`godaddysites.com`), uses HTTP instead of secure HTTPS, and lacks legitimate contact information or a privacy policy/terms of service. It features a form to collect sensitive data (email) under these deceptive circumstances."
+  },
+  {
+    "id": "task--9121270",
+    "web": "https://www.apple.xusay.cn/mim/4248e08331p43604khx2nl2o6ybet21mw9o024995l60ddq551.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9123204",
+    "web": "https://faq-en-cdn-trezoer.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Misspelled brand name \"trezoer\" in the URL imitating \"Trezor\".]"
+  },
+  {
+    "id": "task--9128620",
+    "web": "https://inl.cioud.axnvz.cn/mim/r55ak282v122o317k02w73642pi401yo706t728554y7xah5kg.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9122432",
+    "web": "https://icloud.find.axnvz.cn/mim/m4f70lbu8647002l9v4304716e092ua877919028bdo3bc9uv9.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124342",
+    "web": "https://saharacustoms.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9121145",
+    "web": "https://contravation-amende.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name \"contravation-amende.com\" is deceptive and misleading, suggesting a relation to traffic tickets or fines, which is completely inconsistent with the legitimate news content from Mediapart displayed on the page. This domain-content mismatch is a classic phishing tactic designed to lure unsuspecting users."
+  },
+  {
+    "id": "task--9125282",
+    "web": "https://2drthsr.pages.dev/gp/customer-reviews/R1DG4WGD7NIPF1/ref=cm_cr_dp_d_rvw_ttl",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124829",
+    "web": "https://claim-daget-2025.dftr1.cfd/kaget=s6j7sxzeazg&r=iVlQUs",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain `claim-daget-2025.dftr1.cfd` is a clear imitation of the DANA brand using an unusual TLD and a misleading subdomain. It collects sensitive data (phone number) on this illegitimate domain. No legitimate contact information or clickable legal documents were found. The site's content is overly basic for a genuine promotional page.]"
+  },
+  {
+    "id": "task--9125622",
+    "web": "http://www.pb3655.net/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124375",
+    "web": "https://tokcenpcket.pro/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9121165",
+    "web": "https://cn.202manx.com/home/register/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9126625",
+    "web": "https://currently1980.weebly.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9126951",
+    "web": "https://icloud.find.axnvz.cn/mim/4248e08331p43604khx2nl2o6ybet21mw9o024995l60ddq551.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9127958",
+    "web": "http://xn--im-1z5cr40w.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Deceptive Punycode domain name (homograph attack imitating imToken), uses HTTP instead of HTTPS, no legitimate contact information and broken policy links, and includes a highly suspicious instruction to ignore security warnings and disconnect network for installation."
+  },
+  {
+    "id": "task--9123556",
+    "web": "https://www.venzeeofficial.id/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Impersonation of Shopee brand via redirection and logos, illegitimate request for login credentials on a fake Shopee page, suspicious domain name (\"venzeeofficial.id\" including \"official\"), absence of legitimate contact information or privacy policy, and a somewhat basic/unfinished website appearance despite claims of being \"official\"."
+  },
+  {
+    "id": "task--9124899",
+    "web": "https://shorturl.at/6EsQs",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9121853",
+    "web": "http://icloud.com.xusay.cn/mim/m4f70lbu8647002l9v4304716e092ua877919028bdo3bc9uv9.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9123806",
+    "web": "http://apple.com.xusay.cn/mim/5lbkwq0d9ijz245z3u83qh091287d160451e9yb1j04d0s0149.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124335",
+    "web": "http://shade-equatorial-switch.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9121319",
+    "web": "https://official-ledgr-us.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name `official-ledgr-us.webflow.io/` contains a misspelling (\"ledgr\" instead of \"ledger\") and is hosted on a third-party platform's subdomain (`.webflow.io`), which are strong indicators of an attempt to imitate a legitimate brand."
+  },
+  {
+    "id": "task--9121291",
+    "web": "http://validation-aqui.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124705",
+    "web": "http://downloadfullfill.com/locatefile/the_strongest_battlegrounds_script/18040/0/windows_10%7Cyandex_browser/ji.basesfiles.com/empty/4?t=download_v5&rr=37495719&c2=otc0mtq5mje=",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Lacks legitimate contact information, privacy policy/terms of service. Uses HTTP. Domain name (downloadfullfill.com) is generic and misspelled. Website is extremely basic and appears unfinished. The primary download button did not lead to expected action or redirection."
+  },
+  {
+    "id": "task--9122984",
+    "web": "https://wellita--ledgre-live.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129878",
+    "web": "https://www.appeal-issue-violation-review-terms-page.vercel.app/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9127407",
+    "web": "http://meetamasiik-l0gin-o1.godaddysites.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain name (meetamasiik-l0gin-o1.godaddysites.com) is a clear misspelling and imitation of MetaMask, hosted on a generic GoDaddy platform. The website uses HTTP instead of secure HTTPS. There is no legitimate contact information or privacy policy/terms of service. The site lacks comprehensive content and functionality expected from a legitimate platform, and attempts to navigate led to blank pages."
+  },
+  {
+    "id": "task--9126813",
+    "web": "https://www.discordp.com/discord-download/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Imitation domain name (discordp.com vs discord.com), absence of clear legitimate contact information and privacy policy, and presence of grammatical errors/incomplete sentences in the text content."
+  },
+  {
+    "id": "task--9121899",
+    "web": "https://skyupgrade2020.weebly.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124975",
+    "web": "https://kuceeriqinlgen.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Suspicious domain name (`kuceeriqinlgen.webflow.io`) which does not belong to KuCoin, complete absence of legitimate contact information and crucial legal documents (privacy policy, terms of service), significant grammatical errors and a corrupted character (\"LO�G In\") in the webpage content, and non-functional internal links, all consistently pointing to a deceptive site designed to mimic a legitimate service.]"
+  },
+  {
+    "id": "task--9124617",
+    "web": "https://3nh2j.wishshopko.top/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: Suspicious domain name (`3nh2j.wishshopko.top` with random subdomain and `.top` TLD), absence of legitimate contact information, lack of privacy policy or terms of service, out-of-context brand logos (Binance copyright and cryptocurrency logos), grammatical errors in displayed text (\"All Right Reserved\"), and an extremely basic/unfinished website appearance primarily featuring a QR code for wallet connection, suggesting an attempt to illicitly gain access to cryptocurrency assets."
+  },
+  {
+    "id": "task--9121414",
+    "web": "https://help-cdn-ledger.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9128664",
+    "web": "http://aliciamonnin.shop/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129312",
+    "web": "http://www.icloud.xusay.cn/mim/6051t16d05e8az29e604mwi2408ysx1t8s5oz5s20q44862o30.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9125046",
+    "web": "https://www.nguocho1234.site/sp3",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129546",
+    "web": "https://www.icloud.xusay.cn/mim/65hbv3282yj86f6cw53002ipw769544318294s17gf1w3578b2.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9122332",
+    "web": "https://netflix-areaclientes.com/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The initial domain `netflix-areaclientes.com` falsely impersonates Netflix, and its immediate redirection to an unrelated, legitimate news website (`mediapart.fr`) is a clear indication of a phishing attempt from the original suspicious domain."
+  },
+  {
+    "id": "task--9120870",
+    "web": "https://dcm9x.wishshopko.top/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Highly suspicious domain name (`dcm9x.wishshopko.top`) not matching any legitimate brand; complete lack of legitimate contact information and legal documents; persistent failure of the webpage to render any content, indicating a non-functional or deceptive site.]"
+  },
+  {
+    "id": "task--9126584",
+    "web": "http://inl.cioud.axnvz.cn/mim/d42l12747c2g3j5549g2whg5z0048453892274u3956p5ih979.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9125450",
+    "web": "https://punchbowlinvitation.vercel.app/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The website displays a persistent \"Verify Your Identity\" pop-up that blocks content and explicitly asks for \"professional email credentials\" to access a document, which is a classic credential harvesting tactic. The domain `vercel.app` is a free hosting service often abused by phishers, and the site impersonates well-known brands (Microsoft/OneDrive) out of context. No legitimate contact information or privacy policies are accessible. The site's primary function is to present a deceptive login form, making it functionally incomplete as a document viewer.]"
+  },
+  {
+    "id": "task--9122097",
+    "web": "http://find.apple.axnvz.cn/mim/7tno338s4m597487i57052978mw8f6lx34h4idee7893x002qy.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9120802",
+    "web": "https://whas-whatsapp.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9123025",
+    "web": "https://www.apple.xusay.cn/mim/7tno338s4m597487i57052978mw8f6lx34h4idee7893x002qy.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9127606",
+    "web": "https://9qyku.wishshopko.top/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: Highly suspicious domain name (random subdomain, unusual TLD .top), complete lack of functional content (blank page), and out-of-context copyright notice for a well-known brand (Binance).]"
+  },
+  {
+    "id": "task--9128926",
+    "web": "https://helps-content-ledggr.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain `helps-content-ledggr.webflow.io/` is a clear misspelling (`ledggr`) of the legitimate \"Ledger\" brand, indicating brand impersonation. It is hosted on a generic platform (`webflow.io`) instead of the official `ledger.com`. While the website itself appears professionally designed with good quality text and graphics, and lacks overt phishing signs like urgent calls to action or pop-ups, the deceptive domain name is the critical indicator of a phishing attempt.]"
+  },
+  {
+    "id": "task--9129223",
+    "web": "https://my-sso-itrustcapital--com-cdn-s-aut.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain name `my-sso-itrustcapital--com-cdn-s-aut.webflow.io` is highly suspicious and clearly mimics the legitimate `itrustcapital.com` using a complex subdomain on `webflow.io`. This is a strong indicator of impersonation for phishing purposes. No clear contact information was found.]"
+  },
+  {
+    "id": "task--9125665",
+    "web": "http://trexurewlltea.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9123597",
+    "web": "http://bishalnandi.github.io/Facebook-login-page-clone",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - Justification: The domain `bishalnandi.github.io` is not Facebook's official domain and is explicitly named a \"login-page-clone\". The password input field contains a clear misspelling (\"Passsword\"). Crucial links like \"Forgot Password\" lead to a 404 error, indicating broken functionality. These are strong indicators of a deceptive site attempting to steal credentials."
+  },
+  {
+    "id": "task--9122178",
+    "web": "https://starte-ledgerdocs.webflow.io/",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain name `starte-ledgerdocs.webflow.io/` is highly suspicious due to the misspelling \"starte\" and its attempt to mimic \"Ledger\" documentation on a third-party platform's subdomain. This is a common phishing tactic despite the website's professional appearance, good grammar, and use of HTTPS.]"
+  },
+  {
+    "id": "task--9122856",
+    "web": "http://docs-i--o-trezer-cdn.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129311",
+    "web": "https://beautycareid.com/m/user/assets",
+    "predicted": 1,
+    "label": 1,
+    "raw_answer": "Answer; Phishing - [Justification: The domain `beautycareid.com` is unrelated to Shopee, yet the website is a highly convincing imitation of a Shopee login page, complete with a form asking for sensitive credentials (WhatsApp number and password). This is a classic characteristic of a phishing site designed to steal user information by impersonating a legitimate brand.]"
+  },
+  {
+    "id": "task--9128671",
+    "web": "https://handsomely-peat-sign.glitch.me/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129088",
+    "web": "https://icloud.find.axnvz.cn/mim/3916q33q6051104f2uc7rs8906a13394w8628776075h5b8186.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9120018",
+    "web": "https://auth-cdn-start-app-m-ledgr.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9127863",
+    "web": "https://apple.com.xusay.cn/mim/79q59t369l3w32e1496614043z8832nqi1b20az8w31u3s158j.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9128292",
+    "web": "http://decentalized.netlify.app/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9126549",
+    "web": "http://official--trezsoriostart.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9129560",
+    "web": "https://app-dgerlivecr.webflow.io/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9120352",
+    "web": "https://seeivess.weebly.com/",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9124667",
+    "web": "https://www.icloud.xusay.cn/mim/d42l12747c2g3j5549g2whg5z0048453892274u3956p5ih979.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9125742",
+    "web": "https://stecmcommnumnlty.cc/gd299898sef9898329898982424240924",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  },
+  {
+    "id": "task--9122966",
+    "web": "https://apple.com.xusay.cn/mim/056x99dt529ubl26132bt529h3ng638877660x13a31419y09g.html",
+    "predicted": "unavailable",
+    "label": 1,
+    "raw_answer": null
+  }
+]
