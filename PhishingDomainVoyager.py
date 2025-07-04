@@ -487,7 +487,7 @@ class PhishingDomainVoyager():
         os.makedirs(result_dir, exist_ok=True)
 
         #If the execution has stopped we load the previous results
-        partial_results_path = os.path.join(self.output_dir, f"multimodal_results_{self.api_model}.json")
+        partial_results_path = os.path.join(self.output_dir, f"results_{self.api_model}.json")
 
         #Result lists for the metrics' calcualtion
         results = []

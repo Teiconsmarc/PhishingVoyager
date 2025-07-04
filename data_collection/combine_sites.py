@@ -3,7 +3,7 @@ import random
 
 benign_path = 'benign_sites.json'
 phishing_path = 'phishing_sites.json'
-output_path = 'combined_sites.jsonl'
+output_path = 'combined_sites_counts.jsonl'
 
 
 def load_benign_sites(path, max_sites=500):

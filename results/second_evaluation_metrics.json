@@ -1,0 +1,45 @@
+{
+  "confusion_matrix": {
+    "labels": [
+      "phishing",
+      "legitimate"
+    ],
+    "matrix": [
+      [
+        95,
+        17
+      ],
+      [
+        1,
+        81
+      ]
+    ]
+  },
+  "metrics": {
+    "phishing": {
+      "precision": 0.9895833333333334,
+      "recall": 0.8482142857142857,
+      "f1-score": 0.9134615384615384,
+      "support": 112.0
+    },
+    "legitimate": {
+      "precision": 0.826530612244898,
+      "recall": 0.9878048780487805,
+      "f1-score": 0.9,
+      "support": 82.0
+    },
+    "accuracy": 0.9072164948453608,
+    "macro avg": {
+      "precision": 0.9080569727891157,
+      "recall": 0.918009581881533,
+      "f1-score": 0.9067307692307692,
+      "support": 194.0
+    },
+    "weighted avg": {
+      "precision": 0.9206641419454381,
+      "recall": 0.9072164948453608,
+      "f1-score": 0.9077716098334655,
+      "support": 194.0
+    }
+  }
+}

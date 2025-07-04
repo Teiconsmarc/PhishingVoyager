@@ -72,7 +72,7 @@ def check_page_availability(task):
 
     #First we check the HTTP requests (HTTP < 400)
     try:
-        response = requests.get(url, timeout=30)
+        response = requests.get(url, timeout=50)
         if response.status_code >= 400:
             raise RequestException(f"HTTP error: {response.status_code}")
 
