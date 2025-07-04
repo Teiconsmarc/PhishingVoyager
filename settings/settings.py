@@ -1,7 +1,7 @@
 # settings.py - Settings file that PhishingDomainVoyager will use for execution
 
 #Data I/O parameters
-TEST_FILE = "data_collection/combined_sites.json"  # parser.add_argument('--test_file', type=str, default='data/task_test.jsonl')
+TEST_FILE = "data_collection/multimodel_legitimate_data.jsonl"  # parser.add_argument('--test_file', type=str, default='data/task_test.jsonl')
 OUTPUT_DIR = "results"                # parser.add_argument("--output_dir", type=str, default='results')
 DOWNLOAD_DIR = "downloads"            # parser.add_argument("--download_dir", type=str, default="downloads")
 
@@ -13,7 +13,7 @@ TEXT_ONLY = False                     # parser.add_argument("--text_only", defau
 
 #Local execution parameters
 PROVIDER = "gemini"                   # parser.add_argument("--provider", type=str) # default="ollama", No default at the moment
-MODEL = "gemini-2.5-flash-preview-04-17"                              #"gemini-2.0-flash"                 # parser.add_argument("--api_model", default="llama3.2", type=str, help="api model name")
+MODEL = "gemini-2.5-flash"            # parser.add_argument("--api_model", default="llama3.2", type=str, help="api model name")
 METHOD = "CHAT"                       # parser.add_argument("--method", type=str, choices=["CHAT", "GENERATE"], default="CHAT")
 
 #Web browser parameters

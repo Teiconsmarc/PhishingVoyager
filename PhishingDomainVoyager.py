@@ -55,7 +55,7 @@ class PhishingDomainVoyager():
         self.provider = settings.PROVIDER
         self.api_model = settings.MODEL
         self.method = settings.METHOD
-        self.GEMINI_API_KEY = "AIzaSyBD2eDg7tT9hTOEz0guBRisrvMjgHozEXY"
+        self.GEMINI_API_KEY = "YOUR-API-KEY"
 
         #Web browser parameters
         self.headless = settings.HEADLESS
@@ -487,7 +487,7 @@ class PhishingDomainVoyager():
         os.makedirs(result_dir, exist_ok=True)
 
         #If the execution has stopped we load the previous results
-        partial_results_path = os.path.join(self.output_dir, f"partial_results_{self.api_model}.json")
+        partial_results_path = os.path.join(self.output_dir, f"multimodal_results_{self.api_model}.json")
 
         #Result lists for the metrics' calcualtion
         results = []
@@ -772,10 +772,6 @@ class PhishingDomainVoyager():
                         driver_task.back()
                         time.sleep(2)
 
-                    elif action_key == 'google':
-                        driver_task.get('https://www.google.com/')
-                        time.sleep(2)
-
                     #También he cambiado la acción de answer para que esta también se utilice como contestación a las preguntas. Cada vez que el LLM utilice el answer se incrementara en 1 el número de iteraciones que han pasado
                     elif action_key == 'answer':
                         logging.info(info['content'])
@@ -836,24 +832,6 @@ class PhishingDomainVoyager():
                 + "\n    Method:     " + self.method
             )
         driver_task.quit()
-        if results:
-            y_true = [r["label"] for r in results]
-            y_pred = [r["predicted"] for r in results]
-
-            logging.info("=== Model performance ===")
-            report = classification_report(y_true, y_pred, labels=[0,1], target_names=["benign", "phishing"], zero_division=0)
-            logging.info("\n" + report)
-
-            matrix = confusion_matrix(y_true, y_pred, labels=[0,1])
-            logging.info("Confusion matrix:")
-            logging.info(matrix)
-            with open(os.path.join(result_dir, f"confusion_matrix_{self.api_model}.json"), "w") as f:
-                json.dump(matrix.tolist(), f, indent=2)
-
-            df = pd.DataFrame(results)
-            df.to_csv(os.path.join(result_dir, f"results_{self.api_model}_{self.provider}.csv"), index=False)
-            logging.warning("No metrics available")
-
         return
         
 
